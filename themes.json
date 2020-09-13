@@ -1,0 +1,146 @@
+{
+  "AlternativeSparklines": {
+    "sha256": "f342a2f4cc08803eb8410bd99ea570b2448d1f7cd82bb241d4edccf511ae30b3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AlternativeSparklines/download/0.1.2",
+    "version": "0.1.2",
+    "description": "a minimalistic alternative to the default sparkline style",
+    "homepage": "https://lw1.at",
+    "license": "GPL v3+",
+    "displayName": "Alternative Sparklines"
+  },
+  "Blurange": {
+    "sha256": "742728211127102bc5c78e657f166453d14d0f05692200947955c41777d5f409",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Blurange/download/0.1.1",
+    "version": "0.1.1",
+    "description": "A new blue theme for Matomo.",
+    "homepage": "",
+    "license": "GPL v3+",
+    "displayName": "Blurange"
+  },
+  "ClassicFontTheme": {
+    "sha256": "e95f5ea18067f4302ef31b31f58296aae8756d751e9490cb5f758f4e0d6656c4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicFontTheme/download/0.1.0",
+    "version": "0.1.0",
+    "description": "Matomo (Piwik) Platform showcase: example of how to create a simple Theme.",
+    "homepage": "https://piwik.org",
+    "license": "GPL v3+",
+    "displayName": "Classic Font Theme"
+  },
+  "ClassicTheme": {
+    "sha256": "093e8ab2eb535267f57bf58dc095bb56fdfb09c21d13ae9326b4a039b3816568",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicTheme/download/0.1.0",
+    "version": "0.1.0",
+    "description": "You don't like bright colors? Then this theme brings back the old style of Matomo 3.6.0",
+    "homepage": "https://lw1.at",
+    "license": "GPL v3+",
+    "displayName": "Classic Theme"
+  },
+  "CoffeeCup": {
+    "sha256": "44875bc9f658efdf92572aee7c13391b8de238da52b9f9f85af1a1b7345c0cb4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CoffeeCup/download/0.1.3",
+    "version": "0.1.3",
+    "description": "A shoothing background for those who missed their first cup of the day.",
+    "homepage": "https://github.com/RobotHoboDanceParty/piwik-coffee-cup-theme",
+    "license": "GPL v3+",
+    "displayName": "Coffee Cup"
+  },
+  "DarkTheme": {
+    "sha256": "0e114ffde02e76c822b95e0102b594940f24ed713c193ca80ba2b942e66f4a9f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/1.0.1",
+    "version": "1.0.1",
+    "description": "A modern dark theme for Matomo",
+    "homepage": "https://lazuli.agency",
+    "license": "GPL v3+",
+    "displayName": "Dark Theme"
+  },
+  "Darkness": {
+    "sha256": "6797aa9823e85cdbae7cb45777b0a0c2cc41817b4a25db8dbf6bcb3f021847f5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Darkness/download/0.1.4",
+    "version": "0.1.4",
+    "description": "A dark theme for piwik",
+    "homepage": "https://github.com/TheCrowsJoker/DarknessPiwikTheme",
+    "license": "GPLv3",
+    "displayName": "Darkness"
+  },
+  "GCtoolsTheme": {
+    "sha256": "1dcd9df8159799a48a145c63c65b90eb42357b429603de4580e83b01ceb01c3a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GCtoolsTheme/download/0.1.0",
+    "version": "0.1.0",
+    "description": "Matomo Platform showcase: example of how to create a simple Theme.",
+    "homepage": "",
+    "license": "GPL v3+",
+    "displayName": "GCtoolsTheme"
+  },
+  "GoogleTheme": {
+    "sha256": "3fa61a69bba6a014643604f86ff1f2d00d736793a9654f8dfb4ffb62a1f63b48",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/1.0.5",
+    "version": "1.0.5",
+    "description": "A sublime Google Analytics theme for Matomo",
+    "homepage": "https://lazuli.agency",
+    "license": "GPL v3+",
+    "displayName": "Google Theme"
+  },
+  "MB": {
+    "sha256": "a640a9de1dbd30bcaa24eb2ff3e2073fd39b256c487d195978106c624c47b824",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MB/download/0.1.1",
+    "version": "0.1.1",
+    "description": "MeilleursBiens Matomo theme",
+    "homepage": "https://meilleursbiens.pro",
+    "license": "GPL v3+",
+    "displayName": "MB"
+  },
+  "ModernBlue": {
+    "sha256": "5b6c619239b2570e7ab857e4a9eeaf25388e0b2ca72d533c4914844f7675479a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ModernBlue/download/0.1.0",
+    "version": "0.1.0",
+    "description": "Modern Blue theme for Matomo (Piwik).",
+    "homepage": "",
+    "license": "GPL v3+",
+    "displayName": "Modern Blue"
+  },
+  "ModernGreen": {
+    "sha256": "15b40b250133795ef144262296aee487eaaa86984cac3625376381dede0d13b8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ModernGreen/download/0.1.0",
+    "version": "0.1.0",
+    "description": "Modern Green theme for Matomo (Piwik).",
+    "homepage": "",
+    "license": "GPL v3+",
+    "displayName": "Modern Green"
+  },
+  "MyCrypto": {
+    "sha256": "cdc7ea78013ff3d7e40747f8e74c0b4fd70060063e54e31bf4d24463cf0e00a2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MyCrypto/download/0.1.3",
+    "version": "0.1.3",
+    "description": "A MyCrypto theme for Matomo!",
+    "homepage": "https://github.com/MrLuit/Theme-MyCrypto",
+    "license": "MIT",
+    "displayName": "My Crypto"
+  },
+  "Proteus_Bold": {
+    "sha256": "11253ad948ed882d81655ccc3bc25e4b7198e1074e2b99c411444fa67c7e7475",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Proteus_Bold/download/0.1.4",
+    "version": "0.1.4",
+    "description": "The Proteus_Bold theme uses bold font that is easy-to-read with colors like that of the sea.",
+    "homepage": "https://github.com/ldidsbury/Proteus_Bold-PiwikTheme",
+    "license": "GPLv3+",
+    "displayName": "Proteus_ Bold"
+  },
+  "Terrano": {
+    "sha256": "66863d12c2e8b923a7a69d6d049858698b8274cf481ce7a8021bc3630a8107f3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Terrano/download/1.4.0",
+    "version": "1.4.0",
+    "description": "A neutral and natural theme made during the Catalyst Project Week.",
+    "homepage": "https://github.com/nstallinger/piwik_theme_terrano",
+    "license": "GPLv3",
+    "displayName": "Terrano"
+  },
+  "Vale": {
+    "sha256": "64063047d1b31872e26f150a3175bae8e79616d30e52bce215ae5de02ad4dc3f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Vale/download/0.1.3",
+    "version": "0.1.3",
+    "description": "A muted red, white, and blue theme",
+    "homepage": "https://github.com/ashleighpearson/apcustomthemes",
+    "license": "GPLv3",
+    "displayName": "Vale"
+  }
+}
