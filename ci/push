@@ -1,24 +1,8 @@
 #!/usr/bin/env nix-shell
-#!nix-shell -i bash
+#!nix-shell -i bash -p git
 set -e
 set -u
 set -o pipefail
-
-NIX_VERSION=$(nix --version|cut -d ' ' -f 3|cut -c -3)
-case "$NIX_VERSION" in
-	"3.0")
-		nixFlags="--option experimental-features nix-command eval --raw --impure --expr"
-	;;
-	"2.4")
-		nixFlags="--option experimental-features nix-command eval --raw --impure --expr"
-	;;
-	*)
-		nixFlags="eval --raw"
-	;;
-esac
-export MATOMO_VERSION=$(nix $nixFlags '(import /nix/var/nix/profiles/per-user/root/channels/nixpkgs {}).matomo.version')
-export COMMIT_LOG=1
-go run .
 
 # What do we need to commit?
 porcelain="$(git status --porcelain)"
@@ -58,9 +42,6 @@ for category in "${toCommit[@]}"; do
 	details="${details}"$'\n'$'\n'"${category^}:"
 	details="${details}"$'\n'"$(sort -u < "${category}.log")"
 done
-
-# Check if some relevant plugins still build, before committing
-nix build -L --no-link --option builders "" -f test.nix
 
 # Commit and push
 git add *.json
