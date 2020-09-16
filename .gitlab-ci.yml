@@ -19,8 +19,6 @@ build:
 
 run:
   stage: run
-  only:
-    - schedules
   artifacts:
     paths:
       - ./*.log
@@ -36,7 +34,5 @@ test:
 
 push:
   stage: push
-  only:
-    - schedules
   script:
     - ./ci/push
