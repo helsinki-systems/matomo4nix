@@ -414,9 +414,9 @@
     "displayName": "IPReports"
   },
   "IPtoCompany": {
-    "sha256": "e1fa3aeafade2bc04410c3be56d2a802260de696288d5c628069840b2fbd640f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IPtoCompany/download/0.4.5",
-    "version": "0.4.5",
+    "sha256": "4ee5069424b34e624a14bbd8af54d0713bd52ff5846c6013bc696afeb63b1659",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IPtoCompany/download/0.2.8",
+    "version": "0.2.8",
     "description": "Get the name of the companies that visit your website.",
     "homepage": "https://github.com/Romain/Matomo-IP-to-Company",
     "license": "GPL v3+",
