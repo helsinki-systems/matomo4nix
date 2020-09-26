@@ -963,9 +963,9 @@
     "displayName": "Top Pages By Actions"
   },
   "TrackerJsCdnSync": {
-    "sha256": "606c75225c9b27421eb0293949d4cc19b785b0890b0bf6126c0772c1cdc7f8aa",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerJsCdnSync/download/0.0.7",
-    "version": "0.0.7",
+    "sha256": "e2b6639bb1c35510855d9a415782d660c63f52c8b89b27876c9cd9cc0c6ca57d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerJsCdnSync/download/0.0.8",
+    "version": "0.0.8",
     "description": "Sync your tracker javascript files to CDN",
     "homepage": "https://github.com/SARAVANA1501/plugin-TrackerJsCdnSync",
     "license": "MIT",
