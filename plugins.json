@@ -432,9 +432,9 @@
     "displayName": "IPv6 Usage"
   },
   "IceCastStatistics": {
-    "sha256": "7138f8f849b96341cc6597e634674a29f37e7e0b6bd6558f731de0d7240a4cda",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IceCastStatistics/download/1.0.11",
-    "version": "1.0.11",
+    "sha256": "fa7426ddecfc9c3a2e3f1af37f3322a01c65433965d085555f3cfc3dfe77bfc0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IceCastStatistics/download/1.0.17",
+    "version": "1.0.17",
     "description": "Live Plugin to show various informations about your IceCast Server",
     "homepage": "",
     "license": "GPL v3+",
