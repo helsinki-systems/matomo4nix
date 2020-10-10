@@ -189,9 +189,9 @@
     "displayName": "Custom Translations"
   },
   "CustomiseTranslations": {
-    "sha256": "ccd6c890f80f2c2b24f4f5f4be80d5d4265cad5f5c0752c6c4247df181288982",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomiseTranslations/download/0.1.2",
-    "version": "0.1.2",
+    "sha256": "ac75b888468931798765ffa6d77c05129e24f82491b615037d51e90b27ba39da",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomiseTranslations/download/0.2.0",
+    "version": "0.2.0",
     "description": "This plugin allows you to modify all translateable strings in Matomo",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
