@@ -783,9 +783,9 @@
     "displayName": "Rer Intranet Subnetwork"
   },
   "RerUserDates": {
-    "sha256": "660e65299b181ec5ededf9698ce1cc5e504dadca2ddb2e459df8178b0595330b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RerUserDates/download/2.0.3",
-    "version": "2.0.3",
+    "sha256": "f32130ef9b0cf9014e90b26c70cc951e254c570b95dbed5f68310fb211ca7ee5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RerUserDates/download/2.0.4",
+    "version": "2.0.4",
     "description": "Hide custom date range selection from calendar, avoid users to set ranges in their default profile",
     "homepage": "https://RegioneER.github.io/projects/",
     "license": "GPL v3+",
