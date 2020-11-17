@@ -576,18 +576,18 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "7e4a991f67d78d9836ee6d5f8750f482b5801fa053d96798c3faf3bf52f23180",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/4.0.8",
-    "version": "4.0.8",
+    "sha256": "336c87957b8efbe273226da8e837c6db4861a4b701aa3fbbde038c12417555c8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/4.0.9",
+    "version": "4.0.9",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
     "displayName": "Login Ldap"
   },
   "LoginOIDC": {
-    "sha256": "651843e4b6b0a97388377787a0db8b4462db5fdb32491afc34f2b4e5ed5cd8b7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginOIDC/download/0.1.5",
-    "version": "0.1.5",
+    "sha256": "56017db5d95c0f038fd044b2302698644286540aaf986163d40f1d3dc41b840e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginOIDC/download/3.0.0",
+    "version": "3.0.0",
     "description": "Adds support for integrating external authentication services",
     "homepage": "https://github.com/dominik-th/matomo-plugin-LoginOIDC",
     "license": "GPL v3+",
