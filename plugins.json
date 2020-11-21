@@ -288,9 +288,9 @@
     "displayName": "Exposure Research Tools"
   },
   "ExtraTools": {
-    "sha256": "e127d45dd1bccb719e2db1e389517b30de84ac4c198a44f4569265ebf9a5579a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/0.1.0-beta13",
-    "version": "0.1.0-beta13",
+    "sha256": "a7b820c7b6c964ab75b0b93344d8e9752dca6fda26e5c16b50583c0759e325ba",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/3.1.0-beta13",
+    "version": "3.1.0-beta13",
     "description": "Adds automatic installation from the console, db backups, creation of new sites etc.",
     "homepage": "https://digitalist.se/contributing-matomo",
     "license": "GPL v3+",
@@ -1017,9 +1017,9 @@
     "displayName": "Uptime Robot Monitor"
   },
   "UserConsole": {
-    "sha256": "6765a92fc91cd8107b253757727f0356fdf8226f829354e2f8f726cdd1035933",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/0.1.3",
-    "version": "0.1.3",
+    "sha256": "353a7d2cc5a874aa9f15b2020831d7c75e2cb6a2835d4daa756b72524cdd2f8a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/3.1.3",
+    "version": "3.1.3",
     "description": "Use the console to manage users, like adding users, reset password etc.",
     "homepage": "https://digitalist.se/contributing-matomo",
     "license": "GPL v3+",
