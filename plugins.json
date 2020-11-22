@@ -585,9 +585,9 @@
     "displayName": "Login Ldap"
   },
   "LoginOIDC": {
-    "sha256": "56017db5d95c0f038fd044b2302698644286540aaf986163d40f1d3dc41b840e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginOIDC/download/3.0.0",
-    "version": "3.0.0",
+    "sha256": "2ee98553afb4e6ac52af784716048645691ff0f1ca8880de1dfe1badd8b737ee",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginOIDC/download/3.0.1",
+    "version": "3.0.1",
     "description": "Adds support for integrating external authentication services",
     "homepage": "https://github.com/dominik-th/matomo-plugin-LoginOIDC",
     "license": "GPL v3+",
