@@ -1,8 +1,8 @@
 {
   "AlternativeSparklines": {
-    "sha256": "f342a2f4cc08803eb8410bd99ea570b2448d1f7cd82bb241d4edccf511ae30b3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AlternativeSparklines/download/0.1.2",
-    "version": "0.1.2",
+    "sha256": "433cafb8eba7f32a66488fa0e35a3ca378f394509ef7e5cd0ac57be91270aeba",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AlternativeSparklines/download/0.2.0",
+    "version": "0.2.0",
     "description": "a minimalistic alternative to the default sparkline style",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
@@ -18,9 +18,9 @@
     "displayName": "Blurange"
   },
   "ClassicFontTheme": {
-    "sha256": "e95f5ea18067f4302ef31b31f58296aae8756d751e9490cb5f758f4e0d6656c4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicFontTheme/download/0.1.0",
-    "version": "0.1.0",
+    "sha256": "6a53628d6726d5e92aea13adf3cfb9b8151c76a3cccdab356ba334437c74a3b1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicFontTheme/download/4.0.0",
+    "version": "4.0.0",
     "description": "Matomo (Piwik) Platform showcase: example of how to create a simple Theme.",
     "homepage": "https://piwik.org",
     "license": "GPL v3+",
@@ -45,9 +45,9 @@
     "displayName": "Coffee Cup"
   },
   "DarkTheme": {
-    "sha256": "39e9d6f08eaa3aee20f953e21fc06c38b3842c8f25725a313a225a277d89bf61",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/1.0.4",
-    "version": "1.0.4",
+    "sha256": "f7478adc4d1992d706e9593e8c767333b3d114423c74525d1f253fb47d973b1d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/1.1.2",
+    "version": "1.1.2",
     "description": "A modern dark theme for Matomo",
     "homepage": "https://lazuli.agency",
     "license": "GPL v3+",
@@ -72,18 +72,18 @@
     "displayName": "GCtoolsTheme"
   },
   "GTheme": {
-    "sha256": "c2bf01760c854e4acc96b433dff069fdb760e7e4baf433886d329fbe282ba51b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GTheme/download/0.0.1",
-    "version": "0.0.1",
+    "sha256": "6ddac584a003a3bff49b9b25e70d5fd58a1ce5f6280eef292b723e8d50a955aa",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GTheme/download/0.0.2",
+    "version": "0.0.2",
     "description": "A mimimal Matomo theme",
     "homepage": "https://gugulet.hu",
     "license": "GPL v3+",
     "displayName": "GTheme"
   },
   "GoogleTheme": {
-    "sha256": "ab1f97ac4be9d8a11b27a6a0cb11721538856612af3a2041fa08df39861d7a76",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/1.0.6",
-    "version": "1.0.6",
+    "sha256": "54199628be3fe9d25869f290e1bd0bdcdf7c897626146780be44eb22dc9c9467",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/1.1.1",
+    "version": "1.1.1",
     "description": "A sublime Google Analytics theme for Matomo",
     "homepage": "https://lazuli.agency",
     "license": "GPL v3+",

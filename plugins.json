@@ -1,44 +1,44 @@
 {
   "AOM": {
-    "sha256": "8e657af6f30d6e32134d13d0b35e570b416bbbcaf2b0954e055997e47f8ee734",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AOM/download/1.4.4",
-    "version": "1.4.4",
+    "sha256": "b66120cdcba19917b412c4baec96b1e4fc3ba8a39bae14269ec404e0b741defe",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AOM/download/0.3.7",
+    "version": "0.3.7",
     "description": "Integrate additional data like costs and campaign names from advertising platforms like AdWords, Bing, Criteo, Facebook, Taboola as well as your indiv",
     "homepage": "http://www.advanced-online-marketing.com",
     "license": "GPL v3+",
     "displayName": "AOM"
   },
   "AdminNotification": {
-    "sha256": "fc9d2219f343aa7b2989179eb72cda29e4357d3eb18528bbd9d62509cedde12c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AdminNotification/download/3.0.0",
-    "version": "3.0.0",
+    "sha256": "b9fa3ec91ccd0cd3f4d2314fe56c08a968587275c8860f0f1ffe18a8db470c97",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AdminNotification/download/4.0.0",
+    "version": "4.0.0",
     "description": "Adds the ability for Matomo (Piwik) administrators to include an informative message to all user's dashboards. This uses the built in Notification function.",
     "homepage": "https://github.com/jbrule/piwikplugin-AdminNotification",
     "license": "GPL v3+",
     "displayName": "Admin Notification"
   },
   "AjaxOptOut": {
-    "sha256": "041b951db1b7dab816143065ec78436e1ecbf6f8451453cc1e25831c3dd6f364",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AjaxOptOut/download/1.2.1",
-    "version": "1.2.1",
+    "sha256": "a78475b028b530351a132d982a85a625480e5705fccb9c9ee41eacc77516f13d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AjaxOptOut/download/1.1.0",
+    "version": "1.1.0",
     "description": "Supports Opt Out from tracking through Ajax-Request. So you can implement a custom HTML, CSS and JS to realize custom-style opt out.",
     "homepage": "https://lw-scm.de/lipperts-web/piwik-ajax-opt-out",
     "license": "GPL v3+",
     "displayName": "Ajax Opt Out"
   },
   "AnonymousPiwikUsageMeasurement": {
-    "sha256": "bb3c9315c1d9d143c4e5340a02184a2762cee8f837539b541c916d2dd47c34bb",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AnonymousPiwikUsageMeasurement/download/3.1.0",
-    "version": "3.1.0",
+    "sha256": "16a0baffb48a9d16955fccf70bc4a5bb5a8b82a99efa7e0dc3134ec299333011",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AnonymousPiwikUsageMeasurement/download/4.0.1",
+    "version": "4.0.1",
     "description": "Send anonymized usage data to your own Matomo instance or to any other Matomo",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
     "displayName": "Anonymous Piwik Usage Measurement"
   },
   "ApiGetWithSitesInfo": {
-    "sha256": "38ce2138b01701a5624244d7fe0b3539570381f55e6956afc7747b5e66e7430c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiGetWithSitesInfo/download/0.1.6",
-    "version": "0.1.6",
+    "sha256": "f1a4d810ad86bc136edc99586b0f84da585cb842370018902130cfb1c0188d19",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiGetWithSitesInfo/download/0.1.2",
+    "version": "0.1.2",
     "description": "Modifies the 'API.get' output to also list the website name and main website URL",
     "homepage": "https://github.com/mattab/piwik-plugin-ApiGetWithSitesInfo",
     "license": "GPL v3+",
@@ -54,9 +54,9 @@
     "displayName": "Archive Site"
   },
   "Bandwidth": {
-    "sha256": "260cfe8efc59f54366eaa081010532f047441531fbe89a32fb20b2954293b981",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/3.2.0",
-    "version": "3.2.0",
+    "sha256": "379be7bde76e2112ee6e62c01e803f25244825eda5d5c0005ab0c286b162fe50",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/4.0.1",
+    "version": "4.0.1",
     "description": "Monitor Bandwidth for each page, download, and measure overall traffic in bytes. For requirements check out the description.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -81,9 +81,9 @@
     "displayName": "Bee Liked DBIP"
   },
   "BotTracker": {
-    "sha256": "e8ca015994d7b9f4417c4cf10187959876698f7cb793571cb961ca2f944ed206",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/BotTracker/download/1.06",
-    "version": "1.06",
+    "sha256": "a1035fb96e0edba24fdbb7d07655b1ff2fa59db07f5d1d940e67f69f67f66a91",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/BotTracker/download/2.00",
+    "version": "2.00",
     "description": "Detection of bots & spiders and count their visits without tracking them in the visitor-log.",
     "homepage": "https://github.com/Thomas--F/BotTracker",
     "license": "GPL v3+",
@@ -99,9 +99,9 @@
     "displayName": "Chat"
   },
   "ClassicCounter": {
-    "sha256": "8878765c088f2c4bd7b834642274af6dfd966e1c1cd2b07ec03533e3819bb92b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicCounter/download/0.2.2",
-    "version": "0.2.2",
+    "sha256": "362ede99dc7a3ae38c5fb729a99c8c011249813d5f15b85c8876c1dccb297474",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicCounter/download/0.3.0",
+    "version": "0.3.0",
     "description": "Embed a view counter in the style of classic CGI scripts into your website",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
@@ -126,9 +126,9 @@
     "displayName": "Cloudflare Location Provider"
   },
   "Counter": {
-    "sha256": "b0e12131be0da15cd1f8f77a7d65f950a23c2d6bfabea3a9a71d53a468c4b263",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Counter/download/2.1.3",
-    "version": "2.1.3",
+    "sha256": "69479d2c5c30233b19f36e05115f51cb81cf0ac36596b95b708e2cf8774f9bdf",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Counter/download/3.0.1",
+    "version": "3.0.1",
     "description": "Display Hits/Visits on image. Display Hits/Visits/from Countries stats as text via ajax requests.",
     "homepage": "http://xn--80aeqbhthr9b.com/en/others/piwik/10-piwik-graphical-counter.html",
     "license": "GPL v3+",
@@ -144,27 +144,27 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "bf4c89ca810baf34221565285132bb4b7529db2e41cc6cb11f7809a3b19f0978",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/3.0.6",
-    "version": "3.0.6",
+    "sha256": "354453e4b0dfa3bcded936099c872d3a1fd5752ef4e3bfea0c5e936f51d8de0f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/4.0.1",
+    "version": "4.0.1",
     "description": "Create custom Alerts to be notified of important changes on your website or app! ",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
     "displayName": "Custom Alerts"
   },
   "CustomDimensions": {
-    "sha256": "98962b746dbb4ae9e8cd9faaf728c7b35d3e8245d862454b08c4bbdb54da8d05",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomDimensions/download/3.1.10",
-    "version": "3.1.10",
+    "sha256": "51b8abf14638cc325f70e7b602e4a4eca083c7e00068cd6768935df071fa6f78",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomDimensions/download/0.1.5",
+    "version": "0.1.5",
     "description": "Extend Matomo to your needs by defining and tracking Custom Dimensions in scope Action or Visit",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
     "displayName": "Custom Dimensions"
   },
   "CustomOptOut": {
-    "sha256": "4c0cd1712c7ac7046f5c0e26c0f4774e5b13336604cf5da70bc6f51ea33ff88d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomOptOut/download/1.0.3",
-    "version": "1.0.3",
+    "sha256": "e2c12275f48135adfae763198132ff5e61e824fad66ec0883eee3904b547d1c6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomOptOut/download/2.0.0",
+    "version": "2.0.0",
     "description": "Create your own opt-out iframe css styles",
     "homepage": "https://www.zwei-entwickler.de",
     "license": "GPL-3.0+",
@@ -180,45 +180,54 @@
     "displayName": "Custom Tracker Js"
   },
   "CustomTranslations": {
-    "sha256": "2f27a5e1ef6f4ea56197abf54bab35dc6307394989a24eb5b0b3325eecec5efc",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/3.0.0",
-    "version": "3.0.0",
+    "sha256": "c47062ed17bd8acc02ce2d9808c3f228c02d8fc2b3c6847a0df5eb87a721028c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/4.0.1",
+    "version": "4.0.1",
     "description": "Translate entities and tracked values into different languages. For example Custom dimensions, dashboard names, custom report names, event values, ...",
     "homepage": "https://innocraft.com",
     "license": "GPL v3+",
     "displayName": "Custom Translations"
   },
+  "CustomVariables": {
+    "sha256": "79b202290e2e7483af6e3d163f0a53c0251c5a286e243495f8e44259ecb957e5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariables/download/4.0.1",
+    "version": "4.0.1",
+    "description": "Categorise your visitors and actions with custom name-value pairs. Segment by these values and get more insights to draw the right conclusions.",
+    "homepage": "https://matomo.org",
+    "license": "GPL v3+",
+    "displayName": "Custom Variables"
+  },
   "CustomiseTranslations": {
-    "sha256": "ac75b888468931798765ffa6d77c05129e24f82491b615037d51e90b27ba39da",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomiseTranslations/download/0.2.0",
-    "version": "0.2.0",
+    "sha256": "1af1bb512612c5e53779ca30014780842352ebe2a59fd2ce3bd5eaf603492dbc",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomiseTranslations/download/1.0.1",
+    "version": "1.0.1",
     "description": "This plugin allows you to modify all translateable strings in Matomo",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
     "displayName": "Customise Translations"
   },
   "DevelopmentToogle": {
-    "sha256": "8e5b362e1e5f356a0d45eeb044e04677df1470544334929d645a3105942c7502",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DevelopmentToogle/download/0.1.1",
-    "version": "0.1.1",
+    "sha256": "790af8cee67e39321b10d44900a90c9e54c1267b5ddc73e81e1860f9584017fe",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DevelopmentToogle/download/0.2.1",
+    "version": "0.2.1",
     "description": "Quickly enable and disable the development mode",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
     "displayName": "Development Toogle"
   },
   "DeviceDetectorCache": {
-    "sha256": "ebb4b2d3455fac3127af026aa4b81e088d1535f2baa34d609fd60dfe52ca9446",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceDetectorCache/download/3.1.0",
-    "version": "3.1.0",
+    "sha256": "c502bc78a41a9f47c1bcc16751f645255081af8d766528355ab7ff81910c8505",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceDetectorCache/download/4.2.2",
+    "version": "4.2.2",
     "description": "Makes tracking faster by detecting many devices, operating systems, bots, and browsers from a cache.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
     "displayName": "Device Detector Cache"
   },
   "DeviceFeatureWebGL": {
-    "sha256": "f7cb81b561c3e323f8ab7bf376582ce4d1b285c120f99d969a3e86ba7f4af546",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceFeatureWebGL/download/1.0.3",
-    "version": "1.0.3",
+    "sha256": "15d433d42ff32f5df10352db5fe354063855a06728a1e0a0b3d3a0256c298f35",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceFeatureWebGL/download/4.0.1",
+    "version": "4.0.1",
     "description": "This plugin allows you to track browser compatibility for WebGL",
     "homepage": "http://github.com/sgiehl/piwik-plugin-DeviceFeatureWebGL",
     "license": "GPL v3+",
@@ -234,9 +243,9 @@
     "displayName": "Device Network Information"
   },
   "DevicePixelRatio": {
-    "sha256": "ca23bab5e44e8ce2253de116a06cd5fd8136b3a91cb8ab72696302d597900fdd",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DevicePixelRatio/download/1.0.2",
-    "version": "1.0.2",
+    "sha256": "9a7eb7a1780d922ecc5d982b8501658f9e22ddc87d130e9e98c557bb9e39f644",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DevicePixelRatio/download/2.0.0",
+    "version": "2.0.0",
     "description": "Collects statistics on the device pixel ratio of the visitor's devices.  Useful to analyze how many visitors have Retina or other high DPI displays.",
     "homepage": "",
     "license": "GPL-3.0+",
@@ -252,36 +261,36 @@
     "displayName": "Disable Tracking"
   },
   "EnvironmentVariables": {
-    "sha256": "a5a150eb79b65889eac28e06edb06236b6b80efe744251d1dd21475ed9461b5d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/3.0.0",
-    "version": "3.0.0",
+    "sha256": "7d0b250a7750c4f6cd568bb341ecf4c2774a274369c9ff3f2775bc43d0ea9d18",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/4.0.1",
+    "version": "4.0.1",
     "description": "Allows you to specify Matomo config in environment variables instead of the config file.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
     "displayName": "Environment Variables"
   },
   "ExcludeByDDNS": {
-    "sha256": "22ac79b1dd0d38307d7227b0d907697a810747fddc977f7aee9a355730236db7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExcludeByDDNS/download/3.0.0",
-    "version": "3.0.0",
+    "sha256": "39aa8772b77167e80ad357be6920e6011da1a279bdea845f7a78bad9ec6b3dc4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExcludeByDDNS/download/4.0.0",
+    "version": "4.0.0",
     "description": "This plugin allows you to dynamically exclude a IP using DDNS update",
     "homepage": "http://github.com/sgiehl/piwik-plugin-ExcludeByDDNS",
     "license": "GPL v3+",
     "displayName": "Exclude By DDNS"
   },
   "ExcludeCountries": {
-    "sha256": "771962d75714d6899eb6cc7a57ab36f2dd2e9d9d9d9eb4c581984d85a4834724",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExcludeCountries/download/0.1.5",
-    "version": "0.1.5",
+    "sha256": "76cb2e8d95d822c766dd103af4d3484c97ab197d6c3940f9d031998f3ab2597e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExcludeCountries/download/0.2.0",
+    "version": "0.2.0",
     "description": "Exclude or include visitors from selected countries",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
     "displayName": "Exclude Countries"
   },
   "ExposureResearchTools": {
-    "sha256": "899e5e5ef7e0bb5164736251c345ce07f8846f45557f46f5a76a35b8cf4838a9",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExposureResearchTools/download/0.1.9",
-    "version": "0.1.9",
+    "sha256": "0c5096098aba2859d6df44402278e5603a38cfc376383f929cb64dfacd83df0d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExposureResearchTools/download/0.1.7",
+    "version": "0.1.7",
     "description": "Download unique visits as CSV, and support for merging data with pre-/post surveys for selective exposure research (see Plugin Website for details).",
     "homepage": "https://github.com/BurninLeo/ExposureResearchTools",
     "license": "GPL v3+",
@@ -315,18 +324,18 @@
     "displayName": "Feed Press"
   },
   "FlagCounter": {
-    "sha256": "f9d3c757c5eef85591aea2c2ecb02de3c6d43e2ddbd4c9409c7153a60a95b85b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FlagCounter/download/3.0.3",
-    "version": "3.0.3",
+    "sha256": "9d2978144b8f8702cc0483ad417d8cbf07075e34b15ad2aff8fb2673d9b5aa5f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FlagCounter/download/4.0.0",
+    "version": "4.0.0",
     "description": "This plugin allows you to include a simple statistic in your website showing the flags and hits of the countries your visitors came from",
     "homepage": "http://github.com/sgiehl/piwik-plugin-FlagCounter",
     "license": "GPL v3+",
     "displayName": "Flag Counter"
   },
   "ForceSSL": {
-    "sha256": "95dc7c404dd892c2ddbff3a1d0f102f97c8e9756b789909a7f1e83eea77a5a6d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ForceSSL/download/3.0.2",
-    "version": "3.0.2",
+    "sha256": "40900e1d0abf3cfc6598be4cdd5b59c3e3a715360b187f1e56e5b6b9f83a5d4e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ForceSSL/download/4.0.1",
+    "version": "4.0.1",
     "description": "Automatically redirect all http requests to https. For security reasons it is recommended to always use Matomo Analytics over https (SSL).",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
@@ -342,21 +351,21 @@
     "displayName": "Free Mobile Messaging"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "d023cf640547f64381d4eda6fd2bb231999c86bf579323c3e583dd2293cb7443",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/1.5.6",
-    "version": "1.5.6",
+    "sha256": "6850289c07458f517a20a86372b41e9c9c4c928b6c7bb19f00280fc7f5b62ff4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/4.0.4",
+    "version": "4.0.4",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
     "displayName": "Google Analytics Importer"
   },
   "GoogleAuthenticator": {
-    "sha256": "8fc9feed012492cd9afd70241b17247c9804b4b9cd97e4e69c3c77452ec2d580",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAuthenticator/download/3.2.1",
-    "version": "3.2.1",
+    "sha256": "f0ff3c1c45c16851c3d9321850aea18675f6663417bcbfa691aad6b284aca7b3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAuthenticator/download/0.1.0",
+    "version": "0.1.0",
     "description": "Adds Google Authenticator Two Factor Auth to Matomo",
     "homepage": "https://github.com/sgiehl/piwik-plugin-GoogleAuthenticator",
-    "license": "BSD AND GPL-3.0+",
+    "license": "BSD & GPL v3+",
     "displayName": "Google Authenticator"
   },
   "GrabGravatar": {
@@ -387,36 +396,45 @@
     "displayName": "Hash User Id"
   },
   "HidePasswordReset": {
-    "sha256": "e42d04aeda19944476fecfdf0cb443afa53daa29649a6ec59f2308a9930ae80f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/HidePasswordReset/download/1.3.3",
-    "version": "1.3.3",
+    "sha256": "eff9dc43f16b673eef93b52767252291a2f0e8f5f4ad46c098cc59e37ef8a40c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/HidePasswordReset/download/4.3.3",
+    "version": "4.3.3",
     "description": "Hides the Lost your password? option on login form and allows to replace with a different message.",
     "homepage": "https://github.com/jbrule/matomoplugin-HidePasswordReset",
     "license": "GPL v3+",
     "displayName": "Hide Password Reset"
   },
   "IP2Location": {
-    "sha256": "f414637401213b31b9abac5787ead5b7aaad11f12221eb78a4785e99a04e1de6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/3.1.22",
-    "version": "3.1.22",
+    "sha256": "3b8e39768b26cdff1feeabf68f553ec4999fdf0cb274b9ee1e5ad8e67a60c6a2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/4.0.1",
+    "version": "4.0.1",
     "description": "Use IP2Location geolocation database to lookup for accurate visitor location in Matomo (Piwik).",
     "homepage": "http://www.ip2location.com/developers/piwik",
     "license": "GPL-3.0+",
     "displayName": "IP 2 Location"
   },
+  "IP2Proxy": {
+    "sha256": "a85ee194e02eedc54f99cd70f6c6473656b7c9e998dfec27016c1a3a47dac38f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Proxy/download/0.1.0",
+    "version": "0.1.0",
+    "description": "Get the proxy details of visitors to your website.",
+    "homepage": "https://github.com/ip2location/ip2proxy-matomo",
+    "license": "GPL-3.0+",
+    "displayName": "IP2Proxy"
+  },
   "IPReports": {
-    "sha256": "d3149f9e4e3ef36dd1bac05fc227088a5bcb20b234cfc364ffad23dda3e2e4e7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IPReports/download/0.2.0",
-    "version": "0.2.0",
+    "sha256": "bb6b11ed570d495587eaf480f7166a3c5617e14b0f79c204595a50609b0c967e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IPReports/download/4.1.0",
+    "version": "4.1.0",
     "description": "Adds new IP reports to Matomo",
     "homepage": "http://github.com/sgiehl/piwik-plugin-IPReports",
     "license": "GPL v3+",
     "displayName": "IPReports"
   },
   "IPtoCompany": {
-    "sha256": "01fd54950df46b9f09013419316b458773ed3631886ae894e5b3a1ec726669ed",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IPtoCompany/download/0.4.6",
-    "version": "0.4.6",
+    "sha256": "9ac51ec08d6f0afa3cb3f19d09378ddc9fa5719c17e52872c552f8d99f9555e4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IPtoCompany/download/1.0.1",
+    "version": "1.0.1",
     "description": "Get the name of the companies that visit your website.",
     "homepage": "https://github.com/Romain/Matomo-IP-to-Company",
     "license": "GPL v3+",
@@ -432,9 +450,9 @@
     "displayName": "IPv6 Usage"
   },
   "IceCastStatistics": {
-    "sha256": "fa7426ddecfc9c3a2e3f1af37f3322a01c65433965d085555f3cfc3dfe77bfc0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IceCastStatistics/download/1.0.17",
-    "version": "1.0.17",
+    "sha256": "",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IceCastStatistics/download/0.1.3",
+    "version": "0.1.3",
     "description": "Live Plugin to show various informations about your IceCast Server",
     "homepage": "",
     "license": "GPL v3+",
@@ -450,54 +468,54 @@
     "displayName": "Inter Sites"
   },
   "IntranetGeoIP": {
-    "sha256": "1f4e636e1f8be5b75ef7cecadb77930f13225996b43113b5286b6f4206778829",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IntranetGeoIP/download/3.0.1",
-    "version": "3.0.1",
+    "sha256": "903ec98d1966f8346b1adcc292175f043b86b3d9671a6c6d9b64be229bd70921",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IntranetGeoIP/download/2.2.0",
+    "version": "2.2.0",
     "description": "Matomo (Piwik) plugin to locate all locale data of a user based on the IP address/subnetwork (country, region, city, latitude, longitude, provider, ...)",
     "homepage": "https://github.com/ThaDafinser/Piwik-IntranetGeoIP",
     "license": "GPL v3",
     "displayName": "Intranet Geo IP"
   },
   "InvalidateReports": {
-    "sha256": "476d0196b5aa41ca00e7620d6121f355ed9bd54e05bfe3db47b73c9c77d332a6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/InvalidateReports/download/0.1.2",
-    "version": "0.1.2",
+    "sha256": "0c31c946e657534eeec19e4e977a20961bb47df8b5d4e6e406abfa28dd38fe58",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/InvalidateReports/download/4.0.1",
+    "version": "4.0.1",
     "description": "This plugin allows Super Users to invalidate historical reports in the UI in Administration > System > Invalidate reports.",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
     "displayName": "Invalidate Reports"
   },
   "Ip2Hostname": {
-    "sha256": "68518e9efd3801afaeccef3c1d04f24bc087350f24dc9f48c7eb0d1e8b1f1754",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Ip2Hostname/download/3.0.0",
-    "version": "3.0.0",
+    "sha256": "10dd010fd37cd2d9c1aac7a0eb9b95c95e55eca6198f1c36a2ce869f4b13ceb0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Ip2Hostname/download/1.0.3",
+    "version": "1.0.3",
     "description": "Matomo (Piwik) plugin to get the hostname from the visitor IP",
     "homepage": "https://github.com/ThaDafinser/Piwik-Ip2Hostname",
     "license": "GPL v3",
     "displayName": "IP 2 Hostname"
   },
   "JsTrackerCustom": {
-    "sha256": "7d8bf37a9450d333fcbc4a47db4c1d2ae27d007011a93a387b708b6c1453954e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerCustom/download/0.1.1",
-    "version": "0.1.1",
+    "sha256": "e032e0bcb349d142b170df06fd409bc2aa6b4f6e729c5b2b73dd15ada5339a14",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerCustom/download/4.0.1",
+    "version": "4.0.1",
     "description": "This plugin allows you to add custom JavaScript to Matomos tracking code",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
     "displayName": "Js Tracker Custom"
   },
   "JsTrackerForceAsync": {
-    "sha256": "497be1ecdc04a85f824718387d8f11b1fdc82d94cea271675bcc6cf0d6d99d04",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerForceAsync/download/3.0.0",
-    "version": "3.0.0",
+    "sha256": "c072b1a02e964a5282ba42a038a94bb8ee52e51f275a602d4e75944264b3af77",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerForceAsync/download/4.0.0",
+    "version": "4.0.0",
     "description": "Forces the JavaScript Tracker to always load asynchronous when embedding the Tracking Code via HTTP API automatically in your website.",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
     "displayName": "Js Tracker Force Async"
   },
   "KPIWidgets": {
-    "sha256": "dd80dede4f337efda30f73973f11330bdfbc98f966e06622f768f87c195eb829",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/1.0.5",
-    "version": "1.0.5",
+    "sha256": "3902c4bcd977d80825d91d51b1dd4c1b0c742552fec0a753aa28e98dc45debd1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/1.1.1",
+    "version": "1.1.1",
     "description": "Display KPIs on the dashboard for better readability",
     "homepage": "https://lazuli.agency",
     "license": "GPL v3+",
@@ -513,45 +531,45 @@
     "displayName": "Kafka Push"
   },
   "LanguageToogle": {
-    "sha256": "4fe375e75d88d4dd5e7ea3d852b13248713bf4d5b265fe56890f61aaabf088df",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LanguageToogle/download/0.2.0",
-    "version": "0.2.0",
+    "sha256": "cb92f15ed2903138be3e7962275fe3eea3119bfd312dd50e025a0a8cee611e76",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LanguageToogle/download/0.3.1",
+    "version": "0.3.1",
     "description": "Quickly change the language of Matomo",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
     "displayName": "Language Toogle"
   },
   "LdapConnection": {
-    "sha256": "31c47ac9c913016d316f5bef2ef6df80bf3a62eeeeaf3a84f49ce68380bf4218",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LdapConnection/download/3.0.0",
-    "version": "3.0.0",
+    "sha256": "2d6f2ce6efb0a5ca1f6794500d84472b705dbc69a36a12e597e6533c95f19f9c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LdapConnection/download/0.3.1",
+    "version": "0.3.1",
     "description": "Plugin to make a LDAP connection, which can be used by various LDAP plugins",
     "homepage": "https://github.com/ThaDafinser/Piwik-LdapConnection",
     "license": "GPL v3",
     "displayName": "Ldap Connection"
   },
   "LdapVisitorInfo": {
-    "sha256": "4d572a3e66e1d99ec13dc1513aab4478b9dc2940d10291e96009dbe12cd8ee32",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LdapVisitorInfo/download/3.0.1",
-    "version": "3.0.1",
+    "sha256": "f737d73f2a745407f3a01cf19707018665dc2d015a07917fd88df18357ac81ad",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LdapVisitorInfo/download/1.0.0",
+    "version": "1.0.0",
     "description": "Matomo (Piwik) plugin to get visitor details (thumbnail, description) from LDAP",
     "homepage": "https://github.com/ThaDafinser/Piwik-LdapVisitorInfo",
     "license": "GPL v3",
     "displayName": "Ldap Visitor Info"
   },
   "LiveTab": {
-    "sha256": "e8c9439a190c670b0293545bf44bde2990896f7e002dc4bc6bd283b374ca5db5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LiveTab/download/3.0.1",
-    "version": "3.0.1",
+    "sha256": "fec5e4a37d35bb722459c10db3099278950b2fa5274ad927d882a1ac7c4b1abb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LiveTab/download/4.0.1",
+    "version": "4.0.1",
     "description": "Keep an eye on the number of live visitors in the browser tab. It displays the number of visitors in the last 30 minutes in the browser tab.",
     "homepage": "https://matomo.org",
     "license": "GPL-3.0+",
     "displayName": "Live Tab"
   },
   "LogViewer": {
-    "sha256": "50955f07010ab73ba1e43d3df2786054dd3f6a4041f4d40fc66ab3fdc170436e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/3.0.4",
-    "version": "3.0.4",
+    "sha256": "7144940aa33ceaec0ba88f240f64bbc5bb096295f41f5ab557ea5134420cf9a6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/4.0.1",
+    "version": "4.0.1",
     "description": "View log messages logged by Matomo",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -567,27 +585,27 @@
     "displayName": "Login Fail Log"
   },
   "LoginHttpAuth": {
-    "sha256": "da49b13b448aef32957e1f311b8b5808d48591df8996c311085f667410c0c338",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginHttpAuth/download/3.0.1",
-    "version": "3.0.1",
+    "sha256": "7edca0863aff3c8ce4d7377f5a64045e9a839b0576e43b5e2fed287b4a403e02",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginHttpAuth/download/1.0.4",
+    "version": "1.0.4",
     "description": "Sign in Matomo using HTTP Auth protocol instead of the standard Login mechanism.",
     "homepage": "https://plugins.matomo.org/LoginHttpAuth",
     "license": "GPL v3+",
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "336c87957b8efbe273226da8e837c6db4861a4b701aa3fbbde038c12417555c8",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/4.0.9",
-    "version": "4.0.9",
+    "sha256": "8e3cb432e4a5472ca3d2f0faf8da6130546390501a16175b1ba2e18c8c95588a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/4.2.2",
+    "version": "4.2.2",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
     "displayName": "Login Ldap"
   },
   "LoginOIDC": {
-    "sha256": "2ee98553afb4e6ac52af784716048645691ff0f1ca8880de1dfe1badd8b737ee",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginOIDC/download/3.0.1",
-    "version": "3.0.1",
+    "sha256": "4cfabaad07ba2749fbf86dad888cb8d7fb6833f6921df86caa0e4db056172743",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginOIDC/download/4.0.0",
+    "version": "4.0.0",
     "description": "Adds support for integrating external authentication services",
     "homepage": "https://github.com/dominik-th/matomo-plugin-LoginOIDC",
     "license": "GPL v3+",
@@ -603,9 +621,9 @@
     "displayName": "Login Revokable"
   },
   "LoginShibboleth": {
-    "sha256": "e67ee18e1054a7d22ac0e37fca3f64e3270c3af64b4d7c44bdc8d5aa1ef2c12f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginShibboleth/download/1.2.0",
-    "version": "1.2.0",
+    "sha256": "f02d9de0af97f2d16b409fe06caac717fb7c388852284cc8237b8ed89b335862",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginShibboleth/download/1.1.9",
+    "version": "1.1.9",
     "description": "Shibboleth Login Plugin for Matomo (Piwik)",
     "homepage": "https://github.com/uniwue-rz/LoginShibboleth",
     "license": "MIT",
@@ -621,9 +639,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "b061a197b59ed2877173f77ce536a1caeb613d8b7ee5f83c801637512f3a65d3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/3.1.1",
-    "version": "3.1.1",
+    "sha256": "2972c6832022fe6f64d3af2e0d01d976509135cc29a7640d4633c466382d411d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/4.0.4",
+    "version": "4.0.4",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -639,9 +657,9 @@
     "displayName": "Max Concurrent"
   },
   "Migration": {
-    "sha256": "70eb91abf716cbb10e5ac482645c329b4fc3fac33d46177975d150289efd98ea",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/3.0.5",
-    "version": "3.0.5",
+    "sha256": "e41ffeb769c1ca670bf7a3dec2e376b6d03edd854c411f4f96b55ee9aaacc35c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/4.0.2",
+    "version": "4.0.2",
     "description": "Migrate/copy any measurable (site, app, roll-up) from one Matomo to another Matomo",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -666,27 +684,27 @@
     "displayName": "Page Colours"
   },
   "PasswordPolicyEnforcer": {
-    "sha256": "b0c3ab61564e65bb89ac3fd7974c237d624c8d12b54983ec2383af55809f7b4e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/PasswordPolicyEnforcer/download/1.2.1",
-    "version": "1.2.1",
+    "sha256": "6a674a85414cccd928b7776f70281ec332df428c09f32a0d42e104e0b2768c98",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/PasswordPolicyEnforcer/download/2.0.1",
+    "version": "2.0.1",
     "description": "Adds a possibility to enforce Password Policy.",
     "homepage": "https://github.com/simivar/matomo-password-policy-enforcer",
     "license": "MIT",
     "displayName": "Password Policy Enforcer"
   },
   "PasswordVerifier": {
-    "sha256": "6c706d896f90ff964b6ad352f49a623f34a444891bc8af98d064abab72edbb3c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/PasswordVerifier/download/0.1.2",
-    "version": "0.1.2",
+    "sha256": "8a6796614130b890901af8080149d43baa1c2456206f0a05e6d01640e361faf9",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/PasswordVerifier/download/0.2.0",
+    "version": "0.2.0",
     "description": "Reject insecure passwords by searching for their hash in the haveibeenpwned.com database",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
     "displayName": "Password Verifier"
   },
   "PerformanceAudit": {
-    "sha256": "2c2307c2010a4e41ff433e4ad428d2f540fa4f6dbd2dbc65a8f03269fac0060f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/PerformanceAudit/download/1.1.4",
-    "version": "1.1.4",
+    "sha256": "6665119a99b588beb461141185c01a2c6779ce3163f3d4964e8498da199fccce",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/PerformanceAudit/download/2.0.0-b3",
+    "version": "2.0.0-b3",
     "description": "Daily performance audits of all your sites in Matomo.",
     "homepage": "https://github.com/DevDavido/performance-audit-plugin",
     "license": "GPL-3.0+",
@@ -729,18 +747,27 @@
     "displayName": "Profile Avatar"
   },
   "ProtectTrackID": {
-    "sha256": "507dfbf735d2dc11b74a7267fef0b8ba377c4558048f3d861ba5924eba19306e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProtectTrackID/download/1.0.0",
-    "version": "1.0.0",
+    "sha256": "5177d26ff0efe3289c7d8520876ee90e76749add0446093c83f0ae21c8f9a2b7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProtectTrackID/download/0.2.0",
+    "version": "0.2.0",
     "description": "Provides a option to protect idSite using hash instead default numeric",
     "homepage": "https://github.com/joubertredrat/Piwik-ProtectTrackID",
     "license": "GPL v3+",
     "displayName": "Protect Track ID"
   },
+  "Provider": {
+    "sha256": "f52129d0e2cbc0372ea04f76203f2fa5a0de20af41d7bcf708be91162f469df8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/4.0.1",
+    "version": "4.0.1",
+    "description": "Reports the Internet Service Provider of the visitors.",
+    "homepage": "https://matomo.org",
+    "license": "GPL v3+",
+    "displayName": "Provider"
+  },
   "QueuedTracking": {
-    "sha256": "cc5a3217f4ed8ea460734c7ed6d16dfe62e4321b3af2626ca6a0512c43398476",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/3.3.6",
-    "version": "3.3.6",
+    "sha256": "3a225b1a1c8a007b868fd9e678334518f48edec1bd6e79e8bc50e7eca300b6d7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/4.0.2",
+    "version": "4.0.2",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -756,9 +783,9 @@
     "displayName": "Quick Exclude Visitor IP"
   },
   "ReferrersManager": {
-    "sha256": "6f3010ca67c8685781cf3ed7738251cd2b0cc5ed1c25fa8fa6779d43d00ae70e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ReferrersManager/download/3.0.4",
-    "version": "3.0.4",
+    "sha256": "d8deaa8022b313b15b9ff481d1d27c20a6e7ba4dea6593c209cb462dcc469a0f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ReferrersManager/download/4.0.0",
+    "version": "4.0.0",
     "description": "Allows to view and manage the search engines and social networks that Matomo is able to detect.",
     "homepage": "https://github.com/sgiehl/piwik-plugin-ReferrersManager",
     "license": "GPL v3+",
@@ -792,18 +819,18 @@
     "displayName": "Rer User Dates"
   },
   "RestrictLanguageSelection": {
-    "sha256": "bb631b4c145865ee48e694d5c66bb6c2d191b367c35e12aef20ee67f5662655f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RestrictLanguageSelection/download/3.0.0",
-    "version": "3.0.0",
+    "sha256": "1b98d22725e4d5d01ba1b684a35401ed2d9f2622b642986e370146e36062976e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RestrictLanguageSelection/download/4.0.0",
+    "version": "4.0.0",
     "description": "Allows you to modify the list of available languages in language selector.",
     "homepage": "https://github.com/sgiehl/piwik-plugin-RestrictLanguageSelection",
     "license": "GPL v3+",
     "displayName": "Restrict Language Selection"
   },
   "SMSalert": {
-    "sha256": "318579abe7f0e3c5bcb133b6aa33621f5881e6201de03e2194d1a1df91aefb81",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SMSalert/download/1.0.4",
-    "version": "1.0.4",
+    "sha256": "af70c86c2ec0880e6daab21833b636a2b7a7fab1248634666dac84bcdca5aae9",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SMSalert/download/1.0.1",
+    "version": "1.0.1",
     "description": "Mobile Messaging Plugin: www.smsalert.co.in",
     "homepage": "https://www.smsalert.co.in",
     "license": "GPL-3.0",
@@ -819,9 +846,9 @@
     "displayName": "Search Monitor"
   },
   "SecurityInfo": {
-    "sha256": "09b77088a709002d6f0c057bb020a5005d1262e89739b7ba9547283127edc5ac",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SecurityInfo/download/3.0.7",
-    "version": "3.0.7",
+    "sha256": "7262d6f56ca75e518fad4a84121fe58bf608839980ae3745f8d3150869cce44c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SecurityInfo/download/4.0.1",
+    "version": "4.0.1",
     "description": "Provides security information about your PHP environment and offers suggestions based on PhpSecInfo from the PHP Security Consortium.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -855,18 +882,18 @@
     "displayName": "Sharp Spring Widget"
   },
   "ShortcodeTracker": {
-    "sha256": "a3849cdc68d6057674596dc899b166c44ac1964ece8681a7d10d294b5fb32ce7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ShortcodeTracker/download/1.2.0",
-    "version": "1.2.0",
+    "sha256": "7a29d4cdf0585b89efd55c5753987b7513adab0767074063dfe5527f8b100aa5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ShortcodeTracker/download/0.7.0",
+    "version": "0.7.0",
     "description": "Plugin allowing user to create shortcodes and track their usage within Matomo (Piwik). Also integrates with UI to deliver user-friendly interaction.",
     "homepage": "http://mgazdzik.pl/shortcodetracker",
-    "license": "GPL-3.0",
+    "license": "GPLv3",
     "displayName": "Shortcode Tracker"
   },
   "Signup": {
-    "sha256": "82a19ab4b7f9c0cea19bb365d2bee99de6e7f73e66b97f1c1a6129f38e48015e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Signup/download/0.1.2",
-    "version": "0.1.2",
+    "sha256": "8e53e0c2bd409982b8d03bba1c82d2be595ce678eb080b24b679e8082be5fe29",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Signup/download/4.0.0",
+    "version": "4.0.0",
     "description": "Let new users signup on your Matomo instance to track their own website.",
     "homepage": "https://github.com/alcalyn/matomo-plugin-signup",
     "license": "GPL-3.0+",
@@ -891,9 +918,9 @@
     "displayName": "Simple Sys Mon"
   },
   "SiteAccessProvisioner": {
-    "sha256": "598d4ed5e17c1b05a5553e2962e241ba7a5938cce468d3c1219754498ec5ee52",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteAccessProvisioner/download/3.0.1",
-    "version": "3.0.1",
+    "sha256": "f31b0a17b62e480d4202f7624f39701e9a876ab2dc724a6a0d8276b26b0bf3bb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteAccessProvisioner/download/4.0.1",
+    "version": "4.0.1",
     "description": "Provides a simple method to provision access to site analytics. Integration with Content Management System is highly advised.",
     "homepage": "https://github.com/jbrule/matomoplugin-SiteAccessProvisioner",
     "license": "GPL v3+",
@@ -945,9 +972,9 @@
     "displayName": "Tapatalk Report"
   },
   "TasksTimetable": {
-    "sha256": "8e05240560f67fbfc95431566a963a4a5a1699baeb702d9c322c5d4e54cbda9c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TasksTimetable/download/3.0.2",
-    "version": "3.0.2",
+    "sha256": "99b338b0a09beb672d16ffa9f2f573457c5241a096280b24159bf3c6a9ee1708",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TasksTimetable/download/4.0.2",
+    "version": "4.0.2",
     "description": "List all maintenance tasks that are scheduled to run. Displays the task names and next execution time in a table.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -981,18 +1008,18 @@
     "displayName": "Tracking CLI"
   },
   "TrackingCodeCustomizer": {
-    "sha256": "053ac459e5c49bd3c575db3177795b999117dea2d2a7b160c955cd97d996f57a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingCodeCustomizer/download/3.0.0",
-    "version": "3.0.0",
+    "sha256": "58707ac8e47be6cad9923d9f0fe619264494b1a51c98dca4786936739ad81cd1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingCodeCustomizer/download/4.0.0",
+    "version": "4.0.0",
     "description": "Allows Matomo admininstrators to customize the tracking code that is autogenerated for users. This is useful for directing requests to the correct ser",
     "homepage": "https://github.com/jbrule/piwikplugin-TrackingCodeCustomizer",
     "license": "GPL v3+",
     "displayName": "Tracking Code Customizer"
   },
   "TreemapVisualization": {
-    "sha256": "18520e761a9d6424a111b2dedd75303111ad66d71cfa063193f991f55970d9c0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/3.1.2",
-    "version": "3.1.2",
+    "sha256": "7ebe2a76baa8297f6208d3082990d99f7eaebbe0b6240b62a405fe2034b90c92",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/4.0.1",
+    "version": "4.0.1",
     "description": "Visualise any report in Matomo as a Treemap. Click on the Treemap icon in each report to load the visualisation. ",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1017,9 +1044,9 @@
     "displayName": "Uptime Robot Monitor"
   },
   "UserConsole": {
-    "sha256": "353a7d2cc5a874aa9f15b2020831d7c75e2cb6a2835d4daa756b72524cdd2f8a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/3.1.3",
-    "version": "3.1.3",
+    "sha256": "f622a961555dceea09be5e3ed94b3b465e22b96959d5b6e1ae31e905266ffcd3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/4.0.0",
+    "version": "4.0.0",
     "description": "Use the console to manage users, like adding users, reset password etc.",
     "homepage": "https://digitalist.se/contributing-matomo",
     "license": "GPL v3+",
@@ -1035,9 +1062,9 @@
     "displayName": "Visitor Avatar"
   },
   "VisitorGenerator": {
-    "sha256": "b1b94946dcf2ac11a7a199ef6fef5c0309bf05482f9519eb4027483679b70302",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/3.1.2",
-    "version": "3.1.2",
+    "sha256": "f803a7226d56b82e764a8140ca8c914b64e83477abe4c92189d19feae798765c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/4.0.2",
+    "version": "4.0.2",
     "description": "Developer tool that lets you generate fake visits. Useful if you are working with plugins or themes or if you use the Matomo API.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
