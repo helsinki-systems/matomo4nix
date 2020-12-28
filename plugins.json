@@ -414,9 +414,9 @@
     "displayName": "IP 2 Location"
   },
   "IP2Proxy": {
-    "sha256": "a85ee194e02eedc54f99cd70f6c6473656b7c9e998dfec27016c1a3a47dac38f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Proxy/download/0.1.0",
-    "version": "0.1.0",
+    "sha256": "df2687bbdbab1be85bbabbea6524f6cfdba86cc4588213f9a51996a0e95cc2fe",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Proxy/download/0.1.1",
+    "version": "0.1.1",
     "description": "Get the proxy details of visitors to your website.",
     "homepage": "https://github.com/ip2location/ip2proxy-matomo",
     "license": "GPL-3.0+",
@@ -702,9 +702,9 @@
     "displayName": "Password Verifier"
   },
   "PerformanceAudit": {
-    "sha256": "6665119a99b588beb461141185c01a2c6779ce3163f3d4964e8498da199fccce",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/PerformanceAudit/download/2.0.0-b3",
-    "version": "2.0.0-b3",
+    "sha256": "492c5ce17ecd667f65e0546f5b73ad22ff0aa374262b1364626c760bb8239426",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/PerformanceAudit/download/2.0.0",
+    "version": "2.0.0",
     "description": "Daily performance audits of all your sites in Matomo.",
     "homepage": "https://github.com/DevDavido/performance-audit-plugin",
     "license": "GPL-3.0+",
