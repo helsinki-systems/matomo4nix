@@ -405,9 +405,9 @@
     "displayName": "Hide Password Reset"
   },
   "IP2Location": {
-    "sha256": "3b8e39768b26cdff1feeabf68f553ec4999fdf0cb274b9ee1e5ad8e67a60c6a2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "3af4095e66f9aed6b16a9d696f0f517b64a9d76d536711e0f917e1def8adb52b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/4.0.2",
+    "version": "4.0.2",
     "description": "Use IP2Location geolocation database to lookup for accurate visitor location in Matomo (Piwik).",
     "homepage": "http://www.ip2location.com/developers/piwik",
     "license": "GPL-3.0+",
