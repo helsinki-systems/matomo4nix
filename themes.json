@@ -98,6 +98,15 @@
     "license": "GPL v3+",
     "displayName": "MB"
   },
+  "Modern": {
+    "sha256": "23425191f5883c5a4664a598ae2370c96ed82ff75889a13656045d398fae0ed2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Modern/download/1.0.3",
+    "version": "1.0.3",
+    "description": "Modern gives the Matomo user interface a minimalist look and feel.",
+    "homepage": "https://whitespace.se",
+    "license": "GPL v3+",
+    "displayName": "Modern"
+  },
   "ModernBlue": {
     "sha256": "5b6c619239b2570e7ab857e4a9eeaf25388e0b2ca72d533c4914844f7675479a",
     "url": "https://plugins.matomo.org/api/2.0/plugins/ModernBlue/download/0.1.0",
