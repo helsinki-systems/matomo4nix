@@ -252,9 +252,9 @@
     "displayName": "Device Pixel Ratio"
   },
   "DisableTracking": {
-    "sha256": "b4ee5dbb5245fd9ca1da588341e6720d3a9087ee4c812e3254a34e7baae59a84",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DisableTracking/download/1.1.0",
-    "version": "1.1.0",
+    "sha256": "1e535c0f119027a33fad04c181314fbf08ea71815dcbb8bd1dd5edf4f4c8e94e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DisableTracking/download/1.1.1",
+    "version": "1.1.1",
     "description": "Provides the ability to disable tracking for piwik sites. So you dont grow in data but keep old data for later reporting.",
     "homepage": "https://lw-scm.de/lipperts-web/piwik-plugin-disabletracking",
     "license": "GPL v3+",
