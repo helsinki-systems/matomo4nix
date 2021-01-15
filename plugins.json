@@ -756,9 +756,9 @@
     "displayName": "Protect Track ID"
   },
   "Provider": {
-    "sha256": "f52129d0e2cbc0372ea04f76203f2fa5a0de20af41d7bcf708be91162f469df8",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "b51bb8a24fe2aa1acf67fabf8a56c6d6e8b33d5a5469970eb683fd2516d56e0e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/4.0.2",
+    "version": "4.0.2",
     "description": "Reports the Internet Service Provider of the visitors.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -846,9 +846,9 @@
     "displayName": "Search Monitor"
   },
   "SecurityInfo": {
-    "sha256": "7262d6f56ca75e518fad4a84121fe58bf608839980ae3745f8d3150869cce44c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SecurityInfo/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "fc76e4ad3caba8b0a1b630a6438ec27010cc21e3757d755ed55a32b8b60c3df9",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SecurityInfo/download/4.0.2",
+    "version": "4.0.2",
     "description": "Provides security information about your PHP environment and offers suggestions based on PhpSecInfo from the PHP Security Consortium.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
