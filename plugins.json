@@ -18,10 +18,10 @@
     "displayName": "Admin Notification"
   },
   "AjaxOptOut": {
-    "sha256": "a78475b028b530351a132d982a85a625480e5705fccb9c9ee41eacc77516f13d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AjaxOptOut/download/1.1.0",
-    "version": "1.1.0",
-    "description": "Supports Opt Out from tracking through Ajax-Request. So you can implement a custom HTML, CSS and JS to realize custom-style opt out.",
+    "sha256": "2d93f9a27e553de0f294650cb9735df46c83bcbfd959c55f422e465991c19604",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AjaxOptOut/download/1.3.1",
+    "version": "1.3.1",
+    "description": "Provide endpoints to opt-out, opt-in or get status of visitors tracking. So you can implement a custom HTML, CSS and JS to realize custom-style tracki",
     "homepage": "https://lw-scm.de/lipperts-web/piwik-ajax-opt-out",
     "license": "GPL v3+",
     "displayName": "Ajax Opt Out"
@@ -1071,9 +1071,9 @@
     "displayName": "Visitor Avatar"
   },
   "VisitorGenerator": {
-    "sha256": "f803a7226d56b82e764a8140ca8c914b64e83477abe4c92189d19feae798765c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/4.0.2",
-    "version": "4.0.2",
+    "sha256": "8a48168262f63f85108682df923117e5da3e03925c6ce8a68e391465ae84de6b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/4.0.3",
+    "version": "4.0.3",
     "description": "Developer tool that lets you generate fake visits. Useful if you are working with plugins or themes or if you use the Matomo API.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
