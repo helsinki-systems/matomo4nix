@@ -18,9 +18,9 @@
     "displayName": "Admin Notification"
   },
   "AjaxOptOut": {
-    "sha256": "2d93f9a27e553de0f294650cb9735df46c83bcbfd959c55f422e465991c19604",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AjaxOptOut/download/1.3.1",
-    "version": "1.3.1",
+    "sha256": "0b262811de8d5cd57609e93c24116c8dd3ce54dd195bf6e024aa3d51a869e383",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AjaxOptOut/download/1.4.0",
+    "version": "1.4.0",
     "description": "Provide endpoints to opt-out, opt-in or get status of visitors tracking. So you can implement a custom HTML, CSS and JS to realize custom-style tracki",
     "homepage": "https://lw-scm.de/lipperts-web/piwik-ajax-opt-out",
     "license": "GPL v3+",
