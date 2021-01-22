@@ -548,6 +548,15 @@
     "license": "GPL v3",
     "displayName": "Ldap Connection"
   },
+  "LdapConnectionPlesk": {
+    "sha256": "3bd2c8c3bbc6cba376ff0d1ce3dd9f8440731407e9fd850ea92612ad17a2b928",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LdapConnectionPlesk/download/4.0.2",
+    "version": "4.0.2",
+    "description": "Plugin to make a LDAP connection, which can be used by various LDAP plugins",
+    "homepage": "https://github.com/plesk/Piwik-LdapConnection",
+    "license": "GPL-3.0",
+    "displayName": "Ldap Connection Plesk"
+  },
   "LdapVisitorInfo": {
     "sha256": "f737d73f2a745407f3a01cf19707018665dc2d015a07917fd88df18357ac81ad",
     "url": "https://plugins.matomo.org/api/2.0/plugins/LdapVisitorInfo/download/1.0.0",
@@ -556,6 +565,15 @@
     "homepage": "https://github.com/ThaDafinser/Piwik-LdapVisitorInfo",
     "license": "GPL v3",
     "displayName": "Ldap Visitor Info"
+  },
+  "LdapVisitorInfoPlesk": {
+    "sha256": "c7f6e0ec9af94b9b3c17c64bd610cb6107d45bd17308c37158530cd81d3b10fb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LdapVisitorInfoPlesk/download/4.0.1",
+    "version": "4.0.1",
+    "description": "Matomo (Piwik) plugin to get visitor details (thumbnail, description) from LDAP",
+    "homepage": "https://github.com/plesk/Piwik-LdapVisitorInfo",
+    "license": "GPL-3.0",
+    "displayName": "Ldap Visitor Info Plesk"
   },
   "LiveTab": {
     "sha256": "fec5e4a37d35bb722459c10db3099278950b2fa5274ad927d882a1ac7c4b1abb",
@@ -594,9 +612,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "8e3cb432e4a5472ca3d2f0faf8da6130546390501a16175b1ba2e18c8c95588a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/4.2.2",
-    "version": "4.2.2",
+    "sha256": "e3b7dcdd50b4f5ce10fb061da4dc2da23c630d2119d99a80bc58c1dfafbc8be3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/4.3.0",
+    "version": "4.3.0",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
