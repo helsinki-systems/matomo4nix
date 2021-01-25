@@ -549,9 +549,9 @@
     "displayName": "Ldap Connection"
   },
   "LdapConnectionPlesk": {
-    "sha256": "3bd2c8c3bbc6cba376ff0d1ce3dd9f8440731407e9fd850ea92612ad17a2b928",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LdapConnectionPlesk/download/4.0.2",
-    "version": "4.0.2",
+    "sha256": "37b2b5a2aa5fa251409780c5b661b11aa20e456c0062daeec05153ea7edcd55d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LdapConnectionPlesk/download/4.0.3",
+    "version": "4.0.3",
     "description": "Plugin to make a LDAP connection, which can be used by various LDAP plugins",
     "homepage": "https://github.com/plesk/Piwik-LdapConnection",
     "license": "GPL-3.0",
