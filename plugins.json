@@ -135,9 +135,9 @@
     "displayName": "Counter"
   },
   "CrazyEggWidgetByAmperage": {
-    "sha256": "8a48da5dc904e04f62e0cef3fbd1b2118c0ddd4fe3dc144ec2436e15e80d87f2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CrazyEggWidgetByAmperage/download/1.0.4",
-    "version": "1.0.4",
+    "sha256": "70cacafe6dca372a0a4c1108a01e99d461580677ee5887d6be9fb45b08251c18",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CrazyEggWidgetByAmperage/download/1.0.6",
+    "version": "1.0.6",
     "description": "Show Crazy Egg snapshots for the current site as a dashboard widget.",
     "homepage": "https://www.amperagemarketing.com",
     "license": "GPL v3+",
@@ -306,9 +306,9 @@
     "displayName": "Extra Tools"
   },
   "FacebookPageWidgetByAmperage": {
-    "sha256": "59533778f165fc2659fad26cbb93a1398040715e6e041ef6388b5dbfa0391f52",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FacebookPageWidgetByAmperage/download/1.0.5",
-    "version": "1.0.5",
+    "sha256": "924147fa3fe7ca2dfd5a6c4e726831c1975e45ba0e2b418c145fa2bbcc0ad3a2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FacebookPageWidgetByAmperage/download/1.0.7",
+    "version": "1.0.7",
     "description": "Show Facebook Page plugin as a configurable widget.",
     "homepage": "https://www.amperagemarketing.com",
     "license": "GPL v3+",
@@ -684,9 +684,9 @@
     "displayName": "Migration"
   },
   "MozWidgetByAmperage": {
-    "sha256": "139f97d5124d155fc4f64258984db240ae11d67a394566e56a75d650c02cfaf0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MozWidgetByAmperage/download/1.1.4",
-    "version": "1.1.4",
+    "sha256": "26299f047d1a21803b2ca24df0284bcd10b0d2ecb89a0b27e5ad00e31ebd3740",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MozWidgetByAmperage/download/1.1.6",
+    "version": "1.1.6",
     "description": "Show Moz.com info for the current site as a dashboard widget. Also links to the latest Moz Pro Campaign Custom Report, if available.",
     "homepage": "https://www.amperagemarketing.com",
     "license": "GPL v3+",
@@ -891,9 +891,9 @@
     "displayName": "Server Monitor"
   },
   "SharpSpringWidgetByAmperage": {
-    "sha256": "9a42f53ecdd19d027592f3019ba90b63901553004531b46ea3c5b927b58c6ec0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SharpSpringWidgetByAmperage/download/0.2.2",
-    "version": "0.2.2",
+    "sha256": "9bb33fc2718319a6aab98ea8a3e6c5c5c24c10c17552d84b2e317323367f814f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SharpSpringWidgetByAmperage/download/0.2.4",
+    "version": "0.2.4",
     "description": "Show SharpSpring info as a widget.",
     "homepage": "http://www.amperagemarketing.com",
     "license": "GPL v3+",
@@ -1053,9 +1053,9 @@
     "displayName": "Treemap Visualization"
   },
   "TwitterFeedWidgetByAmperage": {
-    "sha256": "f96d0d5641a7a176ae5431d2f36e4ab3ff5dd0fc415b8b10cc689519de64c91c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TwitterFeedWidgetByAmperage/download/1.0.4",
-    "version": "1.0.4",
+    "sha256": "04b9aea22ae7de09d0a5a4188a4e8d14b2d61a702e7398efb9cfe35c46cd8292",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TwitterFeedWidgetByAmperage/download/1.0.6",
+    "version": "1.0.6",
     "description": "Show Twitter Feed as a configurable widget.",
     "homepage": "https://www.amperagemarketing.com",
     "license": "GPL v3+",
