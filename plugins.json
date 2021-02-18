@@ -99,9 +99,9 @@
     "displayName": "Chat"
   },
   "ClassicCounter": {
-    "sha256": "362ede99dc7a3ae38c5fb729a99c8c011249813d5f15b85c8876c1dccb297474",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicCounter/download/0.3.0",
-    "version": "0.3.0",
+    "sha256": "2eb47ae9e471d540b793be221b3fcd8845f0548bacc10be80945a1345fa46a83",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicCounter/download/0.3.1",
+    "version": "0.3.1",
     "description": "Embed a view counter in the style of classic CGI scripts into your website",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
