@@ -351,9 +351,9 @@
     "displayName": "Free Mobile Messaging"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "df3f6e1bedbe98cec60bbcf8085f8c7b00f1c9dc92fb1143ea2fa96d2295668e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/4.1.0",
-    "version": "4.1.0",
+    "sha256": "a042fc92b01a7ff6082c186951aa42d8b9ac023a2c24ed015422f1b310c1d3d8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/4.1.1",
+    "version": "4.1.1",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -970,6 +970,15 @@
     "homepage": "https://github.com/KaanErturk/piwik-SiteUrlTrackingID",
     "license": "GPL v3+",
     "displayName": "Site Url Tracking ID"
+  },
+  "Sms77": {
+    "sha256": "b054bab32f2ec4c926bef5791941cfcb0e414c451972ff1da99dfa732bcea18b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Sms77/download/1.1.0",
+    "version": "1.1.0",
+    "description": "Send SMS via Sms77.io",
+    "homepage": "https://sms77.io",
+    "license": "GPL v3+",
+    "displayName": "Sms 77"
   },
   "SnoopyBehavioralScoring": {
     "sha256": "5e27b08699e547a7f24d203f7b254cc5b668c1c5051ca57eeaf12b66207575b9",
