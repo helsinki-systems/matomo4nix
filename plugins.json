@@ -769,7 +769,7 @@
     "url": "https://plugins.matomo.org/api/2.0/plugins/ProtectTrackID/download/0.2.0",
     "version": "0.2.0",
     "description": "Provides a option to protect idSite using hash instead default numeric",
-    "homepage": "https://github.com/joubertredrat/Piwik-ProtectTrackID",
+    "homepage": "https://github.com/joubertredrat/Matomo-ProtectTrackID",
     "license": "GPL v3+",
     "displayName": "Protect Track ID"
   },
