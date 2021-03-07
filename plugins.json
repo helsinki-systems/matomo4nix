@@ -765,12 +765,12 @@
     "displayName": "Profile Avatar"
   },
   "ProtectTrackID": {
-    "sha256": "5177d26ff0efe3289c7d8520876ee90e76749add0446093c83f0ae21c8f9a2b7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProtectTrackID/download/0.2.0",
-    "version": "0.2.0",
+    "sha256": "8ea4447c0712243bf3525ce6e0949f3c4cd6fe8c8339028c174825bb056af3f7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProtectTrackID/download/2.0.0",
+    "version": "2.0.0",
     "description": "Provides a option to protect idSite using hash instead default numeric",
     "homepage": "https://github.com/joubertredrat/Matomo-ProtectTrackID",
-    "license": "GPL v3+",
+    "license": "MIT",
     "displayName": "Protect Track ID"
   },
   "Provider": {
