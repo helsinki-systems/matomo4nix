@@ -351,9 +351,9 @@
     "displayName": "Free Mobile Messaging"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "a042fc92b01a7ff6082c186951aa42d8b9ac023a2c24ed015422f1b310c1d3d8",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/4.1.1",
-    "version": "4.1.1",
+    "sha256": "6a6e5b159f7a1ae335db20d8815e18ab52585a81423527bca3dd25567823ab9d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/4.1.2",
+    "version": "4.1.2",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
