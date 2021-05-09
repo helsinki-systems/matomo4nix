@@ -126,9 +126,9 @@
     "displayName": "Cloudflare Location Provider"
   },
   "Counter": {
-    "sha256": "69479d2c5c30233b19f36e05115f51cb81cf0ac36596b95b708e2cf8774f9bdf",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Counter/download/3.0.1",
-    "version": "3.0.1",
+    "sha256": "18e5755229d2030bf5acee64c2fa02ab5522cc11030af1b7cf8ea90175109fbc",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Counter/download/3.0.2",
+    "version": "3.0.2",
     "description": "Display Hits/Visits on image. Display Hits/Visits/from Countries stats as text via ajax requests.",
     "homepage": "http://xn--80aeqbhthr9b.com/en/others/piwik/10-piwik-graphical-counter.html",
     "license": "GPL v3+",
