@@ -251,6 +251,15 @@
     "license": "GPL-3.0+",
     "displayName": "Device Pixel Ratio"
   },
+  "DiagnosticsExtended": {
+    "sha256": "f226c19a40008809b3a811baae93c114537008341ff8801d7b504a4d30eabb51",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DiagnosticsExtended/download/0.1.6",
+    "version": "0.1.6",
+    "description": "Additional checks for the System Check",
+    "homepage": "https://lw1.at",
+    "license": "GPL v3+",
+    "displayName": "Diagnostics Extended"
+  },
   "DisableTracking": {
     "sha256": "ed761a4b635e4e7f120e6ab9ea146f6d3501d98b5ed7b477ea91a64c87c41040",
     "url": "https://plugins.matomo.org/api/2.0/plugins/DisableTracking/download/1.2.0",
