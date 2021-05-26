@@ -783,9 +783,9 @@
     "displayName": "Protect Track ID"
   },
   "Provider": {
-    "sha256": "b51bb8a24fe2aa1acf67fabf8a56c6d6e8b33d5a5469970eb683fd2516d56e0e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/4.0.2",
-    "version": "4.0.2",
+    "sha256": "3837067ebd642b190ab4a6aa0d97459a22f4c492428bd9b73c526849d7d487d2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/4.0.3",
+    "version": "4.0.3",
     "description": "Reports the Internet Service Provider of the visitors.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
