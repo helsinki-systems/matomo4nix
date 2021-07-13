@@ -279,9 +279,9 @@
     "displayName": "Environment Variables"
   },
   "ExcludeByDDNS": {
-    "sha256": "7017fb4717c4f04b2b557871e86a916b0acdd089b3f7e152ebf33b4656628159",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExcludeByDDNS/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "16b8aea0e01a76e065fe603d5edec586ee31d3be2bd04ff78a59f12b5e64b143",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExcludeByDDNS/download/4.0.2",
+    "version": "4.0.2",
     "description": "This plugin allows you to dynamically exclude a IP using DDNS update",
     "homepage": "http://github.com/sgiehl/piwik-plugin-ExcludeByDDNS",
     "license": "GPL v3+",
