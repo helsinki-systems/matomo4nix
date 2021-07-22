@@ -89,6 +89,15 @@
     "license": "GPL v3+",
     "displayName": "Bot Tracker"
   },
+  "CampusGeoIP": {
+    "sha256": "61b76bc9c7b60c8a0ba97bc67fb215dace5db2787b9dbcc0d7189d7754df90b8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CampusGeoIP/download/4.0.1",
+    "version": "4.0.1",
+    "description": "This location provider is designed to geolocate ips across a campus in an intranet type environment",
+    "homepage": "https://github.com/jbrule/matomoplugin-CampusGeoIP",
+    "license": "GPL v3+",
+    "displayName": "Campus Geo IP"
+  },
   "Chat": {
     "sha256": "29015a4d3d06da3d9a9a3d883a9feecb18691e30665b5f8ac4c3ba2bbe84d449",
     "url": "https://plugins.matomo.org/api/2.0/plugins/Chat/download/0.3.2",
