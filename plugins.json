@@ -207,18 +207,18 @@
     "displayName": "Custom Variables"
   },
   "CustomiseTranslations": {
-    "sha256": "1af1bb512612c5e53779ca30014780842352ebe2a59fd2ce3bd5eaf603492dbc",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomiseTranslations/download/1.0.1",
-    "version": "1.0.1",
+    "sha256": "995a42ad34356350f98798402464a928e9183dd81668134709e3998dc25fe1b5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomiseTranslations/download/1.0.2",
+    "version": "1.0.2",
     "description": "This plugin allows you to modify all translateable strings in Matomo",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
     "displayName": "Customise Translations"
   },
   "DevelopmentToogle": {
-    "sha256": "790af8cee67e39321b10d44900a90c9e54c1267b5ddc73e81e1860f9584017fe",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DevelopmentToogle/download/0.2.1",
-    "version": "0.2.1",
+    "sha256": "80c347d6b8793c73af346ad8f9cda798a41374f631e7e139c57ab42f6e5a1a13",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DevelopmentToogle/download/0.2.2",
+    "version": "0.2.2",
     "description": "Quickly enable and disable the development mode",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
@@ -261,9 +261,9 @@
     "displayName": "Device Pixel Ratio"
   },
   "DiagnosticsExtended": {
-    "sha256": "2a91c2a932dd836726ae1e28f69f56ca3d2b79639f3d1d8244e1c06c8d65d1cf",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DiagnosticsExtended/download/0.1.7",
-    "version": "0.1.7",
+    "sha256": "2056900305f5c437f2bfba74975549f55003fa664119fc6696dc68baf3639fb4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DiagnosticsExtended/download/0.1.8",
+    "version": "0.1.8",
     "description": "Additional checks for the System Check",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
@@ -549,9 +549,9 @@
     "displayName": "Kafka Push"
   },
   "LanguageToogle": {
-    "sha256": "cb92f15ed2903138be3e7962275fe3eea3119bfd312dd50e025a0a8cee611e76",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LanguageToogle/download/0.3.1",
-    "version": "0.3.1",
+    "sha256": "895c8602c8ef5edc972d204bd665dc23e27cd5948b28353f0e5758a5df852f0a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LanguageToogle/download/0.3.2",
+    "version": "0.3.2",
     "description": "Quickly change the language of Matomo",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
@@ -729,9 +729,9 @@
     "displayName": "Password Policy Enforcer"
   },
   "PasswordVerifier": {
-    "sha256": "8a6796614130b890901af8080149d43baa1c2456206f0a05e6d01640e361faf9",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/PasswordVerifier/download/0.2.0",
-    "version": "0.2.0",
+    "sha256": "e62c25235d09141679c6013f9e2f8c9a1e38f8ea49fdf6baefed9c6204d17226",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/PasswordVerifier/download/0.2.1",
+    "version": "0.2.1",
     "description": "Reject insecure passwords by searching for their hash in the haveibeenpwned.com database",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
@@ -774,9 +774,9 @@
     "displayName": "Platforms Report"
   },
   "ProfileAvatar": {
-    "sha256": "50439df78fce72259d453105ed5871bc671bd37c785475428427e9fb6a10efb9",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileAvatar/download/0.1.4",
-    "version": "0.1.4",
+    "sha256": "9fc2fe24522ed67009feec7753d16cc78d35e2c9dc29ba3037a72a752bccbd84",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileAvatar/download/0.1.5",
+    "version": "0.1.5",
     "description": "Show a random avatar on the Visitor Profile",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
