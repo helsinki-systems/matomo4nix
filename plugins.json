@@ -153,9 +153,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "3aba765bb87c765710266118d1a00d5091ca6d6e5e831333764c9e90528b4e30",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/4.0.2",
-    "version": "4.0.2",
+    "sha256": "799196f227a94798f43c9b4f898e13724800f42f22a9cd4842b9897d4224a85b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/4.0.3",
+    "version": "4.0.3",
     "description": "Create custom Alerts to be notified of important changes on your website or app! ",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -421,6 +421,15 @@
     "homepage": "https://github.com/jbrule/matomoplugin-HidePasswordReset",
     "license": "GPL v3+",
     "displayName": "Hide Password Reset"
+  },
+  "IE11ReleaseChannel": {
+    "sha256": "0ceaccabf714c5d1f02ed4a4eb6c75c795a5e5f7785b807557aa8bb65c73989d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IE11ReleaseChannel/download/4.0.1",
+    "version": "4.0.1",
+    "description": "Adds a new release channel that is still compatible with Internet Explorer 11.",
+    "homepage": "https://matomo.org",
+    "license": "GPL v3+",
+    "displayName": "Release Channel for IE 11"
   },
   "IP2Location": {
     "sha256": "3af4095e66f9aed6b16a9d696f0f517b64a9d76d536711e0f917e1def8adb52b",
