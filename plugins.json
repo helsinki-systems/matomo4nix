@@ -450,9 +450,9 @@
     "displayName": "IP2Proxy"
   },
   "IPReports": {
-    "sha256": "bb6b11ed570d495587eaf480f7166a3c5617e14b0f79c204595a50609b0c967e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IPReports/download/4.1.0",
-    "version": "4.1.0",
+    "sha256": "500dc191588cfd8763246cc811a80c683ab0319cd1d598c0420d407b7b22e801",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IPReports/download/4.1.1",
+    "version": "4.1.1",
     "description": "Adds new IP reports to Matomo",
     "homepage": "http://github.com/sgiehl/piwik-plugin-IPReports",
     "license": "GPL v3+",
@@ -936,9 +936,9 @@
     "displayName": "Shortcode Tracker"
   },
   "Signup": {
-    "sha256": "8e53e0c2bd409982b8d03bba1c82d2be595ce678eb080b24b679e8082be5fe29",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Signup/download/4.0.0",
-    "version": "4.0.0",
+    "sha256": "3f34e18522f3cf352c4d341a1167149568640cbd31f9e961d0c42c3eb8b17082",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Signup/download/4.0.2",
+    "version": "4.0.2",
     "description": "Let new users signup on your Matomo instance to track their own website.",
     "homepage": "https://github.com/alcalyn/matomo-plugin-signup",
     "license": "GPL-3.0+",
