@@ -846,9 +846,9 @@
     "displayName": "Report Publisher"
   },
   "RerIntranetSubnetwork": {
-    "sha256": "fe3bc7ed36febd6f822edf06dc023098f3bffa2c1ba2fef1a4d50f2af5986928",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RerIntranetSubnetwork/download/3.0.0",
-    "version": "3.0.0",
+    "sha256": "0f6b2837d40aa1c167e8d85f1cbede401b7cb01cc591ad2295dc3ac6a5ef7d60",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RerIntranetSubnetwork/download/4.1.0",
+    "version": "4.1.0",
     "description": "Adds a new Subnetwork dimension and report",
     "homepage": "https://github.com/RegioneER/RerIntranetSubnetwork",
     "license": "GPL-3.0+",
