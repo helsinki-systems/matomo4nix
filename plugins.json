@@ -81,9 +81,9 @@
     "displayName": "Bee Liked DBIP"
   },
   "BotTracker": {
-    "sha256": "f9271e81fdd07719f7c111c32af756192657e06ad6e1744ba237ca35e6210355",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/BotTracker/download/2.03",
-    "version": "2.03",
+    "sha256": "69891ca668f614055e6ab02fc18d3bf8723656cf3d2b940d08ce091ab12e1b6b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/BotTracker/download/2.04",
+    "version": "2.04",
     "description": "Detection of bots & spiders and count their visits without tracking them in the visitor-log.",
     "homepage": "https://github.com/Thomas--F/BotTracker",
     "license": "GPL v3+",
@@ -315,9 +315,9 @@
     "displayName": "Exposure Research Tools"
   },
   "ExtraTools": {
-    "sha256": "a81402ee1b00317c68071dac2bb4f1468edad87585fb0cb80ecbf792a18e87ac",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/4.0.0-beta4",
-    "version": "4.0.0-beta4",
+    "sha256": "a40afb8f070f0d6a9e29903528c1cadb86bb1df16940eadbc9d0a1a07213a168",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/4.0.0-beta5",
+    "version": "4.0.0-beta5",
     "description": "Adds automatic installation from the console, db backups, creation of new sites etc.",
     "homepage": "https://digitalist.se/contributing-matomo",
     "license": "GPL v3+",
