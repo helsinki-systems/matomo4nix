@@ -207,18 +207,18 @@
     "displayName": "Custom Variables"
   },
   "CustomiseTranslations": {
-    "sha256": "995a42ad34356350f98798402464a928e9183dd81668134709e3998dc25fe1b5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomiseTranslations/download/1.0.2",
-    "version": "1.0.2",
+    "sha256": "ededa8621d3c5eab7bb9b57238429fc47a76fa84a1550d9410bf2bcf353805cb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomiseTranslations/download/1.0.3",
+    "version": "1.0.3",
     "description": "This plugin allows you to modify all translateable strings in Matomo",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
     "displayName": "Customise Translations"
   },
   "DevelopmentToogle": {
-    "sha256": "80c347d6b8793c73af346ad8f9cda798a41374f631e7e139c57ab42f6e5a1a13",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DevelopmentToogle/download/0.2.2",
-    "version": "0.2.2",
+    "sha256": "24adc85c85daab4860838feb15235895c0d5e70510488bc326b9e1bb59f90b99",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DevelopmentToogle/download/0.2.3",
+    "version": "0.2.3",
     "description": "Quickly enable and disable the development mode",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
@@ -558,9 +558,9 @@
     "displayName": "Kafka Push"
   },
   "LanguageToogle": {
-    "sha256": "895c8602c8ef5edc972d204bd665dc23e27cd5948b28353f0e5758a5df852f0a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LanguageToogle/download/0.3.2",
-    "version": "0.3.2",
+    "sha256": "90fa6b214e2f1112ea183ced60ea39ff093582a16246a6b8c4648a56edb69c20",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LanguageToogle/download/0.3.3",
+    "version": "0.3.3",
     "description": "Quickly change the language of Matomo",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
@@ -738,9 +738,9 @@
     "displayName": "Password Policy Enforcer"
   },
   "PasswordVerifier": {
-    "sha256": "e62c25235d09141679c6013f9e2f8c9a1e38f8ea49fdf6baefed9c6204d17226",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/PasswordVerifier/download/0.2.1",
-    "version": "0.2.1",
+    "sha256": "cf6dc622e7c53718902ccf228174a431744cc2d3b0c530c906a0c4f9862d2a22",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/PasswordVerifier/download/0.2.2",
+    "version": "0.2.2",
     "description": "Reject insecure passwords by searching for their hash in the haveibeenpwned.com database",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
@@ -783,9 +783,9 @@
     "displayName": "Platforms Report"
   },
   "ProfileAvatar": {
-    "sha256": "9fc2fe24522ed67009feec7753d16cc78d35e2c9dc29ba3037a72a752bccbd84",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileAvatar/download/0.1.5",
-    "version": "0.1.5",
+    "sha256": "31a8d3960aa24175109972c898ca10cc5f0651a123830df1fc2fd0f29cde4d01",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileAvatar/download/0.1.6",
+    "version": "0.1.6",
     "description": "Show a random avatar on the Visitor Profile",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
@@ -1044,9 +1044,9 @@
     "displayName": "Top Pages By Actions"
   },
   "TrackerDomain": {
-    "sha256": "745f6ec2c25bb28d1ba2c55bf5402802df8cc075004165d3aaecf470da20f500",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/0.1.0",
-    "version": "0.1.0",
+    "sha256": "ec87725cf4aaeac91e127cb35afa9f385ab5ff50c021cb02a9e46833c5065ed2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/0.2.1",
+    "version": "0.2.1",
     "description": "Set Domain for js trackers, useful when your UI is on another domain.",
     "homepage": "https://github.com/digitalist-se/TrackerDomain",
     "license": "GPL v3+",
