@@ -432,9 +432,9 @@
     "displayName": "Release Channel for IE 11"
   },
   "IP2Location": {
-    "sha256": "d91e3f14dfb8089a14ef9fb44a06f9d7ae94c8a8d5f56c466b1b2d1ad5d0e830",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/4.0.4",
-    "version": "4.0.4",
+    "sha256": "42328de34b68da5e62682de68974b7ac48b1abd07134fec3b4b4c10d60b68b39",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/4.0.6",
+    "version": "4.0.6",
     "description": "Use IP2Location geolocation database to lookup for accurate visitor location in Matomo (Piwik).",
     "homepage": "http://www.ip2location.com/developers/piwik",
     "license": "GPL-3.0+",
