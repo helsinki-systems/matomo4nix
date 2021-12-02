@@ -432,9 +432,9 @@
     "displayName": "Release Channel for IE 11"
   },
   "IP2Location": {
-    "sha256": "42328de34b68da5e62682de68974b7ac48b1abd07134fec3b4b4c10d60b68b39",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/4.0.6",
-    "version": "4.0.6",
+    "sha256": "e2a17ead6bf8b013addcebf9db71e5056cfc0d09d473d89eae2a2561e0da3254",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/4.0.7",
+    "version": "4.0.7",
     "description": "Use IP2Location geolocation database to lookup for accurate visitor location in Matomo (Piwik).",
     "homepage": "http://www.ip2location.com/developers/piwik",
     "license": "GPL-3.0+",
@@ -450,9 +450,9 @@
     "displayName": "IP2Proxy"
   },
   "IPReports": {
-    "sha256": "500dc191588cfd8763246cc811a80c683ab0319cd1d598c0420d407b7b22e801",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IPReports/download/4.1.1",
-    "version": "4.1.1",
+    "sha256": "3b257817c8dbf71fbb275d76435e6e9c580db8df077453c95d56a8042b13dea3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IPReports/download/4.1.2",
+    "version": "4.1.2",
     "description": "Adds new IP reports to Matomo",
     "homepage": "http://github.com/sgiehl/piwik-plugin-IPReports",
     "license": "GPL v3+",
