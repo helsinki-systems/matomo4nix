@@ -261,9 +261,9 @@
     "displayName": "Device Pixel Ratio"
   },
   "DiagnosticsExtended": {
-    "sha256": "2056900305f5c437f2bfba74975549f55003fa664119fc6696dc68baf3639fb4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DiagnosticsExtended/download/0.1.8",
-    "version": "0.1.8",
+    "sha256": "489af989674aa0644fd5b32c447eb3b7c54009977cef36b0a0945f7c149d07d5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DiagnosticsExtended/download/0.1.9",
+    "version": "0.1.9",
     "description": "Additional checks for the System Check",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
