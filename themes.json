@@ -3,7 +3,7 @@
     "sha256": "433cafb8eba7f32a66488fa0e35a3ca378f394509ef7e5cd0ac57be91270aeba",
     "url": "https://plugins.matomo.org/api/2.0/plugins/AlternativeSparklines/download/0.2.0",
     "version": "0.2.0",
-    "description": "a minimalistic alternative to the default sparkline style",
+    "description": "a minimalistic alternative to the default sparkline style.",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
     "displayName": "Alternative Sparklines"
@@ -48,7 +48,7 @@
     "sha256": "cc9e898595623d204637c04005653d9646b063c50a0f811a808e1fcd56a43790",
     "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/1.1.7",
     "version": "1.1.7",
-    "description": "A modern dark theme for Matomo",
+    "description": "A modern dark theme for Matomo.",
     "homepage": "https://lazuli.agency",
     "license": "GPL v3+",
     "displayName": "Dark Theme"
@@ -57,7 +57,7 @@
     "sha256": "6797aa9823e85cdbae7cb45777b0a0c2cc41817b4a25db8dbf6bcb3f021847f5",
     "url": "https://plugins.matomo.org/api/2.0/plugins/Darkness/download/0.1.4",
     "version": "0.1.4",
-    "description": "A dark theme for piwik",
+    "description": "A dark theme for piwik.",
     "homepage": "https://github.com/TheCrowsJoker/DarknessPiwikTheme",
     "license": "GPLv3",
     "displayName": "Darkness"
@@ -75,7 +75,7 @@
     "sha256": "6ddac584a003a3bff49b9b25e70d5fd58a1ce5f6280eef292b723e8d50a955aa",
     "url": "https://plugins.matomo.org/api/2.0/plugins/GTheme/download/0.0.2",
     "version": "0.0.2",
-    "description": "A mimimal Matomo theme",
+    "description": "A mimimal Matomo theme.",
     "homepage": "https://gugulet.hu",
     "license": "GPL v3+",
     "displayName": "GTheme"
@@ -84,7 +84,7 @@
     "sha256": "54199628be3fe9d25869f290e1bd0bdcdf7c897626146780be44eb22dc9c9467",
     "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/1.1.1",
     "version": "1.1.1",
-    "description": "A sublime Google Analytics theme for Matomo",
+    "description": "A sublime Google Analytics theme for Matomo.",
     "homepage": "https://lazuli.agency",
     "license": "GPL v3+",
     "displayName": "Google Theme"
@@ -156,7 +156,7 @@
     "sha256": "64063047d1b31872e26f150a3175bae8e79616d30e52bce215ae5de02ad4dc3f",
     "url": "https://plugins.matomo.org/api/2.0/plugins/Vale/download/0.1.3",
     "version": "0.1.3",
-    "description": "A muted red, white, and blue theme",
+    "description": "A muted red, white, and blue theme.",
     "homepage": "https://github.com/ashleighpearson/apcustomthemes",
     "license": "GPLv3",
     "displayName": "Vale"
