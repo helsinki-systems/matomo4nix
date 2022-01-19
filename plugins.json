@@ -1044,9 +1044,9 @@
     "displayName": "Top Pages By Actions"
   },
   "TrackerDomain": {
-    "sha256": "ec87725cf4aaeac91e127cb35afa9f385ab5ff50c021cb02a9e46833c5065ed2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/0.2.1",
-    "version": "0.2.1",
+    "sha256": "22a3dabf57097bd90c4bf171b99810481af9c28a48b7f670f6911d6e6d810259",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/0.2.2",
+    "version": "0.2.2",
     "description": "Set Domain for js trackers, useful when your UI is on another domain.",
     "homepage": "https://github.com/digitalist-se/TrackerDomain",
     "license": "GPL v3+",
@@ -1080,9 +1080,9 @@
     "displayName": "Tracking Code Customizer"
   },
   "TrackingSpamPrevention": {
-    "sha256": "dd7691baf39fc067f25110f47cd42b6579f9aaa36ebb35b5015c14b17160e689",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/4.1.1",
-    "version": "4.1.1",
+    "sha256": "27646ce046f1a4c64d778093c224551130d8751e8a859f3db83b6b5c3e6a9eb0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/4.1.2",
+    "version": "4.1.2",
     "description": "This plugin offers various options to prevent spammers and bots from making your data inaccurate so you can rely on your data again.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
