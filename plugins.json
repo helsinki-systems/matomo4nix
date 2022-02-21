@@ -558,9 +558,9 @@
     "displayName": "Kafka Push"
   },
   "LanguageToogle": {
-    "sha256": "90fa6b214e2f1112ea183ced60ea39ff093582a16246a6b8c4648a56edb69c20",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LanguageToogle/download/0.3.3",
-    "version": "0.3.3",
+    "sha256": "17146dca9fae5b5778b74baee4ae8e5c2bcc0f21e933302f175c17e497bf233c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LanguageToogle/download/0.3.5",
+    "version": "0.3.5",
     "description": "Quickly change the language of Matomo.",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
