@@ -846,18 +846,18 @@
     "displayName": "Report Publisher"
   },
   "RerIntranetSubnetwork": {
-    "sha256": "5e56aea51f7897dd4f98affed872d63e55eb5e27dde2332866b05426faae48f5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RerIntranetSubnetwork/download/4.1.6",
-    "version": "4.1.6",
-    "description": "Measure your intranet visitors with a new Subnetwork dimension and related report.",
+    "sha256": "4b63a5f9502d64dc4149decd53a4986187df09cdad9ecd0c0f7a35b79842d70f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RerIntranetSubnetwork/download/4.1.7",
+    "version": "4.1.7",
+    "description": "Adds a new Subnetwork dimension and report.",
     "homepage": "https://github.com/RegioneER/RerIntranetSubnetwork",
     "license": "GPL-3.0+",
     "displayName": "Rer Intranet Subnetwork"
   },
   "RerUserDates": {
-    "sha256": "870ca89a2a1edc39c9e381e1669c4eeed6c787913720057030e44ad3bbe6505a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RerUserDates/download/4.0.3",
-    "version": "4.0.3",
+    "sha256": "7ff195ea6046a41d74eabdd47d535568a617c968696d0e60342accde05a81d5d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RerUserDates/download/4.0.4",
+    "version": "4.0.4",
     "description": "Limit report generation by hiding custom period date ranges selection in the calendar, also avoid users to set custom ranges in their profile.",
     "homepage": "https://github.com/RegioneER/RerUserDates",
     "license": "GPL v3+",
