@@ -288,9 +288,9 @@
     "displayName": "Environment Variables"
   },
   "ExcludeByDDNS": {
-    "sha256": "16b8aea0e01a76e065fe603d5edec586ee31d3be2bd04ff78a59f12b5e64b143",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExcludeByDDNS/download/4.0.2",
-    "version": "4.0.2",
+    "sha256": "ece6dc7743a52970879612373ec165e475f32b2a5d726df327cdf87bc795b0a6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExcludeByDDNS/download/4.0.3",
+    "version": "4.0.3",
     "description": "This plugin allows you to dynamically exclude a IP using DDNS update.",
     "homepage": "http://github.com/sgiehl/piwik-plugin-ExcludeByDDNS",
     "license": "GPL v3+",
@@ -828,9 +828,9 @@
     "displayName": "Quick Exclude Visitor IP"
   },
   "ReferrersManager": {
-    "sha256": "26f5f667a12944e19c994eda7750252c7100472a640e737966afa71fa575dc4f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ReferrersManager/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "a95bc6e3cac3407a7d46684b26ac2bea7ab1f3a1ce77394db5b99107a1aa8f9b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ReferrersManager/download/4.0.2",
+    "version": "4.0.2",
     "description": "Allows to view and manage the search engines and social networks that Matomo is able to detect.",
     "homepage": "https://github.com/sgiehl/piwik-plugin-ReferrersManager",
     "license": "GPL v3+",
