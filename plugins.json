@@ -243,11 +243,11 @@
     "displayName": "Device Feature Web GL"
   },
   "DeviceNetworkInformation": {
-    "sha256": "73da9ae7b6453581fc03f7ce744b9589328506fbdd92acc02db7433928634713",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceNetworkInformation/download/3.0.3",
-    "version": "3.0.3",
+    "sha256": "bb938522b52f79a6500575cf7f9d848974f2eee55d8bf671f670bfa62e7f161a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceNetworkInformation/download/4.0.1",
+    "version": "4.0.1",
     "description": "Detects network type on mobile devices where the browser supports it.",
-    "homepage": "https://github.com/MichaelHeerklotz/plugin-DeviceNetworkInformation",
+    "homepage": "https://github.com/MichaelRoosz/plugin-DeviceNetworkInformation",
     "license": "GPL v3+",
     "displayName": "Device Network Information"
   },
@@ -396,11 +396,11 @@
     "displayName": "Grab Gravatar"
   },
   "GroupPermissions": {
-    "sha256": "dd78d09fdbd8c9fd12550db5815bf764c30c323ee732617c600666f0e990cdac",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GroupPermissions/download/3.9.1",
-    "version": "3.9.1",
+    "sha256": "374de743eb916a335200ad8f96c05e62615a462138a24b8c69b71eca729afbda",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GroupPermissions/download/4.0.2",
+    "version": "4.0.2",
     "description": "Manage user permissions with groups.",
-    "homepage": "https://github.com/MichaelHeerklotz/plugin-GroupPermissions",
+    "homepage": "https://github.com/MichaelRoosz/plugin-GroupPermissions",
     "license": "GPL v3+",
     "displayName": "Group Permissions"
   },
