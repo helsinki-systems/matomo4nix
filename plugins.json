@@ -396,9 +396,9 @@
     "displayName": "Grab Gravatar"
   },
   "GroupPermissions": {
-    "sha256": "374de743eb916a335200ad8f96c05e62615a462138a24b8c69b71eca729afbda",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GroupPermissions/download/4.0.2",
-    "version": "4.0.2",
+    "sha256": "fb2e03e110cd39bd8c765f6b8a05b24efe3c684c9d01ebce38c2c445f56d9005",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GroupPermissions/download/4.0.5",
+    "version": "4.0.5",
     "description": "Manage user permissions with groups.",
     "homepage": "https://github.com/MichaelRoosz/plugin-GroupPermissions",
     "license": "GPL v3+",
