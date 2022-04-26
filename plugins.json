@@ -810,9 +810,9 @@
     "displayName": "Provider"
   },
   "QueuedTracking": {
-    "sha256": "3a225b1a1c8a007b868fd9e678334518f48edec1bd6e79e8bc50e7eca300b6d7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/4.0.2",
-    "version": "4.0.2",
+    "sha256": "ae980bd65aff7d9d572bc1a153f5822a1c8e3719bc608bfced3de5120ba5bd7a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/4.0.3",
+    "version": "4.0.3",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
