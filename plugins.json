@@ -846,10 +846,10 @@
     "displayName": "Report Publisher"
   },
   "RerIntranetSubnetwork": {
-    "sha256": "4b63a5f9502d64dc4149decd53a4986187df09cdad9ecd0c0f7a35b79842d70f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RerIntranetSubnetwork/download/4.1.7",
-    "version": "4.1.7",
-    "description": "Adds a new Subnetwork dimension and report.",
+    "sha256": "dbcd72e2faea9b30f6536677c8f2a96fb562f796c10f397431bf31331b705feb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RerIntranetSubnetwork/download/4.1.8",
+    "version": "4.1.8",
+    "description": "Measure your intranet visitors with a new Subnetwork dimension and related report.",
     "homepage": "https://github.com/RegioneER/RerIntranetSubnetwork",
     "license": "GPL-3.0+",
     "displayName": "Rer Intranet Subnetwork"
