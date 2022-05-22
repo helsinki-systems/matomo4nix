@@ -315,9 +315,9 @@
     "displayName": "Exposure Research Tools"
   },
   "ExtraTools": {
-    "sha256": "28c24ffbee10bcb41b0f0b8f8ced1d4983e86524ba224cca50aec06a79f542b4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/4.0.0-beta8",
-    "version": "4.0.0-beta8",
+    "sha256": "b94fd7cca062cee73ac60e749388b56e5902fedea0d8b1ea936a7a9247d82849",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/4.0.0-beta9",
+    "version": "4.0.0-beta9",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://www.digitalist.se/matomo",
     "license": "GPL v3+",
