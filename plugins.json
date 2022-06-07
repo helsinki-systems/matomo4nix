@@ -54,9 +54,9 @@
     "displayName": "Archive Site"
   },
   "Bandwidth": {
-    "sha256": "379be7bde76e2112ee6e62c01e803f25244825eda5d5c0005ab0c286b162fe50",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "f7816a4231f8a3f84a96baf7d7602d6ad94e8842d1926e5ff43745b27343c131",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/4.0.2",
+    "version": "4.0.2",
     "description": "Monitor Bandwidth for each page, download, and measure overall traffic in bytes. For requirements check out the description.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
