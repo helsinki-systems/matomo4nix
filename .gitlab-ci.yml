@@ -4,6 +4,7 @@ stages:
   - run
   - test
   - push
+  - npins
 
 variables:
   COMMIT_LOG: "1"
@@ -39,3 +40,12 @@ push:
     - schedules
   script:
     - ./ci/push
+
+helsinki_npins:
+  stage: npins
+  only:
+    - schedules
+  trigger: helsinki-systems/helsinki
+  variables:
+    COMMAND: update_pin
+    PIN: matomo4nix
