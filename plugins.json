@@ -738,9 +738,9 @@
     "displayName": "Password Policy Enforcer"
   },
   "PasswordVerifier": {
-    "sha256": "cf6dc622e7c53718902ccf228174a431744cc2d3b0c530c906a0c4f9862d2a22",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/PasswordVerifier/download/0.2.2",
-    "version": "0.2.2",
+    "sha256": "fc45695cc1506ae04828e404254a392ee6e4109095ab1e8ef0cf133e117a1058",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/PasswordVerifier/download/0.2.3",
+    "version": "0.2.3",
     "description": "Reject insecure passwords by searching for their hash in the haveibeenpwned.com database.",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
