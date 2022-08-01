@@ -522,9 +522,9 @@
     "displayName": "IP 2 Hostname"
   },
   "JsTrackerCustom": {
-    "sha256": "e032e0bcb349d142b170df06fd409bc2aa6b4f6e729c5b2b73dd15ada5339a14",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerCustom/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "cd52a5bef5cec0d980f29c70837625bb29a9f9b29368c75433741c9986738c59",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerCustom/download/4.0.2",
+    "version": "4.0.2",
     "description": "This plugin allows you to add custom JavaScript to Matomos tracking code.",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
@@ -684,9 +684,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "ba3657d7c3996be6d8edf57f8ccc76e05847078cb04c2368327e31d1f8898ba4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/4.1.1",
-    "version": "4.1.1",
+    "sha256": "cb6d400d2e12a35ccc41558032b4c85469428d8fb67383fc9de4ea6f4e94c46b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/4.1.3",
+    "version": "4.1.3",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -801,18 +801,18 @@
     "displayName": "Protect Track ID"
   },
   "Provider": {
-    "sha256": "3837067ebd642b190ab4a6aa0d97459a22f4c492428bd9b73c526849d7d487d2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/4.0.3",
-    "version": "4.0.3",
+    "sha256": "7926bd7189485c3d288593d782ba7e2995ea9cf7406abee9f4c16afd1df42ed1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/4.0.4",
+    "version": "4.0.4",
     "description": "Reports the Internet Service Provider of the visitors.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
     "displayName": "Provider"
   },
   "QueuedTracking": {
-    "sha256": "422520eecb08794dda18dd81f189174d761bc88423025e0b68d535a37133cfe3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/4.0.4",
-    "version": "4.0.4",
+    "sha256": "b1eb1cf40cbf8d41d2336641339cddaef3645f1ac65f456dc0caa476fe44a17c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/4.0.5",
+    "version": "4.0.5",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -864,9 +864,9 @@
     "displayName": "Rer User Dates"
   },
   "RestrictLanguageSelection": {
-    "sha256": "1b98d22725e4d5d01ba1b684a35401ed2d9f2622b642986e370146e36062976e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RestrictLanguageSelection/download/4.0.0",
-    "version": "4.0.0",
+    "sha256": "01e0ea0ca3f7fbcf9214749764e7236be8060628a966ce21b7c96e39a85dc710",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RestrictLanguageSelection/download/4.0.1",
+    "version": "4.0.1",
     "description": "Allows you to modify the list of available languages in language selector.",
     "homepage": "https://github.com/sgiehl/piwik-plugin-RestrictLanguageSelection",
     "license": "GPL v3+",
@@ -1080,18 +1080,18 @@
     "displayName": "Tracking Code Customizer"
   },
   "TrackingSpamPrevention": {
-    "sha256": "27646ce046f1a4c64d778093c224551130d8751e8a859f3db83b6b5c3e6a9eb0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/4.1.2",
-    "version": "4.1.2",
+    "sha256": "caa6561c4651a19a15508b34b27e3805c623b9216a7a666e41d4eb572822d770",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/4.1.3",
+    "version": "4.1.3",
     "description": "This plugin offers various options to prevent spammers and bots from making your data inaccurate so you can rely on your data again.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
     "displayName": "Tracking Spam Prevention"
   },
   "TreemapVisualization": {
-    "sha256": "7ebe2a76baa8297f6208d3082990d99f7eaebbe0b6240b62a405fe2034b90c92",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "fe4c393a99777036f9873314b93e92b2a2b85f8a8f69da125bef7b7e57ff8812",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/4.0.2",
+    "version": "4.0.2",
     "description": "Visualise any report in Matomo as a Treemap. Click on the Treemap icon in each report to load the visualisation.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1134,9 +1134,9 @@
     "displayName": "Visitor Avatar"
   },
   "VisitorGenerator": {
-    "sha256": "bd718eac6c4da7b2651379b9996f7aef1148103db174764311549afaf0acc6c0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/4.0.5",
-    "version": "4.0.5",
+    "sha256": "394eb0d1d61566c4a9f2ccef37b81bb418c410912baffa119ca905b6bdc4c483",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/4.0.6",
+    "version": "4.0.6",
     "description": "Developer tool that lets you generate fake visits. Useful if you are working with plugins or themes or if you use the Matomo API.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
