@@ -99,10 +99,10 @@
     "displayName": "MB"
   },
   "Modern": {
-    "sha256": "474e00377415dcb562e21c51d803fd39dd88681e32699302f05acb2d2df5e774",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Modern/download/1.0.9",
-    "version": "1.0.9",
-    "description": "Modern gives the Matomo user interface a minimalist look and feel.",
+    "sha256": "a527fd10a1a6fe7c4cd0225c7636b00c32874aeeec0050d6f924c111285098ad",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Modern/download/1.1.1",
+    "version": "1.1.1",
+    "description": "Modern gives the Matomo user interface a minimalist look and feel. Now also with dark mode and additional options.",
     "homepage": "https://whitespace.se/matomo/",
     "license": "GPL v3+",
     "displayName": "Modern"
