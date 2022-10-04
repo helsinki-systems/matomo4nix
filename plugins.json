@@ -450,9 +450,9 @@
     "displayName": "IP2Proxy"
   },
   "IPReports": {
-    "sha256": "3b257817c8dbf71fbb275d76435e6e9c580db8df077453c95d56a8042b13dea3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IPReports/download/4.1.2",
-    "version": "4.1.2",
+    "sha256": "86e49436d8ca2b1df4b64c7bf0bb9c08532acf677c703614aa0e259485b43d39",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IPReports/download/4.2.0",
+    "version": "4.2.0",
     "description": "Adds new IP reports to Matomo.",
     "homepage": "http://github.com/sgiehl/piwik-plugin-IPReports",
     "license": "GPL v3+",
