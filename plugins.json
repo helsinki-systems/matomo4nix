@@ -225,9 +225,9 @@
     "displayName": "Development Toogle"
   },
   "DeviceDetectorCache": {
-    "sha256": "220a7c5f554d6b3667a287acf9cfe0b9636f4498264861a535190d43158abc1a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceDetectorCache/download/4.2.3",
-    "version": "4.2.3",
+    "sha256": "9c3411a759ba6739b37f006583c59446ae1cd30a99b5af498cbadbe9a603177d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceDetectorCache/download/4.2.4",
+    "version": "4.2.4",
     "description": "Makes tracking faster by detecting many devices, operating systems, bots, and browsers from a cache.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
