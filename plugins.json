@@ -315,9 +315,9 @@
     "displayName": "Exposure Research Tools"
   },
   "ExtraTools": {
-    "sha256": "2287d4357f6c86a60ab52d0040edadd58daabeb18f4673f44ee220481df22cef",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/4.0.1-beta3",
-    "version": "4.0.1-beta3",
+    "sha256": "8c00d75957f00b63fd2fab022df275e005e18e19be3d57fa46cac720043f40ec",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/4.0.1-beta4",
+    "version": "4.0.1-beta4",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://www.digitalist.se/matomo",
     "license": "GPL v3+",
@@ -459,9 +459,9 @@
     "displayName": "IPReports"
   },
   "IPtoCompany": {
-    "sha256": "d1f9e58539f02e149116e77c7ce810e2ae381cf5c92ed6428feb55328a5ca76e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IPtoCompany/download/1.2.0",
-    "version": "1.2.0",
+    "sha256": "b2d2821913514af41414c743741104db3acbdb2a63f8a649d4b3dc85ec9aae79",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IPtoCompany/download/1.2.2",
+    "version": "1.2.2",
     "description": "Get the name of the companies that visit your website.",
     "homepage": "https://github.com/Romain/Matomo-IP-to-Company",
     "license": "GPL v3+",
@@ -540,9 +540,9 @@
     "displayName": "Js Tracker Force Async"
   },
   "KPIWidgets": {
-    "sha256": "3902c4bcd977d80825d91d51b1dd4c1b0c742552fec0a753aa28e98dc45debd1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/1.1.1",
-    "version": "1.1.1",
+    "sha256": "625ceab5eb5529d51e8065e096f4c20e3204a968183c656ef17ab5a41949bba4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/1.1.3",
+    "version": "1.1.3",
     "description": "Display KPIs on the dashboard for better readability.",
     "homepage": "https://lazuli.agency",
     "license": "GPL v3+",
