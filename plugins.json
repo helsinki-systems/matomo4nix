@@ -432,18 +432,18 @@
     "displayName": "Release Channel for IE 11"
   },
   "IP2Location": {
-    "sha256": "a95c39ee30e617a6d2baae37e3a9152d5f4056edc4e1c2c4958ef5426c22a705",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/4.0.9",
-    "version": "4.0.9",
+    "sha256": "ca9298035e0d34acf88bb44b268623da94a8cae09b4646e4124b6641d396d9f5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/4.1.0",
+    "version": "4.1.0",
     "description": "Use IP2Location geolocation database to lookup for accurate visitor location in Matomo (Piwik).",
     "homepage": "http://www.ip2location.com/developers/piwik",
     "license": "GPL-3.0+",
     "displayName": "IP 2 Location"
   },
   "IP2Proxy": {
-    "sha256": "df2687bbdbab1be85bbabbea6524f6cfdba86cc4588213f9a51996a0e95cc2fe",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Proxy/download/0.1.1",
-    "version": "0.1.1",
+    "sha256": "52a0f02c93745189823f2e69da40d81318d07eda77ec938affca4d3349b7befa",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Proxy/download/0.1.2",
+    "version": "0.1.2",
     "description": "Get the proxy details of visitors to your website.",
     "homepage": "https://github.com/ip2location/ip2proxy-matomo",
     "license": "GPL-3.0+",
