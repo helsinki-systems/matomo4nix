@@ -1044,9 +1044,9 @@
     "displayName": "Top Pages By Actions"
   },
   "TrackerDomain": {
-    "sha256": "c58506d1fb7c66749ffc45f9c79cd0c377c2b48a7071f6fc9d34f0ffab6b944f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/0.2.4",
-    "version": "0.2.4",
+    "sha256": "8d074a57c6b9077e064cc0eb4c21e35232b0c6da140b1ba8e90e5d1489cee0fd",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/0.3.1",
+    "version": "0.3.1",
     "description": "Set Domain for js trackers, useful when your UI is on another domain.",
     "homepage": "https://github.com/digitalist-se/TrackerDomain",
     "license": "GPL v3+",
