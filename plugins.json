@@ -432,9 +432,9 @@
     "displayName": "Release Channel for IE 11"
   },
   "IP2Location": {
-    "sha256": "7646bca394452b4da679aa029b7322874f9c6d03876bdf6d9b7ceb9fd4f357dd",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/4.1.1",
-    "version": "4.1.1",
+    "sha256": "7eeaabb50fbe362804951968c00e4021e727772399e8617b762752c7ac5044af",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/4.1.2",
+    "version": "4.1.2",
     "description": "Use IP2Location geolocation database to lookup for accurate visitor location in Matomo (Piwik).",
     "homepage": "http://www.ip2location.com/developers/piwik",
     "license": "GPL-3.0+",
@@ -936,9 +936,9 @@
     "displayName": "Shortcode Tracker"
   },
   "Signup": {
-    "sha256": "f37e9b5d68a0a154b46d97fdeeb65f1176f625287489d2c3b59739d502d4ecfe",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Signup/download/4.0.5",
-    "version": "4.0.5",
+    "sha256": "1411a4f803b84553ad295f608d2e438d216c00a40f48b839f0ad525426bf3bc4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Signup/download/4.1.2",
+    "version": "4.1.2",
     "description": "Let new users signup on your Matomo instance to track their own website.",
     "homepage": "https://github.com/alcalyn/matomo-plugin-signup",
     "license": "GPL-3.0+",
