@@ -936,9 +936,9 @@
     "displayName": "Shortcode Tracker"
   },
   "Signup": {
-    "sha256": "1411a4f803b84553ad295f608d2e438d216c00a40f48b839f0ad525426bf3bc4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Signup/download/4.1.2",
-    "version": "4.1.2",
+    "sha256": "a1deb355ad0a7b2b0659ae770e03c6397bd36ed20463d0aed73f7c972f99d638",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Signup/download/4.2.0",
+    "version": "4.2.0",
     "description": "Let new users signup on your Matomo instance to track their own website.",
     "homepage": "https://github.com/alcalyn/matomo-plugin-signup",
     "license": "GPL-3.0+",

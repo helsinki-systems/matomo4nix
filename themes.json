@@ -81,9 +81,9 @@
     "displayName": "GTheme"
   },
   "GoogleTheme": {
-    "sha256": "636f487a30d31c87811815890182d3381ac2dad3ed6e06d60ed77c57464316ef",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/1.2.2",
-    "version": "1.2.2",
+    "sha256": "a3d12e8c0e017bcac0bd5d27ee4864d29068e0b1f3b14bde74031532c66cbe29",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/1.2.4",
+    "version": "1.2.4",
     "description": "A sublime Google Analytics theme for Matomo.",
     "homepage": "https://lazuli.agency",
     "license": "GPL v3+",
