@@ -315,9 +315,9 @@
     "displayName": "Exposure Research Tools"
   },
   "ExtraTools": {
-    "sha256": "8c00d75957f00b63fd2fab022df275e005e18e19be3d57fa46cac720043f40ec",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/4.0.1-beta4",
-    "version": "4.0.1-beta4",
+    "sha256": "7b7c50d50ad274ef088ffd0100e866ab40cee59159b5f4a4ae58b67f926faa58",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/4.1.0-beta2",
+    "version": "4.1.0-beta2",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://www.digitalist.se/matomo",
     "license": "GPL v3+",
@@ -792,9 +792,9 @@
     "displayName": "Profile Avatar"
   },
   "ProtectTrackID": {
-    "sha256": "efb82db5255402ecac790f51903c45a2472fb3ef754f9419b7b2a8ea0fa90102",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProtectTrackID/download/2.1.1",
-    "version": "2.1.1",
+    "sha256": "fde4164dad26a1e10bc985d295d4cec05c3f3e6a6c8382c0c5b84a28bbcb7ebb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProtectTrackID/download/2.2.0",
+    "version": "2.2.0",
     "description": "Provides a option to protect idSite using hash instead default numeric.",
     "homepage": "https://github.com/joubertredrat/Matomo-ProtectTrackID",
     "license": "MIT",
