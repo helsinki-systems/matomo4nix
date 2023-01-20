@@ -891,9 +891,9 @@
     "displayName": "Rer User Dates"
   },
   "RestrictLanguageSelection": {
-    "sha256": "01e0ea0ca3f7fbcf9214749764e7236be8060628a966ce21b7c96e39a85dc710",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RestrictLanguageSelection/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "80ac5dbb2557f8fb768a0bae4067fbca2d79a30ea81d8be840f73fdec9a7ddd3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RestrictLanguageSelection/download/4.0.2",
+    "version": "4.0.2",
     "description": "Allows you to modify the list of available languages in language selector.",
     "homepage": "https://github.com/sgiehl/piwik-plugin-RestrictLanguageSelection",
     "license": "GPL v3+",
