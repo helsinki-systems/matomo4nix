@@ -333,9 +333,9 @@
     "displayName": "Exposure Research Tools"
   },
   "ExtraTools": {
-    "sha256": "7b7c50d50ad274ef088ffd0100e866ab40cee59159b5f4a4ae58b67f926faa58",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/4.1.0-beta2",
-    "version": "4.1.0-beta2",
+    "sha256": "af10bf7c5e13a813b8a043ad6a4114153a335b2d0fd96e46a8912307ca9e42dc",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/4.1.0-beta3",
+    "version": "4.1.0-beta3",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://www.digitalist.se/matomo",
     "license": "GPL v3+",
@@ -1071,9 +1071,9 @@
     "displayName": "Top Pages By Actions"
   },
   "TrackerDomain": {
-    "sha256": "01e2a5ceb8fa1d5f1d9d2923c15dfaee35ce8f3a18979e37f2814a6bf91e410e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/0.3.2",
-    "version": "0.3.2",
+    "sha256": "e2e381e943e4f5cc04bfa4e11dddc3660545bb1248aebcde765abf5b780d4bd0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/0.3.3",
+    "version": "0.3.3",
     "description": "Set Domain for js trackers, useful when your UI is on another domain.",
     "homepage": "https://github.com/digitalist-se/TrackerDomain",
     "license": "GPL v3+",
@@ -1143,9 +1143,9 @@
     "displayName": "Uptime Robot Monitor"
   },
   "UserConsole": {
-    "sha256": "f622a961555dceea09be5e3ed94b3b465e22b96959d5b6e1ae31e905266ffcd3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/4.0.0",
-    "version": "4.0.0",
+    "sha256": "35b7d37c5822b3bb8ba541fb4921f047ca1e7b42a719b1faaa1bf9c30403c30e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/4.0.1",
+    "version": "4.0.1",
     "description": "Use the console to manage users, like adding users, reset password etc.",
     "homepage": "https://digitalist.se/contributing-matomo",
     "license": "GPL v3+",
