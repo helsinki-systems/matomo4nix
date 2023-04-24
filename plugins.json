@@ -170,6 +170,15 @@
     "license": "GPL v3+",
     "displayName": "Custom Dimensions"
   },
+  "CustomDimensionsManager": {
+    "sha256": "f3b9fd9f375646049174037c6188df61b5daecafae164c079f5c4c94010a1d94",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomDimensionsManager/download/0.1.1",
+    "version": "0.1.1",
+    "description": "Manage custom dimensions configuration. Console interface only.",
+    "homepage": "https://github.com/NatLibFi/CustomDimensionsManager",
+    "license": "GPL v3+",
+    "displayName": "Custom Dimensions Manager"
+  },
   "CustomOptOut": {
     "sha256": "e8d3a6b880a2d77c360662c861be08ca1c5e316dc4797db2a5b1758e4465ed49",
     "url": "https://plugins.matomo.org/api/2.0/plugins/CustomOptOut/download/2.0.4",
