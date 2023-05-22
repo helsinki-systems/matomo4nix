@@ -738,9 +738,9 @@
     "displayName": "Max Concurrent"
   },
   "Migration": {
-    "sha256": "e41ffeb769c1ca670bf7a3dec2e376b6d03edd854c411f4f96b55ee9aaacc35c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/4.0.2",
-    "version": "4.0.2",
+    "sha256": "eb2b0a3e78aef78fabad44552ff260c9c8939cd8f8c61862ca49eed228d297f1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/4.0.3",
+    "version": "4.0.3",
     "description": "Migrate/copy any measurable (site, app, roll-up) from one Matomo to another Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -846,9 +846,9 @@
     "displayName": "Provider"
   },
   "QueuedTracking": {
-    "sha256": "a387fd9ac38cf61382d4a5adf05829f8b0959506524702d56cdbd871bb93911c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/4.0.6",
-    "version": "4.0.6",
+    "sha256": "0ef3455e7281ecbb4cbccce51715d364dc30d1a8b5b9005193495e88f8d86d36",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/4.0.7",
+    "version": "4.0.7",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",

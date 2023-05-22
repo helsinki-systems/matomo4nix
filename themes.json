@@ -45,9 +45,9 @@
     "displayName": "Coffee Cup"
   },
   "DarkTheme": {
-    "sha256": "69cb2bfdab6442f6f8210efe6fe8437c25329223bdbe017e54f87389a48e6e89",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/1.2.3",
-    "version": "1.2.3",
+    "sha256": "9f97dcfa96ab4b3b4143b05bec7ce338dd01e512a09a9023a791ee1baa8948fb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/1.2.4",
+    "version": "1.2.4",
     "description": "A modern dark theme for Matomo.",
     "homepage": "https://lazuli.agency",
     "license": "GPL v3+",
