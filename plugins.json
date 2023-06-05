@@ -864,9 +864,9 @@
     "displayName": "Quick Exclude Visitor IP"
   },
   "ReferrersManager": {
-    "sha256": "b59162e21168c9b9652a031bfaf0b65753dce555b349fb323ca54b60b85be848",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ReferrersManager/download/4.0.3",
-    "version": "4.0.3",
+    "sha256": "ab8827e8e7c174c1387e2a0de2932860fae2670c1101d6bfd3c40a308e75eb57",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ReferrersManager/download/4.0.4",
+    "version": "4.0.4",
     "description": "Allows to view and manage the search engines and social networks that Matomo is able to detect.",
     "homepage": "https://github.com/sgiehl/piwik-plugin-ReferrersManager",
     "license": "GPL v3+",
