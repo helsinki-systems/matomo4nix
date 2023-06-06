@@ -261,9 +261,9 @@
     "displayName": "Device Network Information"
   },
   "DevicePixelRatio": {
-    "sha256": "9a7eb7a1780d922ecc5d982b8501658f9e22ddc87d130e9e98c557bb9e39f644",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DevicePixelRatio/download/2.0.0",
-    "version": "2.0.0",
+    "sha256": "2670fdd25daa3c97647b6c857dc202370192684adc1f1d3adc8b23dfef96bdf2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DevicePixelRatio/download/2.0.1",
+    "version": "2.0.1",
     "description": "Collects statistics on the device pixel ratio of the visitor's devices.  Useful to analyze how many visitors have Retina or other high DPI displays.",
     "homepage": "",
     "license": "GPL-3.0+",
