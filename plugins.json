@@ -1089,10 +1089,10 @@
     "displayName": "Tracker Domain"
   },
   "TrackerJsCdnSync": {
-    "sha256": "b6591cf1224828f259f2452928a68781b0bc8101121bd7f61ba2f5bc4b2cbbb1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerJsCdnSync/download/0.0.11",
-    "version": "0.0.11",
-    "description": "Sync your tracker javascript files to CDN",
+    "sha256": "4d82b3457d3ad673414efa5051eadc89b002a1dcc71d9ae4ca3f43445265ab45",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerJsCdnSync/download/0.0.13",
+    "version": "0.0.13",
+    "description": "Sync your tracker javascript files to CDN.",
     "homepage": "https://github.com/SARAVANA1501/plugin-TrackerJsCdnSync",
     "license": "MIT",
     "displayName": "Tracker Js Cdn Sync"
