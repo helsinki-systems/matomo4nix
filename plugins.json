@@ -512,6 +512,15 @@
     "license": "GPL v3+",
     "displayName": "Ice Cast Statistics"
   },
+  "ImportAnnotationWidget": {
+    "sha256": "7f5867c6759f9e7ca0a8632e39b473fe4a85637c7c723005bf358a8c1a5111bd",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ImportAnnotationWidget/download/0.1.2",
+    "version": "0.1.2",
+    "description": "A simple widget to import multiple annotations at once by using the Matomo UI.",
+    "homepage": "https://github.com/Chardonneaur/ImportAnnotationWidget/",
+    "license": "GPL v3+",
+    "displayName": "Import Annotation Widget"
+  },
   "InstanceSetting": {
     "sha256": "cd93b6538411e415862d6537550c6dd2384cc33ecdce1489c88c6f53ea9f4ec5",
     "url": "https://plugins.matomo.org/api/2.0/plugins/InstanceSetting/download/0.1.0",
