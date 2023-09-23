@@ -45,9 +45,9 @@
     "displayName": "Coffee Cup"
   },
   "DarkTheme": {
-    "sha256": "9f97dcfa96ab4b3b4143b05bec7ce338dd01e512a09a9023a791ee1baa8948fb",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/1.2.4",
-    "version": "1.2.4",
+    "sha256": "ab82fae9f269a39e1b07113bcbe5760064c5d3a6be445bd27e6df717df12b1d8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/1.2.5",
+    "version": "1.2.5",
     "description": "A modern dark theme for Matomo.",
     "homepage": "https://lazuli.agency",
     "license": "GPL v3+",
@@ -81,9 +81,9 @@
     "displayName": "GTheme"
   },
   "GoogleTheme": {
-    "sha256": "dded02590bd440d69ed813b181c0eabf8c5eca4e6faf3f8328e1296125804007",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/1.2.5",
-    "version": "1.2.5",
+    "sha256": "a45f31f3afe957ccaf45e62ee303435f3dc2b6587d4a178be0583bd626b35226",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/1.2.10",
+    "version": "1.2.10",
     "description": "A sublime Google Analytics theme for Matomo.",
     "homepage": "https://lazuli.agency",
     "license": "GPL v3+",
