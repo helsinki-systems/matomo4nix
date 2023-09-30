@@ -1196,6 +1196,15 @@
     "license": "GPL v3+",
     "displayName": "Visitor Generator"
   },
+  "WeatherReports": {
+    "sha256": "65fd1ff3b5c20fdcd318a2dad70a1b9464e8c0320f44d2a2569a94c093c3d917",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/4.0.5",
+    "version": "4.0.5",
+    "description": "Track weather data from your website visitors.",
+    "homepage": "https://openmost.io/products",
+    "license": "GPL v3+",
+    "displayName": "Weather Reports"
+  },
   "WebsiteGroups": {
     "sha256": "70d5e6965047942f63739fc5aa888b5c9769e332afb8826248b24aa636c2c153",
     "url": "https://plugins.matomo.org/api/2.0/plugins/WebsiteGroups/download/0.3.0",
