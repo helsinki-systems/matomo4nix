@@ -1164,7 +1164,7 @@
     "sha256": "04b9aea22ae7de09d0a5a4188a4e8d14b2d61a702e7398efb9cfe35c46cd8292",
     "url": "https://plugins.matomo.org/api/2.0/plugins/TwitterFeedWidgetByAmperage/download/1.0.6",
     "version": "1.0.6",
-    "description": "Show Twitter Feed as a configurable widget.",
+    "description": "Show X (formerly Twitter) Feed as a configurable widget.",
     "homepage": "https://www.amperagemarketing.com",
     "license": "GPL v3+",
     "displayName": "Twitter Feed Widget By Amperage"
