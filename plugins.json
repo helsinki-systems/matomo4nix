@@ -1232,6 +1232,15 @@
     "license": "GPL v3+",
     "displayName": "cache Buster"
   },
+  "iPadDetector": {
+    "sha256": "084807f5f2dcdf0518aa2b9009ca957306932b274191b256e3070f8896be54f1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/iPadDetector/download/4.0.0",
+    "version": "4.0.0",
+    "description": "Simple plugin that allows Matomo to detect iPad devices as iPads instead of macOS Desktop devices.",
+    "homepage": "",
+    "license": "GPL v3+",
+    "displayName": "iPad Detector"
+  },
   "kDebug": {
     "sha256": "c536bac0d84774c90830377ccb28a70cbcf929780d9d2264b238659c36dd7db6",
     "url": "https://plugins.matomo.org/api/2.0/plugins/kDebug/download/0.1.2",
