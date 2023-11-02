@@ -53,6 +53,15 @@
     "license": "GPL v3+",
     "displayName": "Archive Site"
   },
+  "AutoLogin": {
+    "sha256": "f1b09aa3f53fadcdfe2576a2124d6c6f5485f4e9feb2b0b27be794431a50c57b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AutoLogin/download/0.1.0",
+    "version": "0.1.0",
+    "description": "The Matomo AutoLogin Plugin adds new authentication and registration options by using incoming HTTP headers.",
+    "homepage": "https://github.com/inventage/matomo-autologin-plugin",
+    "license": "MIT",
+    "displayName": "Auto Login"
+  },
   "Bandwidth": {
     "sha256": "01b98d37b7de014ec5e4a3a103c69fdd98b9764cdc80e673ac77d1c5c05a05b2",
     "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/4.0.5",
