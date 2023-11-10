@@ -53,6 +53,15 @@
     "license": "GPL v3+",
     "displayName": "Archive Site"
   },
+  "AuthorSegments": {
+    "sha256": "e684d15e985cffec7c83db7ad7e0dcd19f6b238aa08d072814753c525e4bc8e7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AuthorSegments/download/0.1.0",
+    "version": "0.1.0",
+    "description": "This plugin allows you to decide which users can create segments based on their permissions: view, write, super user, admin.",
+    "homepage": "https://github.com/kawerht/SegmentAuthorization",
+    "license": "GPL v3+",
+    "displayName": "Author Segments"
+  },
   "AutoLogin": {
     "sha256": "832cc39058aacc3bfe24d1985ebb0f2fb6ca5211ddaa820ddac7629cab7f4896",
     "url": "https://plugins.matomo.org/api/2.0/plugins/AutoLogin/download/0.1.2",
