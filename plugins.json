@@ -1170,9 +1170,9 @@
     "displayName": "Treemap Visualization"
   },
   "TwilioSMS": {
-    "sha256": "77940220adf1f854abc0e3d2cd827be567a030e34142ebb41b6fbc00fc8c8a7f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TwilioSMS/download/0.2.3",
-    "version": "0.2.3",
+    "sha256": "8e9d36fe01f8a78f82cba0ee04b19fd7e9d0d8d05b135b16d64ea9d7e9995562",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TwilioSMS/download/1.0.2",
+    "version": "1.0.2",
     "description": "Adds the ability to use Twilio as your SMS provider for Mobile Messaging (SMS Reports).",
     "homepage": "https://github.com/9joshua/TwilioSMS",
     "license": "MIT",
