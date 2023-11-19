@@ -108,9 +108,9 @@
     "displayName": "Bot Tracker"
   },
   "CampusGeoIP": {
-    "sha256": "6d5467e2184acb71b8eda0acf864c23468aac3acd0ff7cd1ce4d2d2225e57e60",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CampusGeoIP/download/4.1.5",
-    "version": "4.1.5",
+    "sha256": "9b80b797268eae18e3168e598f4bb60a88c780c075de9c8f079081e554e7c26d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CampusGeoIP/download/4.1.6",
+    "version": "4.1.6",
     "description": "This location provider is designed to geolocate ips across a campus in an intranet type environment.",
     "homepage": "https://github.com/jbrule/matomoplugin-CampusGeoIP",
     "license": "GPL v3+",
