@@ -161,6 +161,15 @@
     "license": "GPL v3+",
     "displayName": "Cloudflare Location Provider"
   },
+  "CodeInjector": {
+    "sha256": "453971191bc3c58b3e6ee3443961eb8be8ada4d3a29b4f0c119cf3c2899ccedd",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CodeInjector/download/4.0.7",
+    "version": "4.0.7",
+    "description": "Inject CSS and JS code to your Matomo instance.",
+    "homepage": "https://openmost.io",
+    "license": "GPL v3+",
+    "displayName": "Code Injector"
+  },
   "Counter": {
     "sha256": "18e5755229d2030bf5acee64c2fa02ab5522cc11030af1b7cf8ea90175109fbc",
     "url": "https://plugins.matomo.org/api/2.0/plugins/Counter/download/3.0.2",
@@ -1088,6 +1097,15 @@
     "license": "GPL v3+",
     "displayName": "Snoopy Behavioral Scoring"
   },
+  "TagManagerExtended": {
+    "sha256": "269cd8e10eced66624904def730e9cee345ab697ce86602b230dba4495a9b06d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/4.3.4",
+    "version": "4.3.4",
+    "description": "Adds several useful tags, triggers and variables to the Tag Manager.",
+    "homepage": "https://openmost.io/products",
+    "license": "GPL v3+",
+    "displayName": "Tag Manager Extended"
+  },
   "TapatalkReport": {
     "sha256": "a9c1ca846d9429802e7c20eaa1387cb4182cfa0e89acf5348b6dc809b32b2f78",
     "url": "https://plugins.matomo.org/api/2.0/plugins/TapatalkReport/download/0.1.2",
@@ -1224,9 +1242,9 @@
     "displayName": "Visitor Generator"
   },
   "WeatherReports": {
-    "sha256": "6ada030a053c7ee9c806dbdfdb9724a02966b6ae7377b7484cb12d202251cebf",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/4.1.0",
-    "version": "4.1.0",
+    "sha256": "d2eb9c61b875ab2ffadd3b597091652f09ee6f2b527a177b832c07319359a4cd",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/4.3.5",
+    "version": "4.3.5",
     "description": "Track weather data from your website visitors.",
     "homepage": "https://openmost.io/products",
     "license": "GPL v3+",
