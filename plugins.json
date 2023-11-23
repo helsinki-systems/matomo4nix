@@ -998,6 +998,15 @@
     "license": "GPL v3+",
     "displayName": "Server Monitor"
   },
+  "Seven": {
+    "sha256": "fdefa61580c513422d4dc6020cac4bd00455f655fe1a6a9a612addf2b4542d1e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Seven/download/2.0.0",
+    "version": "2.0.0",
+    "description": "Send SMS via seven.io.",
+    "homepage": "https://www.seven.io",
+    "license": "MIT",
+    "displayName": "Seven"
+  },
   "SharpSpringWidgetByAmperage": {
     "sha256": "9bb33fc2718319a6aab98ea8a3e6c5c5c24c10c17552d84b2e317323367f814f",
     "url": "https://plugins.matomo.org/api/2.0/plugins/SharpSpringWidgetByAmperage/download/0.2.4",
