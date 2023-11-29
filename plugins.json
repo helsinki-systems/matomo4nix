@@ -504,9 +504,9 @@
     "displayName": "IP 2 Location"
   },
   "IP2Proxy": {
-    "sha256": "d13467c79fffcb187d7837fed4641eca5fa6cadb9d7581416ae573cd4df11696",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Proxy/download/0.1.6",
-    "version": "0.1.6",
+    "sha256": "385768976dcd779ed0d8c1ac9f319056ca8cf0353d96437599fffacce411b8ff",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Proxy/download/0.2.0",
+    "version": "0.2.0",
     "description": "Get the proxy details of visitors to your website.",
     "homepage": "https://github.com/ip2location/ip2proxy-matomo",
     "license": "GPL-3.0+",
