@@ -27,9 +27,9 @@
     "displayName": "Ajax Opt Out"
   },
   "AnonymousPiwikUsageMeasurement": {
-    "sha256": "16a0baffb48a9d16955fccf70bc4a5bb5a8b82a99efa7e0dc3134ec299333011",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AnonymousPiwikUsageMeasurement/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "3b6a5718d92777d3060426a7945a1b758bb3979f67343c4429b00535ff3e6d1b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AnonymousPiwikUsageMeasurement/download/4.1.0",
+    "version": "4.1.0",
     "description": "Send anonymized usage data to your own Matomo instance or to any other Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -54,9 +54,9 @@
     "displayName": "Archive Site"
   },
   "AuthorSegments": {
-    "sha256": "5f1e1bb90e8596116d97bd597686f437731704789faea0935b33bd41a8700675",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AuthorSegments/download/0.1.3",
-    "version": "0.1.3",
+    "sha256": "7cc44bd93deb82d50f2d5821b4a104724c2447a8963cf5430b10d2dd86cb7cf0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AuthorSegments/download/4.1.2",
+    "version": "4.1.2",
     "description": "This plugin allows you to decide which users can create segments based on their permissions: view, write, super user, admin.",
     "homepage": "https://github.com/kawerht/SegmentAuthorization",
     "license": "GPL v3+",
@@ -106,6 +106,15 @@
     "homepage": "https://github.com/Thomas--F/BotTracker",
     "license": "GPL v3+",
     "displayName": "Bot Tracker"
+  },
+  "BraveDetector": {
+    "sha256": "46fcc318b9664846626d8caab51411e1bebcf46fd0342fa69ccd9f9ad0178f48",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/BraveDetector/download/0.1.2",
+    "version": "0.1.2",
+    "description": "Simple plugin that adds the Brave User Agent to tracking requests when detected.",
+    "homepage": "",
+    "license": "GPL v3+",
+    "displayName": "Brave Detector"
   },
   "CampusGeoIP": {
     "sha256": "9b80b797268eae18e3168e598f4bb60a88c780c075de9c8f079081e554e7c26d",
@@ -189,9 +198,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "71e09fdecdf229bd50409e060583e39fbb30615c76f99528b29d183f1b0bdf7f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/4.0.4",
-    "version": "4.0.4",
+    "sha256": "d650d25e298ca426ec0efb90e8588a9c53d8f0c57011cd079e30304101c1a37f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/4.1.1",
+    "version": "4.1.1",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -234,18 +243,18 @@
     "displayName": "Custom Tracker Js"
   },
   "CustomTranslations": {
-    "sha256": "c47062ed17bd8acc02ce2d9808c3f228c02d8fc2b3c6847a0df5eb87a721028c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "ee96c5adb954e52740fbdac123968c6bec61f31e015159efa98702293235b8b3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/4.1.1",
+    "version": "4.1.1",
     "description": "Translate entities and tracked values into different languages. For example Custom dimensions, dashboard names, custom report names, event values, ...",
     "homepage": "https://innocraft.com",
     "license": "GPL v3+",
     "displayName": "Custom Translations"
   },
   "CustomVariables": {
-    "sha256": "79b202290e2e7483af6e3d163f0a53c0251c5a286e243495f8e44259ecb957e5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariables/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "854866cecc96e3194471e76d410e270e02cc95ba5b011968f150d2145b701b2d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariables/download/4.1.3",
+    "version": "4.1.3",
     "description": "Categorise your visitors and actions with custom name-value pairs. Segment by these values and get more insights to draw the right conclusions.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -270,9 +279,9 @@
     "displayName": "Development Toogle"
   },
   "DeviceDetectorCache": {
-    "sha256": "9c3411a759ba6739b37f006583c59446ae1cd30a99b5af498cbadbe9a603177d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceDetectorCache/download/4.2.4",
-    "version": "4.2.4",
+    "sha256": "4c18303996194ac2b5187df990c9c8626366ddc6ba17aff6b010487b3c28bcb2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceDetectorCache/download/4.3.1",
+    "version": "4.3.1",
     "description": "Makes tracking faster by detecting many devices, operating systems, bots, and browsers from a cache.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -322,6 +331,15 @@
     "homepage": "https://lw-scm.de/lipperts-web/piwik-plugin-disabletracking",
     "license": "GPL v3+",
     "displayName": "Disable Tracking"
+  },
+  "DynamicDeviceDetectorCache": {
+    "sha256": "3408deb4f6876942a2b690fb440287cc205a6dd2dce641b6cedb645a7c0d2b1b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DynamicDeviceDetectorCache/download/1.0.4",
+    "version": "1.0.4",
+    "description": "Makes tracking faster by detecting many devices, operating systems, bots, and browsers from a cache.",
+    "homepage": "https://github.com/oliverbestmann/DynamicDeviceDetectorCache",
+    "license": "GPL v3+",
+    "displayName": "Dynamic Device Detector Cache"
   },
   "EmailReportExtended": {
     "sha256": "6a5fe58672fa102c759ab8533570462f85c3e6d521830e23678213fb0602ecb1",
@@ -431,10 +449,19 @@
     "license": "GPL v3",
     "displayName": "Free Mobile Messaging"
   },
+  "GoalConversionExport": {
+    "sha256": "744bef33b260d004696594d22207fb59082b91102d899a5b9d5ebf1da855974e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoalConversionExport/download/0.1.0",
+    "version": "0.1.0",
+    "description": "Provide an exporter for Google Ads and Facebook Ads.",
+    "homepage": "",
+    "license": "GPL v3+",
+    "displayName": "Goal Conversion Export"
+  },
   "GoogleAnalyticsImporter": {
-    "sha256": "a6d32b515500b8c2c030313ef2ea7f214e64ad31b7185659f2f5bc3f30ae81db",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/4.1.10",
-    "version": "4.1.10",
+    "sha256": "a7f408e52c6019308067e163aec46fa7a4d60639e2056342a76f346a05ce1fc1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/4.6.11",
+    "version": "4.6.11",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -557,6 +584,15 @@
     "license": "GPL v3+",
     "displayName": "Import Annotation Widget"
   },
+  "IndexationViewer": {
+    "sha256": "bca4781d52541152529fdd1c98a0c813cda58bfeb6c39b38fad9febd43cbb2e9",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IndexationViewer/download/0.1.1",
+    "version": "0.1.1",
+    "description": "Show indexation statuses in Matomo administration.",
+    "homepage": "https://developpement.ligeo.fr/",
+    "license": "GPL v3+",
+    "displayName": "Indexation Viewer"
+  },
   "InstanceSetting": {
     "sha256": "cd93b6538411e415862d6537550c6dd2384cc33ecdce1489c88c6f53ea9f4ec5",
     "url": "https://plugins.matomo.org/api/2.0/plugins/InstanceSetting/download/0.1.0",
@@ -585,9 +621,9 @@
     "displayName": "Intranet Geo IP"
   },
   "InvalidateReports": {
-    "sha256": "0c31c946e657534eeec19e4e977a20961bb47df8b5d4e6e406abfa28dd38fe58",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/InvalidateReports/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "b2e4fa31343559b2f8fe1ecedae608560d188a35337dd93a765df241168fe5d1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/InvalidateReports/download/4.1.1",
+    "version": "4.1.1",
     "description": "This plugin allows Super Users to invalidate historical reports in the UI in Administration > System > Invalidate reports.",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
@@ -693,9 +729,9 @@
     "displayName": "Live Tab"
   },
   "LogViewer": {
-    "sha256": "7144940aa33ceaec0ba88f240f64bbc5bb096295f41f5ab557ea5134420cf9a6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "6e6f9a2d1b9fa28e0af6ff95233cc77708ea457dc816bb0696b7a7c391a2a84a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/4.1.2",
+    "version": "4.1.2",
     "description": "View log messages logged by Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -720,9 +756,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "fb02ef7b82f01162f813b0dc6be915c2cf03f2e929765b06cfb68c30bd61e8e8",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/4.4.0",
-    "version": "4.4.0",
+    "sha256": "8d85837a616abd6405a0e9d20d2ce75dbcf13a7a184de413e0fd977edda22519",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/4.7.3",
+    "version": "4.7.3",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -980,6 +1016,15 @@
     "license": "GPL v3+",
     "displayName": "Security Info"
   },
+  "SegmentAuthorization": {
+    "sha256": "1b96244d757c4b710c68b45857a4b249bf4a98815918e8f2ae609419ab131f61",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SegmentAuthorization/download/0.1.0",
+    "version": "0.1.0",
+    "description": "This plugin allows you to decide which users can create segments based on their status: user, admin, super user.",
+    "homepage": "https://github.com/Chardonneaur/SegmentAuthorization",
+    "license": "GPL v3+",
+    "displayName": "Segment Authorization"
+  },
   "SentryLogger": {
     "sha256": "f0da372322b6672fa8cea5cdb98254d204cfb462196d4117f9cf4c186e2ae718",
     "url": "https://plugins.matomo.org/api/2.0/plugins/SentryLogger/download/0.3.1",
@@ -1231,6 +1276,15 @@
     "homepage": "https://digitalist.se/contributing-matomo",
     "license": "GPL v3+",
     "displayName": "User Console"
+  },
+  "VipDetector": {
+    "sha256": "f0ff7c5a82e1c27a7f4d7816bf92e246c36ed01f7fe7b70dac9757a82f265078",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VipDetector/download/1.0.0",
+    "version": "1.0.0",
+    "description": "Detect visits from special predefined IP ranges and display the name.",
+    "homepage": "https://github.com/deadda7a/Matomo-VIP-Detector",
+    "license": "MIT",
+    "displayName": "Vip Detector"
   },
   "VisitorAvatar": {
     "sha256": "5b8eebcd6e3330a08e4f20846b0400bab34d9ffcacfb287f4a4b0b189588be0e",
