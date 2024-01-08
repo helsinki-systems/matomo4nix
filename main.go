@@ -4,13 +4,14 @@ import (
 	"crypto/sha256"
 	"encoding/json"
 	"fmt"
-	"github.com/hashicorp/go-version"
 	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
 	"regexp"
 	"strings"
+
+	"github.com/hashicorp/go-version"
 )
 
 var DEBUG bool
@@ -169,6 +170,7 @@ func update(t string) {
 		np.Description = p.Description
 		np.Homepage = p.Homepage
 		np.DisplayName = p.DisplayName
+		maxFoundVer, _ := version.NewVersion("0")
 		for _, ver := range p.Versions {
 			compatible := false
 			// in case you're wondering wtf this is about, why the []interface{}, why check the length?
@@ -221,14 +223,16 @@ func update(t string) {
 								}
 							}
 
-							compatible = (leq == 1 && geq == 1) || (leq == -1 && geq == 1)
+							compatible = (leq == 1 && geq == 0) || (leq == 1 && geq == 1) || (leq == -1 && geq == 1)
 						}
 					}
 				}
 			default:
 				panic("what?")
 			}
-			if compatible {
+			tVer, _ := version.NewVersion(ver.Name)
+			if compatible && tVer.GreaterThan(maxFoundVer) {
+				maxFoundVer = tVer
 				np.Url = API_BASE + ver.Download
 				np.Version = ver.Name
 				np.License = ver.License["name"]
