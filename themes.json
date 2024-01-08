@@ -44,6 +44,15 @@
     "license": "GPLv3",
     "displayName": "Darkness"
   },
+  "GTheme": {
+    "sha256": "6ddac584a003a3bff49b9b25e70d5fd58a1ce5f6280eef292b723e8d50a955aa",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GTheme/download/0.0.2",
+    "version": "0.0.2",
+    "description": "A mimimal Matomo theme.",
+    "homepage": "https://gugulet.hu",
+    "license": "GPL v3+",
+    "displayName": "GTheme"
+  },
   "GoogleTheme": {
     "sha256": "27e86366b3e139493c7d54fb5a902576ddf52dcfc311f4e4500a516d3e6db87d",
     "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/5.0.9",
