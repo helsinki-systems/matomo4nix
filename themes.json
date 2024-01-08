@@ -1,39 +1,21 @@
 {
   "AlternativeSparklines": {
-    "sha256": "433cafb8eba7f32a66488fa0e35a3ca378f394509ef7e5cd0ac57be91270aeba",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AlternativeSparklines/download/0.2.0",
-    "version": "0.2.0",
+    "sha256": "bf3fb0d97006162974d5e9ea8bd88d85d6ab5ae513b6e6dcbbf85ea0a492956e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AlternativeSparklines/download/0.3.0",
+    "version": "0.3.0",
     "description": "a minimalistic alternative to the default sparkline style.",
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
     "displayName": "Alternative Sparklines"
   },
-  "Blurange": {
-    "sha256": "742728211127102bc5c78e657f166453d14d0f05692200947955c41777d5f409",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Blurange/download/0.1.1",
-    "version": "0.1.1",
-    "description": "A new blue theme for Matomo.",
-    "homepage": "",
-    "license": "GPL v3+",
-    "displayName": "Blurange"
-  },
   "ClassicFontTheme": {
-    "sha256": "6a53628d6726d5e92aea13adf3cfb9b8151c76a3cccdab356ba334437c74a3b1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicFontTheme/download/4.0.0",
-    "version": "4.0.0",
+    "sha256": "cd10ffa65bb50d2260e59805cf15bc78f55e33ce1a6baab99bf6b678d015f93f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicFontTheme/download/5.0.0",
+    "version": "5.0.0",
     "description": "Matomo (Piwik) Platform showcase: example of how to create a simple Theme.",
     "homepage": "https://piwik.org",
     "license": "GPL v3+",
     "displayName": "Classic Font Theme"
-  },
-  "ClassicTheme": {
-    "sha256": "093e8ab2eb535267f57bf58dc095bb56fdfb09c21d13ae9326b4a039b3816568",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicTheme/download/0.1.0",
-    "version": "0.1.0",
-    "description": "You don't like bright colors? Then this theme brings back the old style of Matomo 3.6.0",
-    "homepage": "https://lw1.at",
-    "license": "GPL v3+",
-    "displayName": "Classic Theme"
   },
   "CoffeeCup": {
     "sha256": "44875bc9f658efdf92572aee7c13391b8de238da52b9f9f85af1a1b7345c0cb4",
@@ -45,9 +27,9 @@
     "displayName": "Coffee Cup"
   },
   "DarkTheme": {
-    "sha256": "ab82fae9f269a39e1b07113bcbe5760064c5d3a6be445bd27e6df717df12b1d8",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/1.2.5",
-    "version": "1.2.5",
+    "sha256": "b6a5a2f56ad6c556fd347c6d82a1eec36b94df03b660c1063e43e37363d13914",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/5.0.2",
+    "version": "5.0.2",
     "description": "A modern dark theme for Matomo.",
     "homepage": "https://lazuli.agency",
     "license": "GPL v3+",
@@ -62,46 +44,19 @@
     "license": "GPLv3",
     "displayName": "Darkness"
   },
-  "GCtoolsTheme": {
-    "sha256": "1dcd9df8159799a48a145c63c65b90eb42357b429603de4580e83b01ceb01c3a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GCtoolsTheme/download/0.1.0",
-    "version": "0.1.0",
-    "description": "Matomo Platform showcase: example of how to create a simple Theme.",
-    "homepage": "",
-    "license": "GPL v3+",
-    "displayName": "GCtoolsTheme"
-  },
-  "GTheme": {
-    "sha256": "6ddac584a003a3bff49b9b25e70d5fd58a1ce5f6280eef292b723e8d50a955aa",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GTheme/download/0.0.2",
-    "version": "0.0.2",
-    "description": "A mimimal Matomo theme.",
-    "homepage": "https://gugulet.hu",
-    "license": "GPL v3+",
-    "displayName": "GTheme"
-  },
   "GoogleTheme": {
-    "sha256": "a45f31f3afe957ccaf45e62ee303435f3dc2b6587d4a178be0583bd626b35226",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/1.2.10",
-    "version": "1.2.10",
+    "sha256": "27e86366b3e139493c7d54fb5a902576ddf52dcfc311f4e4500a516d3e6db87d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/5.0.9",
+    "version": "5.0.9",
     "description": "A sublime Google Analytics theme for Matomo.",
     "homepage": "https://lazuli.agency",
     "license": "GPL v3+",
     "displayName": "Google Theme"
   },
-  "MB": {
-    "sha256": "a640a9de1dbd30bcaa24eb2ff3e2073fd39b256c487d195978106c624c47b824",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MB/download/0.1.1",
-    "version": "0.1.1",
-    "description": "MeilleursBiens Matomo theme",
-    "homepage": "https://meilleursbiens.pro",
-    "license": "GPL v3+",
-    "displayName": "MB"
-  },
   "Modern": {
-    "sha256": "9003ee2a7925555e7c6bd3076fc7167ec8fd2ccf2cde05e9dc09101006796464",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Modern/download/1.1.6",
-    "version": "1.1.6",
+    "sha256": "7f81b9f30788558d7c25d5048cd283a4ac4819c29bf0c49e6d0d92cb97dc2b85",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Modern/download/5.0.0",
+    "version": "5.0.0",
     "description": "Modern gives the Matomo user interface a minimalist look and feel. Now also with dark mode and additional options.",
     "homepage": "https://whitespace.se/matomo/",
     "license": "GPL v3+",
@@ -151,6 +106,15 @@
     "homepage": "https://github.com/nstallinger/piwik_theme_terrano",
     "license": "GPLv3",
     "displayName": "Terrano"
+  },
+  "TheFamousSnakeHouse": {
+    "sha256": "6bb8887a538ee1d7f14640a8c4358396bd154da4c44f4b69959a4eaa6d9fe404",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TheFamousSnakeHouse/download/0.1.0",
+    "version": "0.1.0",
+    "description": "A theme about the snake house which is popular within a movie and book about wizards.",
+    "homepage": "",
+    "license": "GPL v3+",
+    "displayName": "The Famous Snake House"
   },
   "Vale": {
     "sha256": "64063047d1b31872e26f150a3175bae8e79616d30e52bce215ae5de02ad4dc3f",
