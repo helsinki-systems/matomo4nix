@@ -9,5 +9,5 @@ in
   ])
   ++ (with matomo4nix.themes; [
     DarkTheme
-    ClassicTheme
+    Modern
   ])
