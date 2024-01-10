@@ -306,9 +306,9 @@
     "displayName": "Dynamic Device Detector Cache"
   },
   "EmailReportExtended": {
-    "sha256": "6a5fe58672fa102c759ab8533570462f85c3e6d521830e23678213fb0602ecb1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EmailReportExtended/download/0.1.0",
-    "version": "0.1.0",
+    "sha256": "3d5f5b345fe7eadf8ae39a76da2baaef32f266e189039d2a6805b3bd2d348863",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EmailReportExtended/download/5.0.0",
+    "version": "5.0.0",
     "description": "A plugin which extends the number of rows to display within the email report.",
     "homepage": "https://github.com/Chardonneaur/EmailReportExtended/",
     "license": "GPL v3+",
