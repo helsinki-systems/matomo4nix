@@ -1026,9 +1026,9 @@
     "displayName": "Snoopy Behavioral Scoring"
   },
   "TagManagerExtended": {
-    "sha256": "46c19a0f6a2850c3eeb4e0fa0f7dd76a7b64d16a408f32ef47c86c764dcddff3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "839ba766b1b48010d4652e289a07df42f36dabad19fe3fecb799233163f9edb2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.0.4",
+    "version": "5.0.4",
     "description": "Adds several useful tags, triggers and variables to the Tag Manager.",
     "homepage": "https://openmost.io/products",
     "license": "GPL v3+",
