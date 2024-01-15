@@ -423,9 +423,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "880278b50cb99addeb8173e8357a2c2d2b5fa641cf4cbcc0e426211c993e26ca",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.7",
-    "version": "5.0.7",
+    "sha256": "6ec7e4e3a4fb06f063e0496c46c8aca9538c8cd4b7557a87b84463182da11899",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.8",
+    "version": "5.0.8",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -763,6 +763,15 @@
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
     "displayName": "Migration"
+  },
+  "MistralAI": {
+    "sha256": "cecd53e8054d3b5bfd34db9537236bde75aed77ad02188f44cd49fdd171bb9b3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.0.2",
+    "version": "5.0.2",
+    "description": "Mistral AI support for Matomo.",
+    "homepage": "https://openmost.io",
+    "license": "GPL v3+",
+    "displayName": "Mistral AI"
   },
   "MozWidgetByAmperage": {
     "sha256": "979fa2b7e51b5a06adf0f9fa3fd1a39a4c89433bc8f2809b3119f3c042e91c10",
