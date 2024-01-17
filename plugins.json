@@ -1134,9 +1134,9 @@
     "displayName": "User Console"
   },
   "VipDetector": {
-    "sha256": "58a6669e3db2383d6e8492ddf4f4cefebe94ae45c826fd9f7905900d544f4be4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VipDetector/download/2.0.0",
-    "version": "2.0.0",
+    "sha256": "c746d8b285ad645c794cbc35f580b293897564e782fc0ea3b95dc8d63ea3a323",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VipDetector/download/2.0.1",
+    "version": "2.0.1",
     "description": "Detect visits from special predefined IP ranges and display the name.",
     "homepage": "https://github.com/deadda7a/Matomo-VIP-Detector",
     "license": "MIT",
