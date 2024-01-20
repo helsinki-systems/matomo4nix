@@ -981,9 +981,9 @@
     "displayName": "Sharp Spring Widget"
   },
   "ShortcodeTracker": {
-    "sha256": "a81f3522bb52853923a3fe8096ebf4a544a00993e1eed29b96de712ce9c947b8",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ShortcodeTracker/download/2.0.2",
-    "version": "2.0.2",
+    "sha256": "705e668d0f69fbf63b851df6c1bb6f689c7d5e89dcc11fab2fc90a82098717c2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ShortcodeTracker/download/3.0.0",
+    "version": "3.0.0",
     "description": "Plugin allowing user to create shortcodes and track their usage within Matomo (Piwik). Also integrates with UI to deliver user-friendly interaction.",
     "homepage": "http://mgazdzik.pl/shortcodetracker",
     "license": "GPL-3.0",
