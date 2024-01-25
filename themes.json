@@ -27,11 +27,11 @@
     "displayName": "Coffee Cup"
   },
   "DarkTheme": {
-    "sha256": "b6a5a2f56ad6c556fd347c6d82a1eec36b94df03b660c1063e43e37363d13914",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "b8ef37c054bede748e41229481b01de77506081c96eaf35c2965d05d6771912b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/5.0.5",
+    "version": "5.0.5",
     "description": "A modern dark theme for Matomo.",
-    "homepage": "https://lazuli.agency",
+    "homepage": "https://openmost.io",
     "license": "GPL v3+",
     "displayName": "Dark Theme"
   },
