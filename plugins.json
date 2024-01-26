@@ -603,11 +603,11 @@
     "displayName": "Js Tracker Force Async"
   },
   "KPIWidgets": {
-    "sha256": "6ad6240654cf3a7f78722c87200d149fe930dbbfbd0eb5916d2b756462fb9dad",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "c2f773b5ab6f4c9038990c7f45cdfd68dff8c6ebe68c82b915ad7bbd77374f3c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/5.0.2",
+    "version": "5.0.2",
     "description": "Display KPIs on the dashboard for better readability.",
-    "homepage": "https://lazuli.agency",
+    "homepage": "https://openmost.io/softwares/kpi-widgets",
     "license": "GPL v3+",
     "displayName": "KPIWidgets"
   },
