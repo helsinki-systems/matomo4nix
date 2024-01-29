@@ -171,9 +171,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "ae4611d17656d70a07d30a9442ea62a539d53a030067d3e892392ea9103d1c55",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "32ec3dc3b0424778d638a34dbfbfcc6e0a1f3e69b04b7b7de692e9b8b1ad6da8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.0.3",
+    "version": "5.0.3",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -423,9 +423,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "6ec7e4e3a4fb06f063e0496c46c8aca9538c8cd4b7557a87b84463182da11899",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.8",
-    "version": "5.0.8",
+    "sha256": "17693275876c71a4465c5aba6a68e5196d1b939e0949a96534e92baacdf5c965",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.9",
+    "version": "5.0.9",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
