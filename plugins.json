@@ -765,9 +765,9 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "424ddf73564803df763ddfb09f832821fd5dddd80392de0912cd2c394067f2ee",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.2.0",
-    "version": "5.2.0",
+    "sha256": "3d29e38d4b27190a48db65b73e4256bb1cba423954902d7258d10398a3693974",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.2.1",
+    "version": "5.2.1",
     "description": "Mistral AI support for Matomo.",
     "homepage": "https://openmost.io",
     "license": "GPL v3+",
@@ -952,6 +952,15 @@
     "homepage": "https://github.com/Chardonneaur/SegmentAuthorization",
     "license": "GPL v3+",
     "displayName": "Segment Authorization"
+  },
+  "Sentry": {
+    "sha256": "c06127e7fb52e6fe63840c2057787adeae4e59d55e5676e2781537164f4d1509",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.5",
+    "version": "5.0.5",
+    "description": "Log Matomo errors to Sentry.",
+    "homepage": "https://www.digitalist.se/",
+    "license": "GPL v3+",
+    "displayName": "Sentry"
   },
   "ServerMonitor": {
     "sha256": "c148e245a7a012024cb9816e6081d69cc6cd96d3d05a8a036d8bfd7a9fc7ee48",
