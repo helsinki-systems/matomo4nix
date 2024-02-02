@@ -765,9 +765,9 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "bf5f5070abc4826012f9f64447c89c312b688bb873361a229ea87ab6e3fe4235",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.3.1",
-    "version": "5.3.1",
+    "sha256": "a894bf389eef7f0287636360cf76d4c28920394a3a1db5a024c3098eeb87aa70",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.3.10",
+    "version": "5.3.10",
     "description": "Mistral AI support for Matomo.",
     "homepage": "https://openmost.io",
     "license": "GPL v3+",
