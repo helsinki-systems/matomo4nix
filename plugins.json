@@ -477,9 +477,9 @@
     "displayName": "Release Channel for IE 11"
   },
   "IP2Location": {
-    "sha256": "60dbb63d6edb2e243d968745a9f8ca7ca272c93a16f46fd54f6d16fdbc3de6fd",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "3c42edb87eb64cc1533747e61a3c878b0a457d4d0eefa1ac828b6677a1372f32",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/5.2.0",
+    "version": "5.2.0",
     "description": "Use IP2Location geolocation database to lookup for accurate visitor location in Matomo (Piwik).",
     "homepage": "http://www.ip2location.com/developers/piwik",
     "license": "GPL-3.0+",
@@ -765,9 +765,9 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "a894bf389eef7f0287636360cf76d4c28920394a3a1db5a024c3098eeb87aa70",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.3.10",
-    "version": "5.3.10",
+    "sha256": "60ab7583e0964e002a716d4e132c05cc63db86bfaf97e3fbd3608a8e84799609",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.3.12",
+    "version": "5.3.12",
     "description": "Mistral AI support for Matomo.",
     "homepage": "https://openmost.io",
     "license": "GPL v3+",
@@ -954,9 +954,9 @@
     "displayName": "Segment Authorization"
   },
   "Sentry": {
-    "sha256": "c06127e7fb52e6fe63840c2057787adeae4e59d55e5676e2781537164f4d1509",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.5",
-    "version": "5.0.5",
+    "sha256": "bf7040881d89695a90038b0df63fd0822fd1aceac860020ff0137962026f2d7d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.6",
+    "version": "5.0.6",
     "description": "Log Matomo errors to Sentry.",
     "homepage": "https://www.digitalist.se/",
     "license": "GPL v3+",
