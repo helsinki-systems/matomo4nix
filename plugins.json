@@ -130,7 +130,7 @@
     "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.0.0",
     "version": "5.0.0",
     "description": "A ChatGPT widget.",
-    "homepage": "https://github.com/Chardonneaur/ChatGPT",
+    "homepage": "https://github.com/openmost/ChatGPT",
     "license": "GPL v3+",
     "displayName": "Chat GPT"
   },
@@ -954,9 +954,9 @@
     "displayName": "Segment Authorization"
   },
   "Sentry": {
-    "sha256": "bf7040881d89695a90038b0df63fd0822fd1aceac860020ff0137962026f2d7d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.6",
-    "version": "5.0.6",
+    "sha256": "6dd7e980e22249f4be736f23c170fd89ba8f088a70b237bbe02afefb9053cb4a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.7",
+    "version": "5.0.7",
     "description": "Log Matomo errors to Sentry.",
     "homepage": "https://www.digitalist.se/",
     "license": "GPL v3+",
