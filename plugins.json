@@ -126,11 +126,11 @@
     "displayName": "Chat"
   },
   "ChatGPT": {
-    "sha256": "62997916360f6d3c7af400a628c7c502b6cda187d1b0d3cbbd098d8412f06f47",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.0.0",
-    "version": "5.0.0",
-    "description": "A ChatGPT widget.",
-    "homepage": "https://github.com/openmost/ChatGPT",
+    "sha256": "37f789d32db6cf6bb25f46d5673449b56dc8d772a3a1af1d6fde742085e05e4a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.0.5",
+    "version": "5.0.5",
+    "description": "ChatGPT support for Matomo.",
+    "homepage": "https://openmost.io",
     "license": "GPL v3+",
     "displayName": "Chat GPT"
   },
@@ -844,6 +844,15 @@
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
     "displayName": "Profile Avatar"
+  },
+  "ProfileGravatar": {
+    "sha256": "3cae107b3f8b59ed139ee0eef4376a8061538da3cd817b3d123382c58db9dffb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/5.0.2",
+    "version": "5.0.2",
+    "description": "Use gravatar image for visitor's profile picture.",
+    "homepage": "https://openmost.io",
+    "license": "GPL v3+",
+    "displayName": "Profile Gravatar"
   },
   "ProtectTrackID": {
     "sha256": "ea7aeb51198e355fdfd07099170dae99812a5111ad75bb75b29837ebc9c7ca09",
