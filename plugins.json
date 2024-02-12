@@ -567,9 +567,9 @@
     "displayName": "Intranet Geo IP"
   },
   "InvalidateReports": {
-    "sha256": "b16ba8fb2e760f9b3745c8635ca44b9275fc38541be76882c7e293255ddbefad",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/InvalidateReports/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "bcd9998afb697800ef169cdb4f582496ce1fb70c675ae5534878797317a76d24",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/InvalidateReports/download/5.0.1",
+    "version": "5.0.1",
     "description": "This plugin allows Super Users to invalidate historical reports in the UI in Administration > System > Invalidate reports.",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
@@ -756,9 +756,9 @@
     "displayName": "Max Concurrent"
   },
   "Migration": {
-    "sha256": "e3c37727eeefe13e2c11fbbe3f62d12f754ffebefe49d2042125d312cbeda872",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "4788f0a088621e9524456f988eb0e8e0a2210a935336d0ed159b7b0e97313efe",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/5.0.2",
+    "version": "5.0.2",
     "description": "Migrate/copy any measurable (site, app, roll-up) from one Matomo to another Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -945,9 +945,9 @@
     "displayName": "SMSalert"
   },
   "SecurityInfo": {
-    "sha256": "348d4d860c1a925673fb022032f6b5fd627d2467af12a1886cda01397d92419f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SecurityInfo/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "e4098fedfcc4b4ce3465b3cee4451aa5d65d84676abc060677d13ad283fb15c3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SecurityInfo/download/5.0.2",
+    "version": "5.0.2",
     "description": "Provides security information about your PHP environment and offers suggestions based on PhpSecInfo from the PHP Security Consortium.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
