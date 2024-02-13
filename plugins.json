@@ -423,9 +423,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "17693275876c71a4465c5aba6a68e5196d1b939e0949a96534e92baacdf5c965",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.9",
-    "version": "5.0.9",
+    "sha256": "2619255f49f8c963a60e4ce1dd3f2572dd5d819069f4c535d1a8c25595f808be",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.10",
+    "version": "5.0.10",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -963,9 +963,9 @@
     "displayName": "Segment Authorization"
   },
   "Sentry": {
-    "sha256": "20428fcb9b6e2d3e2d8f7ebcd84e4c714d1907c6df4509bbb36fbb42bb1380d8",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.8",
-    "version": "5.0.8",
+    "sha256": "da6da139f02c704afaaaa88a9f3ea289986f79f3bdc9a9c976342746d79cc9fa",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.10",
+    "version": "5.0.10",
     "description": "Log Matomo errors to Sentry.",
     "homepage": "https://www.digitalist.se/",
     "license": "GPL v3+",
