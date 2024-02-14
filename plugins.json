@@ -963,9 +963,9 @@
     "displayName": "Segment Authorization"
   },
   "Sentry": {
-    "sha256": "da6da139f02c704afaaaa88a9f3ea289986f79f3bdc9a9c976342746d79cc9fa",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.10",
-    "version": "5.0.10",
+    "sha256": "55d23bc2aab88c2ba553a0955bf1837a3cfb9606f1b23b87196842ace20af227",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.11",
+    "version": "5.0.11",
     "description": "Log Matomo errors to Sentry.",
     "homepage": "https://www.digitalist.se/",
     "license": "GPL v3+",
