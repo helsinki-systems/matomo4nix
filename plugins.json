@@ -126,9 +126,9 @@
     "displayName": "Chat"
   },
   "ChatGPT": {
-    "sha256": "37f789d32db6cf6bb25f46d5673449b56dc8d772a3a1af1d6fde742085e05e4a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.0.5",
-    "version": "5.0.5",
+    "sha256": "d3d4fc757a4ba7c6444b466f32547ce56ddda8a95d1aa273e9be4a56884a563c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.0.6",
+    "version": "5.0.6",
     "description": "ChatGPT support for Matomo.",
     "homepage": "https://openmost.io",
     "license": "GPL v3+",
@@ -774,9 +774,9 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "60ab7583e0964e002a716d4e132c05cc63db86bfaf97e3fbd3608a8e84799609",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.3.12",
-    "version": "5.3.12",
+    "sha256": "17e7c4c20099d4f9df5fc1ac1ead3af11502c73915528fb738d0bbda9ab38349",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.3.13",
+    "version": "5.3.13",
     "description": "Mistral AI support for Matomo.",
     "homepage": "https://openmost.io",
     "license": "GPL v3+",
@@ -855,9 +855,9 @@
     "displayName": "Profile Avatar"
   },
   "ProfileGravatar": {
-    "sha256": "a130a96eb7db7da5952227383784e801cf11273814f9d8243a63ad284cf2f21a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "12b5e8dddc4bc8cf69ca689f619ee190856f935a5a6cdc1082e02baf05b48811",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/5.0.5",
+    "version": "5.0.5",
     "description": "Use gravatar image for visitor's profile picture.",
     "homepage": "https://openmost.io",
     "license": "GPL v3+",
