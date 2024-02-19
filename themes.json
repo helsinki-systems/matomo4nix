@@ -63,9 +63,9 @@
     "displayName": "Google Theme"
   },
   "Modern": {
-    "sha256": "088cafbe7d4aaee37cea7a03d27e8c9e31e933244a0bd90f58250d91716490f5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Modern/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "8e8d185332189e1960bf6f8880175d3194b45c3fb0c313274d056d1bbc7fa20e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Modern/download/5.0.4",
+    "version": "5.0.4",
     "description": "Modern gives the Matomo user interface a minimalist look and feel. Now also with dark mode and additional options.",
     "homepage": "https://whitespace.se/matomo/",
     "license": "GPL v3+",
