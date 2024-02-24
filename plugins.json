@@ -234,9 +234,9 @@
     "displayName": "Customise Translations"
   },
   "DataExport": {
-    "sha256": "84a89e698d41649a0d93b95af89a87250eff6fcbab16f0b54d910175a7c7bcd9",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExport/download/0.1.0",
-    "version": "0.1.0",
+    "sha256": "e723b0f72da2842b9035f4b6c84bb2e54ab60e5f32032124aea1f79690619df5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExport/download/0.1.2",
+    "version": "0.1.2",
     "description": "Export database or connect to your BI tools.",
     "homepage": "https://jorgeuos.com",
     "license": "GPL v3+",
