@@ -432,9 +432,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "2619255f49f8c963a60e4ce1dd3f2572dd5d819069f4c535d1a8c25595f808be",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.10",
-    "version": "5.0.10",
+    "sha256": "031b8d3a3cfdc58f2cd62e63200f5e9deff4d04f258e8778a2a7d77b4e508512",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.11",
+    "version": "5.0.11",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -486,9 +486,9 @@
     "displayName": "Release Channel for IE 11"
   },
   "IP2Location": {
-    "sha256": "3c42edb87eb64cc1533747e61a3c878b0a457d4d0eefa1ac828b6677a1372f32",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/5.2.0",
-    "version": "5.2.0",
+    "sha256": "804e98ca4a8c02d733d9d6ac400a30d22c20c8d8a52e87d73d45b6259b412898",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/5.2.1",
+    "version": "5.2.1",
     "description": "Use IP2Location geolocation database to lookup for accurate visitor location in Matomo (Piwik).",
     "homepage": "http://www.ip2location.com/developers/piwik",
     "license": "GPL-3.0+",
