@@ -774,9 +774,9 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "17e7c4c20099d4f9df5fc1ac1ead3af11502c73915528fb738d0bbda9ab38349",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.3.13",
-    "version": "5.3.13",
+    "sha256": "2368843054fdea8b4dfc970d0fa1f116d1b0f9bb1425efa4bf7884aafc91d0d5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.4.2",
+    "version": "5.4.2",
     "description": "Mistral AI support for Matomo.",
     "homepage": "https://openmost.io",
     "license": "GPL v3+",
@@ -1042,6 +1042,15 @@
     "homepage": "https://github.com/jbrule/matomoplugin-SiteAccessProvisioner",
     "license": "GPL v3+",
     "displayName": "Site Access Provisioner"
+  },
+  "SiteGroups": {
+    "sha256": "d9a06282b21c0d6a77699a26b266352f77e8fe117a43aad842a3445fc5b3dd8e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteGroups/download/5.0.1",
+    "version": "5.0.1",
+    "description": "Add group to measurables.",
+    "homepage": "https://openmost.io",
+    "license": "GPL v3+",
+    "displayName": "Site Groups"
   },
   "Sms77": {
     "sha256": "e868cc0c6be6801a0b3082a71b9954c81429309884c22ada6ff4d814e0ff289d",
