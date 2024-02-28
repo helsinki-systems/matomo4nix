@@ -234,9 +234,9 @@
     "displayName": "Customise Translations"
   },
   "DataExport": {
-    "sha256": "e723b0f72da2842b9035f4b6c84bb2e54ab60e5f32032124aea1f79690619df5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExport/download/0.1.2",
-    "version": "0.1.2",
+    "sha256": "e78889e356711d7cddb1f5ae3a4c732c721c761ff3b5df23b9e7c33fd14e74d4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExport/download/1.0.0",
+    "version": "1.0.0",
     "description": "Export database or connect to your BI tools.",
     "homepage": "https://jorgeuos.com",
     "license": "GPL v3+",
@@ -1017,9 +1017,9 @@
     "displayName": "Shortcode Tracker"
   },
   "Signup": {
-    "sha256": "48ec7a27b5cf97885405a7b208a02d945725f973a489f3c027dc0210b3ed6ca1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Signup/download/4.2.2",
-    "version": "4.2.2",
+    "sha256": "dc0cceac5cae17459da5801c2fa5a2a3b366884a07f4870304ffb48b5d361212",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Signup/download/5.0.1",
+    "version": "5.0.1",
     "description": "Let new users signup on your Matomo instance to track their own website.",
     "homepage": "https://github.com/alcalyn/matomo-plugin-signup",
     "license": "GPL-3.0+",
