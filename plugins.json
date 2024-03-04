@@ -305,6 +305,15 @@
     "license": "GPL v3+",
     "displayName": "Disable Tracking"
   },
+  "DisableUrlDecoding": {
+    "sha256": "265cd91fc74223cc4f9f9177872121cdebd579b28b18cc378c78a9af0f309f5e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DisableUrlDecoding/download/1.0.1",
+    "version": "1.0.1",
+    "description": "Disables URL-Decoding of current location and referer to avoid losing data in URL-encoded paths and parameters.",
+    "homepage": "https://github.com/Anisatum/matomo-plugin-DisableUrlDecoding/",
+    "license": "GPL-3.0+",
+    "displayName": "Disable Url Decoding"
+  },
   "DynamicDeviceDetectorCache": {
     "sha256": "3408deb4f6876942a2b690fb440287cc205a6dd2dce641b6cedb645a7c0d2b1b",
     "url": "https://plugins.matomo.org/api/2.0/plugins/DynamicDeviceDetectorCache/download/1.0.4",
