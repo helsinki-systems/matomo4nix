@@ -126,11 +126,11 @@
     "displayName": "Chat"
   },
   "ChatGPT": {
-    "sha256": "d3d4fc757a4ba7c6444b466f32547ce56ddda8a95d1aa273e9be4a56884a563c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.0.6",
-    "version": "5.0.6",
-    "description": "ChatGPT support for Matomo.",
-    "homepage": "https://openmost.io",
+    "sha256": "0640a3e98cb862a6e2225eb5c8d8412d547ebb8380d61a98705f03a1da657155",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.0.7",
+    "version": "5.0.7",
+    "description": "A ChatGPT widget.",
+    "homepage": "https://openmost.io/products/chatgpt/",
     "license": "GPL v3+",
     "displayName": "Chat GPT"
   },
@@ -153,11 +153,11 @@
     "displayName": "Click Heat"
   },
   "CodeInjector": {
-    "sha256": "e6f8d1cb2b52117bde12c47a273cb0f82428ebb32828ce132bb4bf01f101db81",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CodeInjector/download/5.0.8",
-    "version": "5.0.8",
+    "sha256": "1c9f741fad61d9f4d1c18e85358322fe162b4064ee9db9475653b6212ba4a066",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CodeInjector/download/5.0.9",
+    "version": "5.0.9",
     "description": "Inject CSS and JS code to your Matomo instance.",
-    "homepage": "https://openmost.io",
+    "homepage": "https://openmost.io/products/code-injector/",
     "license": "GPL v3+",
     "displayName": "Code Injector"
   },
@@ -621,11 +621,11 @@
     "displayName": "Js Tracker Force Async"
   },
   "KPIWidgets": {
-    "sha256": "c2f773b5ab6f4c9038990c7f45cdfd68dff8c6ebe68c82b915ad7bbd77374f3c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "fe93933f5d354789a8edc0a2d68abd7eb900bdd6f4d28964eaeb7b45e922abd2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/5.0.3",
+    "version": "5.0.3",
     "description": "Display KPIs on the dashboard for better readability.",
-    "homepage": "https://openmost.io/softwares/kpi-widgets",
+    "homepage": "https://openmost.io/products/kpi-widgets/",
     "license": "GPL v3+",
     "displayName": "KPIWidgets"
   },
@@ -783,11 +783,11 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "2368843054fdea8b4dfc970d0fa1f116d1b0f9bb1425efa4bf7884aafc91d0d5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.4.2",
-    "version": "5.4.2",
+    "sha256": "c5cfef5c1488084262bcc717e5bb95e4b2b0100bde1ee9020f040cb65603bd08",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.4.3",
+    "version": "5.4.3",
     "description": "Mistral AI support for Matomo.",
-    "homepage": "https://openmost.io",
+    "homepage": "https://openmost.io/products/mistral-ai/",
     "license": "GPL v3+",
     "displayName": "Mistral AI"
   },
@@ -864,11 +864,11 @@
     "displayName": "Profile Avatar"
   },
   "ProfileGravatar": {
-    "sha256": "12b5e8dddc4bc8cf69ca689f619ee190856f935a5a6cdc1082e02baf05b48811",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/5.0.5",
-    "version": "5.0.5",
+    "sha256": "4db0be62e2a94d1002b2e44555afd1dbaaef396f99f2f4e0a15f1b1b8ed09b8c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/5.0.6",
+    "version": "5.0.6",
     "description": "Use gravatar image for visitor's profile picture.",
-    "homepage": "https://openmost.io",
+    "homepage": "https://openmost.io/products/profile-gravatar/",
     "license": "GPL v3+",
     "displayName": "Profile Gravatar"
   },
@@ -1080,11 +1080,11 @@
     "displayName": "Snoopy Behavioral Scoring"
   },
   "TagManagerExtended": {
-    "sha256": "84db3789382534c2099efcfb738e7137781b3ab0aa77fce5278159159a388d92",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.0.6",
-    "version": "5.0.6",
+    "sha256": "d99ede35720426410067edbaa3d92eb2f62c2650db8d57706fbb6de39c52abf6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.0.8",
+    "version": "5.0.8",
     "description": "Adds several useful tags, triggers and variables to the Tag Manager.",
-    "homepage": "https://openmost.io/products",
+    "homepage": "https://openmost.io/products/tag-manager-extended/",
     "license": "GPL v3+",
     "displayName": "Tag Manager Extended"
   },
@@ -1206,11 +1206,11 @@
     "displayName": "Visitor Generator"
   },
   "WeatherReports": {
-    "sha256": "ec9d5de8ed94ab3a71f892e20e8ce985398e04e5ea78f5a0565c726abc2594ef",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "c9bba0fca86e12766430b744b53b89b452e8dab646da3bdb7e9f6e91d6438e4f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/5.0.2",
+    "version": "5.0.2",
     "description": "Track weather data from your website visitors.",
-    "homepage": "https://openmost.io/products",
+    "homepage": "https://openmost.io/products/weather-reports/",
     "license": "GPL v3+",
     "displayName": "Weather Reports"
   },
