@@ -891,9 +891,9 @@
     "displayName": "Provider"
   },
   "QueuedTracking": {
-    "sha256": "fdc80f5a10d6083709e194476f14e59bf1aaa2654dc9a0801d5434e7d0732b4d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "d9a2ff0b3c2e94dabf50cff0ac465bbeb057c4af0e3c32034a2b4a459cd77dc2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/5.0.3",
+    "version": "5.0.3",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1197,9 +1197,9 @@
     "displayName": "Visitor Avatar"
   },
   "VisitorGenerator": {
-    "sha256": "bea5837dfbae8c78a091a628360bded68e92ec773b3e9f45e6dd6b99e1eed09c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "6032e36d08a527f28bef4c77b6b84e4150dee378b1a09adcb19727f471af337c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/5.0.1",
+    "version": "5.0.1",
     "description": "Developer tool that lets you generate fake visits. Useful if you are working with plugins or themes or if you use the Matomo API.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
