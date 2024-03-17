@@ -477,9 +477,9 @@
     "displayName": "Group Permissions"
   },
   "HidePasswordReset": {
-    "sha256": "eff9dc43f16b673eef93b52767252291a2f0e8f5f4ad46c098cc59e37ef8a40c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/HidePasswordReset/download/4.3.3",
-    "version": "4.3.3",
+    "sha256": "1045446a01771a782fe5b063c38924eb25ad13db3079f136d1f051001547e8d3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/HidePasswordReset/download/5.0.0",
+    "version": "5.0.0",
     "description": "Hides the Lost your password? option on login form and allows to replace with a different message.",
     "homepage": "https://github.com/jbrule/matomoplugin-HidePasswordReset",
     "license": "GPL v3+",
