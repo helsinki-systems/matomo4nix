@@ -90,9 +90,9 @@
     "displayName": "Bee Liked DBIP"
   },
   "BotTracker": {
-    "sha256": "f96cf75c4884a3460eefc06f5525fc57d1d2a50cf54c7c590e70cd4a8d03a094",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/BotTracker/download/5.2.7",
-    "version": "5.2.7",
+    "sha256": "8d19d76f4744c2d0878177d1f1144c12e9c2b0ea730b7c7d68eac582afdcf7a3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/BotTracker/download/5.2.8",
+    "version": "5.2.8",
     "description": "Detection of bots & spiders and count their visits without tracking them in the visitor-log.",
     "homepage": "https://github.com/digitalist-se/MatomoPlugin-BotTracker",
     "license": "GPL v3+",
