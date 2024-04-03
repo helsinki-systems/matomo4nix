@@ -378,9 +378,9 @@
     "displayName": "Exposure Research Tools"
   },
   "ExtraTools": {
-    "sha256": "35abe2c4bf4372a64765d2664bb7d6898edbd9fbd9e7ff2134936cea9a3d0569",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.0.0-beta4",
-    "version": "5.0.0-beta4",
+    "sha256": "e85cac5234b00cf8a365e2af1aaf5312ca71f833837d1bbe009c67ae87021d05",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.0.1",
+    "version": "5.0.1",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://www.digitalist.se/matomo",
     "license": "GPL v3+",
@@ -495,9 +495,9 @@
     "displayName": "Release Channel for IE 11"
   },
   "IP2Location": {
-    "sha256": "1be61d4d7a37bc878eb3434176c287595d24424701fe554f2677cf0219fbe40d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/5.2.4",
-    "version": "5.2.4",
+    "sha256": "425bc934a2f18d69c99ac57b1f0eac66e8a073217d701dc6b27234fe4a7a79f7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/5.2.6",
+    "version": "5.2.6",
     "description": "Use IP2Location geolocation database to lookup for accurate visitor location in Matomo (Piwik).",
     "homepage": "http://www.ip2location.com/developers/piwik",
     "license": "GPL-3.0+",
