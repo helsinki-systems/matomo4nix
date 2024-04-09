@@ -90,11 +90,11 @@
     "displayName": "Bee Liked DBIP"
   },
   "BotTracker": {
-    "sha256": "8d19d76f4744c2d0878177d1f1144c12e9c2b0ea730b7c7d68eac582afdcf7a3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/BotTracker/download/5.2.8",
-    "version": "5.2.8",
+    "sha256": "0d4838c5e061814da5626166b213ef65a1cd6f168b4837c56b8e1cdd425684f5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/BotTracker/download/5.2.10",
+    "version": "5.2.10",
     "description": "Detection of bots & spiders and count their visits without tracking them in the visitor-log.",
-    "homepage": "https://github.com/digitalist-se/MatomoPlugin-BotTracker",
+    "homepage": "https://github.com/digitalist-se/BotTracker",
     "license": "GPL v3+",
     "displayName": "Bot Tracker"
   },
@@ -234,9 +234,9 @@
     "displayName": "Customise Translations"
   },
   "DataExport": {
-    "sha256": "7f280782eb9899a597a86517ba2a530521c9088b35e284dd69502b1559dd2f9e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExport/download/1.1.4",
-    "version": "1.1.4",
+    "sha256": "82addbf7402df697c471eb83f2e8a38ded95f7017265983e82c6e9a4bc3e46da",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExport/download/1.1.5",
+    "version": "1.1.5",
     "description": "Export database or connect to your BI tools.",
     "homepage": "https://jorgeuos.com",
     "license": "GPL v3+",
@@ -378,9 +378,9 @@
     "displayName": "Exposure Research Tools"
   },
   "ExtraTools": {
-    "sha256": "e85cac5234b00cf8a365e2af1aaf5312ca71f833837d1bbe009c67ae87021d05",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "1cc0a35b637168e7da8bdd34957b732e50d31f1a19b204076418f235ad830814",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.0.3",
+    "version": "5.0.3",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://www.digitalist.se/matomo",
     "license": "GPL v3+",
@@ -756,9 +756,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "ab01e21f8044664a572ef702b018d3dd947bbd38d6737e09f48dda8219b19719",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "54ee364fa49c269924084558929e2a811c9fbf4efc4c37321ea8335bbf72f5eb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.0.3",
+    "version": "5.0.3",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
