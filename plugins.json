@@ -126,10 +126,10 @@
     "displayName": "Chat"
   },
   "ChatGPT": {
-    "sha256": "0640a3e98cb862a6e2225eb5c8d8412d547ebb8380d61a98705f03a1da657155",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.0.7",
-    "version": "5.0.7",
-    "description": "A ChatGPT widget.",
+    "sha256": "d6d2865e401622d8ffd0d297a1ef6122a3ec850234fb89e6ee5e24c5906d2659",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.1.1",
+    "version": "5.1.1",
+    "description": "ChatGPT support for Matomo.",
     "homepage": "https://openmost.io/products/chatgpt/",
     "license": "GPL v3+",
     "displayName": "Chat GPT"
@@ -783,9 +783,9 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "c5cfef5c1488084262bcc717e5bb95e4b2b0100bde1ee9020f040cb65603bd08",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.4.3",
-    "version": "5.4.3",
+    "sha256": "b89daa393dd8bb0c23739b747b48a2dbc950e3ef9851dda4e98d1368496c9e4b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.5.0",
+    "version": "5.5.0",
     "description": "Mistral AI support for Matomo.",
     "homepage": "https://openmost.io/products/mistral-ai/",
     "license": "GPL v3+",
