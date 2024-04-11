@@ -126,9 +126,9 @@
     "displayName": "Chat"
   },
   "ChatGPT": {
-    "sha256": "d6d2865e401622d8ffd0d297a1ef6122a3ec850234fb89e6ee5e24c5906d2659",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.1.1",
-    "version": "5.1.1",
+    "sha256": "e650b9b64033d51d30b2b7de72c9caf4f2133374341f46c602604c4acf4c50c7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.1.2",
+    "version": "5.1.2",
     "description": "ChatGPT support for Matomo.",
     "homepage": "https://openmost.io/products/chatgpt/",
     "license": "GPL v3+",
@@ -783,9 +783,9 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "b89daa393dd8bb0c23739b747b48a2dbc950e3ef9851dda4e98d1368496c9e4b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.5.0",
-    "version": "5.5.0",
+    "sha256": "e2af160ebc505b6aa282d1ec3fd04b5920633423578688cd5e9af8e5a3b28aca",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.5.3",
+    "version": "5.5.3",
     "description": "Mistral AI support for Matomo.",
     "homepage": "https://openmost.io/products/mistral-ai/",
     "license": "GPL v3+",
@@ -873,9 +873,9 @@
     "displayName": "Profile Gravatar"
   },
   "ProtectTrackID": {
-    "sha256": "ea7aeb51198e355fdfd07099170dae99812a5111ad75bb75b29837ebc9c7ca09",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProtectTrackID/download/3.0.0",
-    "version": "3.0.0",
+    "sha256": "55b1d24ba95ff39d3100f9c8ea4ad28d042cdf1aae1be07afe9df3ac0747dce2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProtectTrackID/download/3.1.0",
+    "version": "3.1.0",
     "description": "Provides a option to protect idSite using hash instead default numeric.",
     "homepage": "https://github.com/joubertredrat/Matomo-ProtectTrackID",
     "license": "MIT",
