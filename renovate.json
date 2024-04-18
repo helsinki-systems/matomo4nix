@@ -24,7 +24,7 @@
     {
       "matchDepTypes": ["devDependencies"],
       "automerge": true
-    },
+    }
   ],
   "postUpdateOptions": ["gomodTidy", "gomodUpdateImportPaths"]
 }
