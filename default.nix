@@ -1,4 +1,4 @@
-{ fetchurl, unzip, zopfli, lib, stdenvNoCC, overrides ? (self: super: {}) }: with lib;
+{ fetchurl, recurseIntoAttrs, unzip, zopfli, lib, stdenvNoCC, overrides ? (self: super: {}) }: with lib;
 let packages = (self:
   let
     pluginJSON = builtins.fromJSON (readFile ./plugins.json);
@@ -19,7 +19,7 @@ let packages = (self:
       '';
     };
   in {
-    plugins = mapAttrs mkPkg pluginJSON;
-    themes = mapAttrs mkPkg themeJSON;
+    plugins = recurseIntoAttrs (mapAttrs mkPkg pluginJSON);
+    themes = recurseIntoAttrs (mapAttrs mkPkg themeJSON);
   });
 in fix' (extends overrides packages)
