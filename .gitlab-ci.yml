@@ -39,7 +39,8 @@ build:
 
 run:
   stage: run
-  needs: []
+  needs:
+    - build
   when: always
   rules:
     - if: '$CI_PIPELINE_SOURCE == "schedule" && $COMMAND == "run"'
@@ -50,6 +51,7 @@ run:
   script:
     - ./ci/build
     - ./ci/run
+    - ./ci/test
 
 test:
   stage: test
@@ -64,7 +66,8 @@ test:
 
 push:
   stage: push
-  needs: []
+  needs:
+    - run
   when: always
   rules:
     - if: '$CI_PIPELINE_SOURCE == "schedule" && $COMMAND == "run"'
@@ -73,7 +76,8 @@ push:
 
 helsinki_npins:
   stage: npins
-  needs: []
+  needs:
+    - push
   when: always
   rules:
     - if: '$CI_PIPELINE_SOURCE == "schedule" && $COMMAND == "run"'
