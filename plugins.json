@@ -864,9 +864,9 @@
     "displayName": "Profile Avatar"
   },
   "ProfileGravatar": {
-    "sha256": "4db0be62e2a94d1002b2e44555afd1dbaaef396f99f2f4e0a15f1b1b8ed09b8c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/5.0.6",
-    "version": "5.0.6",
+    "sha256": "96ce08eb4182862cd22294705311a3b3dcdd9e17493e89c61b11cb0e735536d2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/5.0.8",
+    "version": "5.0.8",
     "description": "Use gravatar image for visitor's profile picture.",
     "homepage": "https://openmost.io/products/profile-gravatar/",
     "license": "GPL v3+",
