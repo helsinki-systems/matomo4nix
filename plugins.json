@@ -342,9 +342,9 @@
     "displayName": "Endpoint"
   },
   "EnvironmentVariables": {
-    "sha256": "b7748cc732e9fba9d58888ba8089b091ccadff54390a42c803f4c78b3b9b19ac",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "89f91cf04c9b230e777e3b822ee5ff28cee747eadf687735eebefbde50f120a5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/5.0.1",
+    "version": "5.0.1",
     "description": "Allows you to specify Matomo config in environment variables instead of the config file.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -981,9 +981,9 @@
     "displayName": "Segment Authorization"
   },
   "Sentry": {
-    "sha256": "dfd1f587676092ef585218032f621619b4858fd0a9674ddb8588eb0c16ed3f0f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.13",
-    "version": "5.0.13",
+    "sha256": "91cb90cef770c4247922498584ebbd51ecaff0e95b2d627b97c8b08198ab6847",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.14",
+    "version": "5.0.14",
     "description": "Log Matomo errors to Sentry.",
     "homepage": "https://www.digitalist.se/",
     "license": "GPL v3+",
