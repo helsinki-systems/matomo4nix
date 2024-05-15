@@ -1079,6 +1079,15 @@
     "license": "GPL v3+",
     "displayName": "Snoopy Behavioral Scoring"
   },
+  "Swagger": {
+    "sha256": "a1cf7e0c748e5b8eca956bb07d1b6274a84174b28c93690cc8b25d7a547b2456",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/0.1.2",
+    "version": "0.1.2",
+    "description": "Matomo reporting API documentation with Swagger/OpenAPI.",
+    "homepage": "https://openmost.io/products/swagger/",
+    "license": "GPL v3+",
+    "displayName": "Swagger"
+  },
   "TagManagerExtended": {
     "sha256": "d99ede35720426410067edbaa3d92eb2f62c2650db8d57706fbb6de39c52abf6",
     "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.0.8",
