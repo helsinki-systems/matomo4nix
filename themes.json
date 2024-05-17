@@ -98,6 +98,15 @@
     "license": "MIT",
     "displayName": "My Crypto"
   },
+  "OpenmostTheme": {
+    "sha256": "c30e311e448fd294af4ed752c7993a119fee0ddb759aedc0cf884617e4b92b7d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OpenmostTheme/download/5.0.2",
+    "version": "5.0.2",
+    "description": "Enhance your Matomo experience with Openmost design.",
+    "homepage": "https://openmost.io/products/matomo-openmost-theme/",
+    "license": "GPL v3+",
+    "displayName": "Openmost Theme"
+  },
   "Proteus_Bold": {
     "sha256": "11253ad948ed882d81655ccc3bc25e4b7198e1074e2b99c411444fa67c7e7475",
     "url": "https://plugins.matomo.org/api/2.0/plugins/Proteus_Bold/download/0.1.4",
