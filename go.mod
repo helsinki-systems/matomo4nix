@@ -2,4 +2,4 @@ module git.helsinki.tools/helsinki-systems/matomo4nix
 
 go 1.14
 
-require github.com/hashicorp/go-version v1.6.0
+require github.com/hashicorp/go-version v1.7.0
