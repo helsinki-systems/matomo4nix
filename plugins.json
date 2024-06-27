@@ -90,9 +90,9 @@
     "displayName": "Bee Liked DBIP"
   },
   "BotTracker": {
-    "sha256": "70b2994ec4b70f7126c093155959e92a246cfcbb8faeecd3487b51b5e63f3c7f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/BotTracker/download/5.2.11",
-    "version": "5.2.11",
+    "sha256": "a120f63e80514805c95e8431ff92f143a519ee18510ccb81cfc9cfeff41728a5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/BotTracker/download/5.2.15",
+    "version": "5.2.15",
     "description": "Detection of bots & spiders and count their visits without tracking them in the visitor-log.",
     "homepage": "https://github.com/digitalist-se/BotTracker",
     "license": "GPL v3+",
@@ -126,9 +126,9 @@
     "displayName": "Chat"
   },
   "ChatGPT": {
-    "sha256": "9c621166e57b0a2bc62b0d356a02200d32bff376d8933dc6c0e7cfd8005f97f2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.2.4",
-    "version": "5.2.4",
+    "sha256": "7fe55612e8496109d53b79980bd5448ca885060df246b8d94454b7e94ec3245c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.2.5",
+    "version": "5.2.5",
     "description": "ChatGPT support for Matomo.",
     "homepage": "https://openmost.io/products/chatgpt/",
     "license": "GPL v3+",
@@ -171,9 +171,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "f8330bbbc35ce785bf89ef1556f4b65135af9ab44043391b60ce6ee27e98ba8b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "3bffe86e62ccc6c2f6bab6d0c27f124dd3cc208229d118aedc310aea665c96bb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.0.5",
+    "version": "5.0.5",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -441,9 +441,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "0ea19d6a6a42699c11eb396a0f7b1097301d3bb2bbb60ac48dabee05d689efbe",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.15",
-    "version": "5.0.15",
+    "sha256": "986d550dec5c0e13ca30f184eeb77f0fb1baa65b9e6b9db2d15ffa18c5a885e5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.17",
+    "version": "5.0.17",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -747,9 +747,9 @@
     "displayName": "Login Shibboleth"
   },
   "LoginTokenAuth": {
-    "sha256": "4b38742c9ad6e77f9e92950d53f8e59a76433a031ef647e2af2acc2808fc18bf",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginTokenAuth/download/4.0.0",
-    "version": "4.0.0",
+    "sha256": "948f804ca9bb6b78a30287a40a175354bbae25e2da3bcd87f3d450636c3dd488",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginTokenAuth/download/5.0.0",
+    "version": "5.0.0",
     "description": "Sign in to Matomo over api using the Users token_auth.",
     "homepage": "https://www.hd-cms.de",
     "license": "GPL v3+",
@@ -783,9 +783,9 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "30040208cb095e92d3be81010a57024e87f3862e7703a9fd7593545abd5029c6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.6.3",
-    "version": "5.6.3",
+    "sha256": "97fc6d8876afd0dbcfd4d7da5036c3feec053372a00276fe6607de4dcf31af31",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.6.4",
+    "version": "5.6.4",
     "description": "Mistral AI support for Matomo.",
     "homepage": "https://openmost.io/products/mistral-ai/",
     "license": "GPL v3+",
@@ -891,9 +891,9 @@
     "displayName": "Provider"
   },
   "QueuedTracking": {
-    "sha256": "c1955dcd48950276015cbf02c4ba2ba63d73658b01cc3292b84b1cda0077673d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "1ae40dded6c95fb3d6b2cb6459be990dfedbe6c31ca9a1d1675edb192b0efb82",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/5.0.5",
+    "version": "5.0.5",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -981,9 +981,9 @@
     "displayName": "Segment Authorization"
   },
   "Sentry": {
-    "sha256": "91cb90cef770c4247922498584ebbd51ecaff0e95b2d627b97c8b08198ab6847",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.14",
-    "version": "5.0.14",
+    "sha256": "8af99cde1234e9338b09ca8022a6b1a6b35204faba9b7c840fa7d6e33ba151f9",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Sentry/download/5.0.15",
+    "version": "5.0.15",
     "description": "Log Matomo errors to Sentry.",
     "homepage": "https://www.digitalist.se/",
     "license": "GPL v3+",
@@ -1053,9 +1053,9 @@
     "displayName": "Site Access Provisioner"
   },
   "SiteGroups": {
-    "sha256": "d9a06282b21c0d6a77699a26b266352f77e8fe117a43aad842a3445fc5b3dd8e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteGroups/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "bee9bcb60aafbd7d1521e0c6f33490d3d21061c6602ef94f7013fa72624e9820",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteGroups/download/5.0.3",
+    "version": "5.0.3",
     "description": "Add group to measurables.",
     "homepage": "https://openmost.io",
     "license": "GPL v3+",
@@ -1089,9 +1089,9 @@
     "displayName": "Swagger"
   },
   "TagManagerExtended": {
-    "sha256": "d99ede35720426410067edbaa3d92eb2f62c2650db8d57706fbb6de39c52abf6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.0.8",
-    "version": "5.0.8",
+    "sha256": "54a718df43f702af97b40210e2720911b39e938099f99a05bc452f551ffed2f4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.0.9",
+    "version": "5.0.9",
     "description": "Adds several useful tags, triggers and variables to the Tag Manager.",
     "homepage": "https://openmost.io/products/tag-manager-extended/",
     "license": "GPL v3+",
@@ -1215,9 +1215,9 @@
     "displayName": "Visitor Generator"
   },
   "WeatherReports": {
-    "sha256": "c9bba0fca86e12766430b744b53b89b452e8dab646da3bdb7e9f6e91d6438e4f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "4a586f40bfccacc820be92fa3b17df90e3a9437cd1a1677a195e23df9111253f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/5.0.3",
+    "version": "5.0.3",
     "description": "Track weather data from your website visitors.",
     "homepage": "https://openmost.io/products/weather-reports/",
     "license": "GPL v3+",
