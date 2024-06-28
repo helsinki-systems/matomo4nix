@@ -153,9 +153,9 @@
     "displayName": "Click Heat"
   },
   "CodeInjector": {
-    "sha256": "1c9f741fad61d9f4d1c18e85358322fe162b4064ee9db9475653b6212ba4a066",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CodeInjector/download/5.0.9",
-    "version": "5.0.9",
+    "sha256": "be778191c5825b41f990266e0ecd8f919070c451f8e7a9c18aaf64467594be50",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CodeInjector/download/5.0.10",
+    "version": "5.0.10",
     "description": "Inject CSS and JS code to your Matomo instance.",
     "homepage": "https://openmost.io/products/code-injector/",
     "license": "GPL v3+",
@@ -621,9 +621,9 @@
     "displayName": "Js Tracker Force Async"
   },
   "KPIWidgets": {
-    "sha256": "fe93933f5d354789a8edc0a2d68abd7eb900bdd6f4d28964eaeb7b45e922abd2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "ca15fc228996e42140b58bd3dad7abb0d6b1a06950901b1eab28581a050b818f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/5.0.4",
+    "version": "5.0.4",
     "description": "Display KPIs on the dashboard for better readability.",
     "homepage": "https://openmost.io/products/kpi-widgets/",
     "license": "GPL v3+",
@@ -864,9 +864,9 @@
     "displayName": "Profile Avatar"
   },
   "ProfileGravatar": {
-    "sha256": "96ce08eb4182862cd22294705311a3b3dcdd9e17493e89c61b11cb0e735536d2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/5.0.8",
-    "version": "5.0.8",
+    "sha256": "c495d50ffafa725c356336d3ddfc85a50dc4cbcea44ac8b13e350268b645aeba",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/5.0.9",
+    "version": "5.0.9",
     "description": "Use gravatar image for visitor's profile picture.",
     "homepage": "https://openmost.io/products/profile-gravatar/",
     "license": "GPL v3+",
@@ -1053,9 +1053,9 @@
     "displayName": "Site Access Provisioner"
   },
   "SiteGroups": {
-    "sha256": "bee9bcb60aafbd7d1521e0c6f33490d3d21061c6602ef94f7013fa72624e9820",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteGroups/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "9161a1458c1f820b18cecae52c29fc6b7ab68416f9c6c9bc604e6b74b1f1f8df",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteGroups/download/5.0.5",
+    "version": "5.0.5",
     "description": "Add group to measurables.",
     "homepage": "https://openmost.io",
     "license": "GPL v3+",
@@ -1080,18 +1080,18 @@
     "displayName": "Snoopy Behavioral Scoring"
   },
   "Swagger": {
-    "sha256": "a1cf7e0c748e5b8eca956bb07d1b6274a84174b28c93690cc8b25d7a547b2456",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/0.1.2",
-    "version": "0.1.2",
+    "sha256": "2a94ebaa1fd0824923cbe586b68c91c08d6826aebe0b287cc3fb9588443346c2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/5.1.4",
+    "version": "5.1.4",
     "description": "Matomo reporting API documentation with Swagger/OpenAPI.",
     "homepage": "https://openmost.io/products/swagger/",
     "license": "GPL v3+",
     "displayName": "Swagger"
   },
   "TagManagerExtended": {
-    "sha256": "54a718df43f702af97b40210e2720911b39e938099f99a05bc452f551ffed2f4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.0.9",
-    "version": "5.0.9",
+    "sha256": "88e3730a55f84cb84afdc8380797d0732facdf6c9e8ea6319d2c7b5e2ce234fa",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.0.10",
+    "version": "5.0.10",
     "description": "Adds several useful tags, triggers and variables to the Tag Manager.",
     "homepage": "https://openmost.io/products/tag-manager-extended/",
     "license": "GPL v3+",
@@ -1215,9 +1215,9 @@
     "displayName": "Visitor Generator"
   },
   "WeatherReports": {
-    "sha256": "4a586f40bfccacc820be92fa3b17df90e3a9437cd1a1677a195e23df9111253f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "f02d5ed5063e8d0bcce4dafd6de4bea23ccd9106039f89973835ab645c55b782",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/5.0.4",
+    "version": "5.0.4",
     "description": "Track weather data from your website visitors.",
     "homepage": "https://openmost.io/products/weather-reports/",
     "license": "GPL v3+",
