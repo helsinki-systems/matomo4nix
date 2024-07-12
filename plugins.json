@@ -441,9 +441,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "986d550dec5c0e13ca30f184eeb77f0fb1baa65b9e6b9db2d15ffa18c5a885e5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.17",
-    "version": "5.0.17",
+    "sha256": "c149ef618defb9d130476ad0cc418111cdfbacffd93210f37cbd06e5cff7f0a3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.18",
+    "version": "5.0.18",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
