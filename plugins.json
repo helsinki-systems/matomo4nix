@@ -1034,6 +1034,15 @@
     "license": "GPL-3.0+",
     "displayName": "Signup"
   },
+  "SimpleABTesting": {
+    "sha256": "684ca476c20406bae14e672d2027ffb7e4506e6707de6805c09878458b0ecd91",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SimpleABTesting/download/0.1.5",
+    "version": "0.1.5",
+    "description": "A simple A/B testing plugin.",
+    "homepage": "https://www.nofrillsplugins.com/matomo-simple-ab-testing",
+    "license": "GPL v3+",
+    "displayName": "Simple ABTesting"
+  },
   "SimpleSysMon": {
     "sha256": "9a61f26d63d251e695c9b128af050c7e376537bc1c719b5d5be4861604e7ac07",
     "url": "https://plugins.matomo.org/api/2.0/plugins/SimpleSysMon/download/0.3.1",
