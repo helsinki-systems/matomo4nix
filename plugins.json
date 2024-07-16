@@ -1035,10 +1035,10 @@
     "displayName": "Signup"
   },
   "SimpleABTesting": {
-    "sha256": "684ca476c20406bae14e672d2027ffb7e4506e6707de6805c09878458b0ecd91",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SimpleABTesting/download/0.1.5",
-    "version": "0.1.5",
-    "description": "A simple A/B testing plugin.",
+    "sha256": "ec2c56007c3496b6b8afe70320f4b493dbd3fb078bc86989df8baf70869bb2cf",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SimpleABTesting/download/0.1.93",
+    "version": "0.1.93",
+    "description": "A free and simple A/B testing plugin. Insert custom CSS / JS for your variant and you are done.",
     "homepage": "https://www.nofrillsplugins.com/matomo-simple-ab-testing",
     "license": "GPL v3+",
     "displayName": "Simple ABTesting"
