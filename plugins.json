@@ -44,6 +44,15 @@
     "license": "GPL v3+",
     "displayName": "Api Get With Sites Info"
   },
+  "AskYourDatabase": {
+    "sha256": "1bd9a58a5e910569c17f62dad07a4bb8183906cacaae5c243902f7da7d1766f2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AskYourDatabase/download/5.0.7",
+    "version": "5.0.7",
+    "description": "Connect the AskYourDatabase service to Matomo.",
+    "homepage": "https://openmost.io/products/askyourdatabase/",
+    "license": "GPL v3+",
+    "displayName": "Ask Your Database"
+  },
   "AuthorSegments": {
     "sha256": "e34653d5b30d7f5dca10d982b06362d2d711fc7943aecabd944c719b770d98ef",
     "url": "https://plugins.matomo.org/api/2.0/plugins/AuthorSegments/download/5.1.2",
