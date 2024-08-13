@@ -450,9 +450,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "be4cd0f880eb33c7e50dc1e2444a7c214f914ccfcc7ef94d9c3df9121cb51665",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.19",
-    "version": "5.0.19",
+    "sha256": "39dc015bb7dfb29ee3568ad69b02de6063379c30cc74a4ea13946b8ad269456d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.20",
+    "version": "5.0.20",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1152,9 +1152,9 @@
     "displayName": "Tracking Code Customizer"
   },
   "TrackingSpamPrevention": {
-    "sha256": "14de6aed4a12b53e4af85867253b79ab420e6c4c79fca600078f59000539e5ab",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "45baa940a6e39d1881f740e8b4491311fcb6aa423d18efb77f1e52401ae5667f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.3",
+    "version": "5.0.3",
     "description": "This plugin offers various options to prevent spammers and bots from making your data inaccurate so you can rely on your data again.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
