@@ -125,6 +125,15 @@
     "license": "GPL v3+",
     "displayName": "Campus Geo IP"
   },
+  "CaptchaHub": {
+    "sha256": "d48fc81cc3995276ecc76f6a80e1482b9e5d115a011495490c0d29d34782f340",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CaptchaHub/download/1.1.0",
+    "version": "1.1.0",
+    "description": "A Matomo plugin that adds captcha verification to the login form. Supports Google Recaptcha and Cloudflare Turnstile.",
+    "homepage": "https://github.com/theveloper-ir/matomo-plugin-CaptchaHub/",
+    "license": "GPL v3+",
+    "displayName": "Captcha Hub"
+  },
   "Chat": {
     "sha256": "29015a4d3d06da3d9a9a3d883a9feecb18691e30665b5f8ac4c3ba2bbe84d449",
     "url": "https://plugins.matomo.org/api/2.0/plugins/Chat/download/0.3.2",
