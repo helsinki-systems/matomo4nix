@@ -828,10 +828,10 @@
     "displayName": "Page Colours"
   },
   "PasswordPolicyEnforcer": {
-    "sha256": "6a674a85414cccd928b7776f70281ec332df428c09f32a0d42e104e0b2768c98",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/PasswordPolicyEnforcer/download/2.0.1",
-    "version": "2.0.1",
-    "description": "Adds a possibility to enforce Password Policy.",
+    "sha256": "e67d1df67cbf32c1702f9bc4a8213672d4892b90c0175659d586af9586d6d4aa",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/PasswordPolicyEnforcer/download/2.0.2",
+    "version": "2.0.2",
+    "description": "Adds a possibility to enforce Password Policy test.",
     "homepage": "https://github.com/simivar/matomo-password-policy-enforcer",
     "license": "MIT",
     "displayName": "Password Policy Enforcer"
