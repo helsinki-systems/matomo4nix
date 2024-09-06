@@ -971,6 +971,15 @@
     "license": "GPL v3+",
     "displayName": "Restrict Language Selection"
   },
+  "SDG": {
+    "sha256": "ea873915360385242178dd98bc48e8d5427c5e180807cc51029dd40c106901eb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SDG/download/5.1.1",
+    "version": "5.1.1",
+    "description": "Single Digital Gateway (SDG) for Your Europe portal.",
+    "homepage": "https://digitalist.cloud/services/eu/sdg-plugin-for-matomo",
+    "license": "GPL v3+",
+    "displayName": "SDG"
+  },
   "SMSalert": {
     "sha256": "af70c86c2ec0880e6daab21833b636a2b7a7fab1248634666dac84bcdca5aae9",
     "url": "https://plugins.matomo.org/api/2.0/plugins/SMSalert/download/1.0.1",
