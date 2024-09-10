@@ -1242,9 +1242,9 @@
     "displayName": "Visitor Avatar"
   },
   "VisitorGenerator": {
-    "sha256": "5f6b7a8d81591a3b7831df5a0acfe0503b31041d60f76b414cd276abb3a28670",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "dc9d4ecc69919851230e45920104c3ad532af3fbda5d7f1ea9d27ab005552b47",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/5.1.0",
+    "version": "5.1.0",
     "description": "Developer tool that lets you generate fake visits. Useful if you are working with plugins or themes or if you use the Matomo API.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
