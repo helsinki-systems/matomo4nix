@@ -792,9 +792,9 @@
     "displayName": "Max Concurrent"
   },
   "Migration": {
-    "sha256": "06c83be053e64f518892787c271206130bd84f2dd6664a4e6a2979cd924e75ef",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "30c1acd22436d63ed6abf2b2706a52dbfa25c000243ad943197cc57f387378ce",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/5.0.4",
+    "version": "5.0.4",
     "description": "Migrate/copy any measurable (site, app, roll-up) from one Matomo to another Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
