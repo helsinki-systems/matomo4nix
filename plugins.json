@@ -1170,9 +1170,9 @@
     "displayName": "Top Pages By Actions"
   },
   "TrackerDomain": {
-    "sha256": "c84e56cb2b5eb16816f401a5a136d3b882c89d1780a7345255700fad833d1c66",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "633c39677520fd9e450cde9a04584dbd51d59a8c55128e7f888434a0ae59056c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/5.0.2",
+    "version": "5.0.2",
     "description": "Set Domain for js trackers, useful when your UI is on another domain.",
     "homepage": "https://digitalist.cloud",
     "license": "GPL v3+",
