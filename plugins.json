@@ -360,9 +360,9 @@
     "displayName": "Endpoint"
   },
   "EnvironmentVariables": {
-    "sha256": "89f91cf04c9b230e777e3b822ee5ff28cee747eadf687735eebefbde50f120a5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "72e9f2e8ec38a494ca3ae0ffc45314eca2aee5b3238707f4a9a897007e91402f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/5.0.2",
+    "version": "5.0.2",
     "description": "Allows you to specify Matomo config in environment variables instead of the config file.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -918,9 +918,9 @@
     "displayName": "Provider"
   },
   "QueuedTracking": {
-    "sha256": "8e8ba4e6a692d6e7c9d4d3cddabaadba443605877704e930ffefe03506b08042",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/5.0.7",
-    "version": "5.0.7",
+    "sha256": "8e6749276998dae1e5626c9ea9b1be52978e58723eb3f370ee31971b6ec1f380",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/5.1.0",
+    "version": "5.1.0",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1170,9 +1170,9 @@
     "displayName": "Top Pages By Actions"
   },
   "TrackerDomain": {
-    "sha256": "633c39677520fd9e450cde9a04584dbd51d59a8c55128e7f888434a0ae59056c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "7cab17dcaae34c178503c05917191c3ed13721c8907311da05a7698ace9b1293",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/5.0.3",
+    "version": "5.0.3",
     "description": "Set Domain for js trackers, useful when your UI is on another domain.",
     "homepage": "https://digitalist.cloud",
     "license": "GPL v3+",
@@ -1188,9 +1188,9 @@
     "displayName": "Tracking Code Customizer"
   },
   "TrackingSpamPrevention": {
-    "sha256": "45baa940a6e39d1881f740e8b4491311fcb6aa423d18efb77f1e52401ae5667f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "58f945ad8c0abcdb0d3272a20a8ccb5e813598aea4ef2de83bf53ddc7a79169d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.4",
+    "version": "5.0.4",
     "description": "This plugin offers various options to prevent spammers and bots from making your data inaccurate so you can rely on your data again.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
