@@ -405,11 +405,11 @@
     "displayName": "Extra Api Information"
   },
   "ExtraTools": {
-    "sha256": "01613ebda1ff19837d79c1e349eac6ba46deca6dc063b5ed7b8a16b56f852394",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "1143047ed01b776188b913d18c49d75930d9740ec06b498a63356e23fa4fd574",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.0.7",
+    "version": "5.0.7",
     "description": "Adds automatic installation from the console, db backups etc.",
-    "homepage": "https://www.digitalist.se/matomo",
+    "homepage": "https://digitalist.cloud/matomo",
     "license": "GPL v3+",
     "displayName": "Extra Tools"
   },
@@ -1170,9 +1170,9 @@
     "displayName": "Top Pages By Actions"
   },
   "TrackerDomain": {
-    "sha256": "7cab17dcaae34c178503c05917191c3ed13721c8907311da05a7698ace9b1293",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "50bf0c99c3555798708a96a84a981881a7802a6f182825521ed80cb5804bac5b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/5.0.4",
+    "version": "5.0.4",
     "description": "Set Domain for js trackers, useful when your UI is on another domain.",
     "homepage": "https://digitalist.cloud",
     "license": "GPL v3+",
