@@ -27,9 +27,9 @@
     "displayName": "Coffee Cup"
   },
   "DarkTheme": {
-    "sha256": "23cad56f5ac390b03e3847dab38a983c765432922d840f6d6c0232a57a411080",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/5.0.8",
-    "version": "5.0.8",
+    "sha256": "fe177ce0559bcd3675d9bc252ff7921a6edac31fc0ad4fc71b037d143008e543",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/5.0.9",
+    "version": "5.0.9",
     "description": "A modern dark theme for Matomo.",
     "homepage": "https://openmost.io/products/matomo-dark-theme/",
     "license": "GPL v3+",
@@ -63,9 +63,9 @@
     "displayName": "Google Theme"
   },
   "Modern": {
-    "sha256": "8e8d185332189e1960bf6f8880175d3194b45c3fb0c313274d056d1bbc7fa20e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Modern/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "93e27ce717298aa3f2698f99f1fb310f88d657e49a629bf59e0e052bc4202cd3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Modern/download/5.0.5",
+    "version": "5.0.5",
     "description": "Modern gives the Matomo user interface a minimalist look and feel. Now also with dark mode and additional options.",
     "homepage": "https://whitespace.se/matomo/",
     "license": "GPL v3+",
