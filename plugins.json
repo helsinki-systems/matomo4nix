@@ -288,9 +288,9 @@
     "displayName": "Device Feature Web GL"
   },
   "DeviceNetworkInformation": {
-    "sha256": "bb938522b52f79a6500575cf7f9d848974f2eee55d8bf671f670bfa62e7f161a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceNetworkInformation/download/4.0.1",
-    "version": "4.0.1",
+    "sha256": "abeec49e89f5da0483ce115233969e4d2798a3853a6ab0965ce2433d66f1a59c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceNetworkInformation/download/5.0.1",
+    "version": "5.0.1",
     "description": "Detects network type on mobile devices where the browser supports it.",
     "homepage": "https://github.com/MichaelRoosz/plugin-DeviceNetworkInformation",
     "license": "GPL v3+",
