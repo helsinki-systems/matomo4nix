@@ -234,9 +234,9 @@
     "displayName": "Custom Translations"
   },
   "CustomVariables": {
-    "sha256": "c5ff8ddc47ba85a09ba31c2e285f884f9592e620feb8bc0a5bfa39e1a5b52435",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariables/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "b84b5261abf2ffcadffe500e7b18679899f8f712be9ed4d66878892aad377b1d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariables/download/5.0.3",
+    "version": "5.0.3",
     "description": "Categorise your visitors and actions with custom name-value pairs. Segment by these values and get more insights to draw the right conclusions.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -738,9 +738,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "c9804d3f3f8be8203ef11a6b2d754a88f5b56af233db312f34e92c7d9182ba8c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.0.6",
-    "version": "5.0.6",
+    "sha256": "87fb04bb45b4b73d58cc3ad1e385ec3bcd733442b897c27a3a2b82189cf05631",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.0.7",
+    "version": "5.0.7",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
