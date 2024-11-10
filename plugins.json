@@ -855,9 +855,9 @@
     "displayName": "Password Verifier"
   },
   "PerformanceAudit": {
-    "sha256": "f310021ae4fc1650777c0eb3d4a603311bfd218fef60b6c7ab7c603d12567fa7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/PerformanceAudit/download/3.1.0",
-    "version": "3.1.0",
+    "sha256": "e5523623c4bf1e6726bc7c234378b2b9631ceacc4d661d96235a657269aa3699",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/PerformanceAudit/download/3.2.0",
+    "version": "3.2.0",
     "description": "Daily performance audits of all your sites in Matomo.",
     "homepage": "https://github.com/DevDavido/performance-audit-plugin",
     "license": "GPL-3.0+",
