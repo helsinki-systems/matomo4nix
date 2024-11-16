@@ -1134,9 +1134,9 @@
     "displayName": "Swagger"
   },
   "TagManagerExtended": {
-    "sha256": "a850d741f04b319779b5b30bc9601391dfd87c1c99988adc65f8c78cc4effd30",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "39a3a26d74a9dc0ecef85d68786fb66c3190dd995b46ffd9cd1802f4d0aac01a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.1.3",
+    "version": "5.1.3",
     "description": "Adds several useful tags, triggers and variables to the Tag Manager.",
     "homepage": "https://openmost.io/products/tag-manager-extended/",
     "license": "GPL v3+",
