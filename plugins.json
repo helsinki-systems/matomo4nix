@@ -512,6 +512,15 @@
     "license": "GPL v3+",
     "displayName": "Hide Password Reset"
   },
+  "HooksViewer": {
+    "sha256": "64f355d0296739241f132d29852fabbf03f2ff4a4386fd5cf934c3f7d3564bd6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/HooksViewer/download/0.9.9",
+    "version": "0.9.9",
+    "description": "Easily visualize event hooks in Matomo. Never install in production !",
+    "homepage": "https://openmost.io/products/hooks-viewer/",
+    "license": "GPL v3+",
+    "displayName": "Hooks Viewer"
+  },
   "IE11ReleaseChannel": {
     "sha256": "0ceaccabf714c5d1f02ed4a4eb6c75c795a5e5f7785b807557aa8bb65c73989d",
     "url": "https://plugins.matomo.org/api/2.0/plugins/IE11ReleaseChannel/download/4.0.1",
