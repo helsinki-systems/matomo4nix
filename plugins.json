@@ -17,6 +17,15 @@
     "license": "GPL v3+",
     "displayName": "Admin Notification"
   },
+  "Agent": {
+    "sha256": "353919a50c08ef22ebf26a154c083f4049c861833ac6a35941326324b8ade5f0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Agent/download/0.0.1-alpha5",
+    "version": "0.0.1-alpha5",
+    "description": "A plugin to handle input from the Analytics Log Agent.",
+    "homepage": "https://digitalist.cloud",
+    "license": "GPL v3+",
+    "displayName": "Agent"
+  },
   "AjaxOptOut": {
     "sha256": "27b2b366649ee2c0fe5dd0f60dbd000af4d44ee30ddee77c5568284a620a3b66",
     "url": "https://plugins.matomo.org/api/2.0/plugins/AjaxOptOut/download/1.5.0",
@@ -405,9 +414,9 @@
     "displayName": "Extra Api Information"
   },
   "ExtraTools": {
-    "sha256": "2e9410754b1868d8d77398d9c03cf5ddce3d98ebd5e97576ddc2fb083829475f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "c8b39cb755e1e634f588a1372e218241b70bb1f926d64d830a9b732f30ac2435",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.1.1",
+    "version": "5.1.1",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://digitalist.cloud/matomo",
     "license": "GPL v3+",
@@ -513,9 +522,9 @@
     "displayName": "Hide Password Reset"
   },
   "HooksViewer": {
-    "sha256": "64f355d0296739241f132d29852fabbf03f2ff4a4386fd5cf934c3f7d3564bd6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/HooksViewer/download/0.9.9",
-    "version": "0.9.9",
+    "sha256": "21532486b387cc6deeeb72f575663ebcf9aa1f6d23f336360f8b57b3d25bafca",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/HooksViewer/download/1.0.0",
+    "version": "1.0.0",
     "description": "Easily visualize event hooks in Matomo. Never install in production !",
     "homepage": "https://openmost.io/products/hooks-viewer/",
     "license": "GPL v3+",
@@ -1242,9 +1251,9 @@
     "displayName": "Uptime Robot Monitor"
   },
   "UserConsole": {
-    "sha256": "ab75e31768be9d4e847ecfd2d4630750071596118d04bbc219f382134eda84ef",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "e2a4968cbf2cea1c981f54774b05b2d0d1436b8f0ce81d0a20912e89278f066f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/5.0.4",
+    "version": "5.0.4",
     "description": "Use the console to manage users, like adding users, reset password etc.",
     "homepage": "https://digitalist.cloud",
     "license": "GPL v3+",
