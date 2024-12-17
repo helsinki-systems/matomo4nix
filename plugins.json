@@ -108,11 +108,11 @@
     "displayName": "Bee Liked DBIP"
   },
   "BotTracker": {
-    "sha256": "4189917cd3e08704d933cdd4c6f0d77b3b2dfc10f88518cd24e6b97918b4c6b4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/BotTracker/download/5.2.16",
-    "version": "5.2.16",
+    "sha256": "0e96ae83e4dd6a3f7d2e8fdd6b01a507cc58375e1cf06546f303ed693f2ba30e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/BotTracker/download/5.2.18",
+    "version": "5.2.18",
     "description": "Detection of bots & spiders and count their visits without tracking them in the visitor-log.",
-    "homepage": "https://github.com/digitalist-se/BotTracker",
+    "homepage": "https://github.com/Digitalist-Open-Cloud/Matomo-Plugin-BotTracker",
     "license": "GPL v3+",
     "displayName": "Bot Tracker"
   },
@@ -477,9 +477,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "35d1c2578558eac7d4741a97b155fef6ab813df99794bee1986859ebbe29f464",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.21",
-    "version": "5.0.21",
+    "sha256": "6e7b2a25643c7d02fc1c0450b28cc8a51bb672d7afc2ffc9b0d3bc0c9b3a203e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.22",
+    "version": "5.0.22",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -801,9 +801,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "cd43099e40365d366988cbe9f53f9ba7968c58f189cb3240cb3aba50d57cf9ef",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "04b4f5cbe18fa126a0f0e1f3827f83ec3c48b3acccd9dc927b10b562504fb156",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.1.0",
+    "version": "5.1.0",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1260,9 +1260,9 @@
     "displayName": "User Console"
   },
   "VipDetector": {
-    "sha256": "c746d8b285ad645c794cbc35f580b293897564e782fc0ea3b95dc8d63ea3a323",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VipDetector/download/2.0.1",
-    "version": "2.0.1",
+    "sha256": "8b8b1651ff6f913b9336dbb5fce1847d29cb70f491860914f32ad695938b0654",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VipDetector/download/3.0.0",
+    "version": "3.0.0",
     "description": "Detect visits from special predefined IP ranges and display the name.",
     "homepage": "https://github.com/deadda7a/Matomo-VIP-Detector",
     "license": "MIT",
