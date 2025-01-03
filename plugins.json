@@ -953,6 +953,15 @@
     "license": "GPL v3+",
     "displayName": "Quick Exclude Visitor IP"
   },
+  "RebelNotifications": {
+    "sha256": "fc24a2dd6015491e560e82bbba8a654395ff23bd13cca714e54189ad10bac7ba",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelNotifications/download/5.0.3",
+    "version": "5.0.3",
+    "description": "Show Notifications to your users.",
+    "homepage": "https://digitalist.cloud",
+    "license": "GPL v3+",
+    "displayName": "Rebel Notifications"
+  },
   "ReferrersManager": {
     "sha256": "8a2a7270d4dcac5f77956cc3e5fe87107d705feadf836855b5c2b3b47664ca98",
     "url": "https://plugins.matomo.org/api/2.0/plugins/ReferrersManager/download/5.0.1",
