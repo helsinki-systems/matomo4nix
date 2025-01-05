@@ -9,9 +9,9 @@
     "displayName": "AOM"
   },
   "AdminNotification": {
-    "sha256": "095aaf410777582aed040ce09b3c4671d5c54ec573577045c1d4014d63fa8c91",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AdminNotification/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "6eec4856bd1b87cc4f208c7146d8c69cf53b2688b47b7b43d120bcf03cf54fc9",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AdminNotification/download/5.1.0",
+    "version": "5.1.0",
     "description": "Adds the ability for Matomo (Piwik) administrators to include an informative message to all user's dashboards. This uses the built in Notification function.",
     "homepage": "https://github.com/jbrule/piwikplugin-AdminNotification",
     "license": "GPL v3+",
