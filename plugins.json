@@ -1215,9 +1215,9 @@
     "displayName": "Tracking Code Customizer"
   },
   "TrackingSpamPrevention": {
-    "sha256": "c494fd13bebc7fd8ccc75a53ee05b5a42248317f1cbb985b96d76577cc2502b4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.6",
-    "version": "5.0.6",
+    "sha256": "ae8bc8b1b2bf9f90306347342e0f68f88e823511ca085cd04e258cf89314f9bf",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.7",
+    "version": "5.0.7",
     "description": "This plugin offers various options to prevent spammers and bots from making your data inaccurate so you can rely on your data again.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
