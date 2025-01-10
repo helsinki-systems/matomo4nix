@@ -954,9 +954,9 @@
     "displayName": "Quick Exclude Visitor IP"
   },
   "RebelNotifications": {
-    "sha256": "3889f4f1f6d30c3112e063a2acb9a6b133bba31791c0910fa75e4ecc18f1d63c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelNotifications/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "f4d12756756fa1aa3ab0a43bf751445443388b38903ba8d4eaf01945e384538f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelNotifications/download/5.0.5",
+    "version": "5.0.5",
     "description": "Show Notifications to your users.",
     "homepage": "https://digitalist.cloud",
     "license": "GPL v3+",
@@ -1224,9 +1224,9 @@
     "displayName": "Tracking Spam Prevention"
   },
   "TreemapVisualization": {
-    "sha256": "6336d4d9bae400632429e4933941497e696adc3e739c6f428b93dc7fd23d4d2e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "15af366ebf86a86fbaf7819e9e2eb9db66c0ef82f402589c1910936b43b2313f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/5.0.2",
+    "version": "5.0.2",
     "description": "Visualise any report in Matomo as a Treemap. Click on the Treemap icon in each report to load the visualisation.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
