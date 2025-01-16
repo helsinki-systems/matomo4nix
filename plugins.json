@@ -251,6 +251,15 @@
     "license": "GPL v3+",
     "displayName": "Custom Variables"
   },
+  "CustomVariablesExtended": {
+    "sha256": "fdaada0e452f4798e7c706e0c73c471919fb6fdf2b4ad5576499e14a2a9ac75b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariablesExtended/download/5.0.1",
+    "version": "5.0.1",
+    "description": "Provides 20 additional custom variables which do not need additional columns in the log tables (\"log_visit\", etc).",
+    "homepage": "https://github.com/MichaelRoosz/plugin-CustomVariablesExtended",
+    "license": "GPL v3+",
+    "displayName": "Custom Variables Extended"
+  },
   "CustomiseTranslations": {
     "sha256": "543d1f205e89fe34d1e1b8a909cf62c1588476521d9d32c0a47ccb169c978e62",
     "url": "https://plugins.matomo.org/api/2.0/plugins/CustomiseTranslations/download/1.1.0",
@@ -504,9 +513,9 @@
     "displayName": "Grab Gravatar"
   },
   "GroupPermissions": {
-    "sha256": "f61c14562afb2f2c0b1123c38fd1f9f4d0bded7f0156df938ca4b60ac285cf19",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GroupPermissions/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "569bfeb5bbdecfd6c5c0fbac5c61ddc4fc9ae88187e1a58db49fb9c260ec4406",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GroupPermissions/download/5.1.1",
+    "version": "5.1.1",
     "description": "Manage user permissions with groups.",
     "homepage": "https://github.com/MichaelRoosz/plugin-GroupPermissions",
     "license": "GPL v3+",
@@ -801,9 +810,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "04b4f5cbe18fa126a0f0e1f3827f83ec3c48b3acccd9dc927b10b562504fb156",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "0ac653e07a7618d379762b672a74b38412398d428e02d8eedaa310fb3ce6e9cb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.1.1",
+    "version": "5.1.1",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
