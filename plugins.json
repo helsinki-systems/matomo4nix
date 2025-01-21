@@ -243,9 +243,9 @@
     "displayName": "Custom Translations"
   },
   "CustomVariables": {
-    "sha256": "b84b5261abf2ffcadffe500e7b18679899f8f712be9ed4d66878892aad377b1d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariables/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "b27774bf8c432eb02e8ff12c416b394d8c5cb1924862b431aa6997a6b23b57d8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariables/download/5.0.4",
+    "version": "5.0.4",
     "description": "Categorise your visitors and actions with custom name-value pairs. Segment by these values and get more insights to draw the right conclusions.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -378,9 +378,9 @@
     "displayName": "Endpoint"
   },
   "EnvironmentVariables": {
-    "sha256": "72e9f2e8ec38a494ca3ae0ffc45314eca2aee5b3238707f4a9a897007e91402f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "752581ffb116a32d195f11855adc00db9df3c1f6deb4c97612fd5df7ce90923d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/5.0.3",
+    "version": "5.0.3",
     "description": "Allows you to specify Matomo config in environment variables instead of the config file.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -486,9 +486,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "6e7b2a25643c7d02fc1c0450b28cc8a51bb672d7afc2ffc9b0d3bc0c9b3a203e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.0.22",
-    "version": "5.0.22",
+    "sha256": "174c6116b83fcbd27f9e3afad9c01319b4d5772f9096f9d4371f292e5174b388",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.1.0",
+    "version": "5.1.0",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -657,9 +657,9 @@
     "displayName": "IP 2 Hostname"
   },
   "JsTrackerCustom": {
-    "sha256": "440394f7635a724efe0693f20f40086e09e14db58056105fcdcce88f3c5277cd",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerCustom/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "5e58c73ad7132add5c284da20aeb13ee1890c2fb03904fef2b370dfeef2ad91c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerCustom/download/5.0.2",
+    "version": "5.0.2",
     "description": "This plugin allows you to add custom JavaScript to Matomos tracking code.",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
@@ -828,9 +828,9 @@
     "displayName": "Max Concurrent"
   },
   "Migration": {
-    "sha256": "30c1acd22436d63ed6abf2b2706a52dbfa25c000243ad943197cc57f387378ce",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "1942617c541f711d98047ac75ed71677c1a0c94dae1c24a606cb0da10a46e45f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/5.0.5",
+    "version": "5.0.5",
     "description": "Migrate/copy any measurable (site, app, roll-up) from one Matomo to another Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -936,9 +936,9 @@
     "displayName": "Protect Track ID"
   },
   "Provider": {
-    "sha256": "695c27c8eadbd22e49a2dc25ca46d7c422bd690045453a5e15df4f1d5579c280",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "df70262705d9300d6d7b99819a3db3d3c1677d206044c3144328a80718238279",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/5.0.4",
+    "version": "5.0.4",
     "description": "Reports the Internet Service Provider of the visitors.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1044,9 +1044,9 @@
     "displayName": "SMSalert"
   },
   "SecurityInfo": {
-    "sha256": "3f33b05a089e55e1eced20c0cb0a5093c5bfef60666677d00830487e085e71b1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SecurityInfo/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "a76b8d2ea74e7c541eb2e5aea98b8a0010294cf199b4528d205495793e7c787f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SecurityInfo/download/5.0.4",
+    "version": "5.0.4",
     "description": "Provides security information about your PHP environment and offers suggestions based on PhpSecInfo from the PHP Security Consortium.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1242,9 +1242,9 @@
     "displayName": "Tracking Spam Prevention"
   },
   "TreemapVisualization": {
-    "sha256": "15af366ebf86a86fbaf7819e9e2eb9db66c0ef82f402589c1910936b43b2313f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "4305a8fd532d6ace6cf322879e76e28f049b39e2b643ace4f90d309c608b4153",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/5.0.3",
+    "version": "5.0.3",
     "description": "Visualise any report in Matomo as a Treemap. Click on the Treemap icon in each report to load the visualisation.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1287,9 +1287,9 @@
     "displayName": "User Console"
   },
   "VipDetector": {
-    "sha256": "e494518b0951eb1db17c902109bab59c636223d62ba55537593b6d6dbbd23917",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VipDetector/download/3.0.1",
-    "version": "3.0.1",
+    "sha256": "14765feff686895b66cd6015ef698afb9341e5f3840731ddd0c4dd64673224db",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VipDetector/download/3.0.2",
+    "version": "3.0.2",
     "description": "Detect visits from special predefined IP ranges and display the name.",
     "homepage": "https://github.com/deadda7a/Matomo-VIP-Detector",
     "license": "MIT",
