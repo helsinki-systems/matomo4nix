@@ -423,9 +423,9 @@
     "displayName": "Extra Api Information"
   },
   "ExtraTools": {
-    "sha256": "c8b39cb755e1e634f588a1372e218241b70bb1f926d64d830a9b732f30ac2435",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.1.1",
-    "version": "5.1.1",
+    "sha256": "ead24057b3cd1bcd25b283f7ccf7a05ed117b572f9272bb7a0344e9bdc702191",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.1.2",
+    "version": "5.1.2",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://digitalist.cloud/matomo",
     "license": "GPL v3+",
