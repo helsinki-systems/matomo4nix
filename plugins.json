@@ -765,9 +765,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "87fb04bb45b4b73d58cc3ad1e385ec3bcd733442b897c27a3a2b82189cf05631",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.0.7",
-    "version": "5.0.7",
+    "sha256": "ba896ed33325a1e4101ab6e8e2a8c4bb443a8dbe16113ae069d6f4d25dfd2897",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.0",
+    "version": "5.1.0",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
