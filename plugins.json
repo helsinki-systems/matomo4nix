@@ -252,9 +252,9 @@
     "displayName": "Custom Variables"
   },
   "CustomVariablesExtended": {
-    "sha256": "fdaada0e452f4798e7c706e0c73c471919fb6fdf2b4ad5576499e14a2a9ac75b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariablesExtended/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "7ea866a738a54ca8c08d43dbe4d0d5d8f8c591d8b79ac8e5a1536c8c2adf97f9",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariablesExtended/download/5.0.3",
+    "version": "5.0.3",
     "description": "Provides 20 additional custom variables which do not need additional columns in the log tables (\"log_visit\", etc).",
     "homepage": "https://github.com/MichaelRoosz/plugin-CustomVariablesExtended",
     "license": "GPL v3+",
