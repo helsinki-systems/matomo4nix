@@ -1348,5 +1348,14 @@
     "homepage": "http://xaviertorello.cat",
     "license": "GPL v3+",
     "displayName": "kDebug"
+  },
+  "zaki98Evil2": {
+    "sha256": "a379048adba01dac85f59baffdb614bbec25cff147af2de09300de6e7571d3af",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/zaki98Evil2/download/5.0.7",
+    "version": "5.0.7",
+    "description": "is there an xss in short description \"><img src='x' onerror='alert(123)'.",
+    "homepage": "https://z98.pro",
+    "license": "GPL-3.0+",
+    "displayName": "zaki 98Evil2"
   }
 }
