@@ -486,9 +486,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "fe44e1f3f39c3e82edb89d5e3214bcd0df8a36ee25d2daa31fa1c86d01cfe8ab",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.1.1",
-    "version": "5.1.1",
+    "sha256": "a374d9e25e1cd7fa4b83191f1533c547dc305df7d14048bee180ac9c4ac7b473",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.1.2",
+    "version": "5.1.2",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -747,9 +747,9 @@
     "displayName": "Live Tab"
   },
   "LogViewer": {
-    "sha256": "ab4d157c6bfd7f9d0c11b55aef183d3e463f319d66aa840023ad715b2983e840",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "0b6841f433de3d9645b4744ace64a9ed44c2a99aea3cc695bf011da9c3a8db53",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/5.0.3",
+    "version": "5.0.3",
     "description": "View log messages logged by Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -765,9 +765,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "ba896ed33325a1e4101ab6e8e2a8c4bb443a8dbe16113ae069d6f4d25dfd2897",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "6715a9cd2b11052ef6296d9933f52d8a7d2d54abe5d8e69bac1cf06be9c05292",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.1",
+    "version": "5.1.1",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
