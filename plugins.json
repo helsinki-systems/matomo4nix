@@ -260,6 +260,15 @@
     "license": "GPL v3+",
     "displayName": "Custom Variables Extended"
   },
+  "CustomWidgets": {
+    "sha256": "01d79909c638a6e35a6374f57a1ee7755c1f4fba7e0e707e5a251ad2f402cb7f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomWidgets/download/1.0.1",
+    "version": "1.0.1",
+    "description": "Add custom text and HTML to your dashboard.",
+    "homepage": "https://openmost.io/products/custom-widgets/",
+    "license": "GPL v3+",
+    "displayName": "Custom Widgets"
+  },
   "CustomiseTranslations": {
     "sha256": "543d1f205e89fe34d1e1b8a909cf62c1588476521d9d32c0a47ccb169c978e62",
     "url": "https://plugins.matomo.org/api/2.0/plugins/CustomiseTranslations/download/1.1.0",
