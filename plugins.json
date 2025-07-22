@@ -36,9 +36,9 @@
     "displayName": "Ajax Opt Out"
   },
   "AnonymousPiwikUsageMeasurement": {
-    "sha256": "6de5499a7e0d81ac41196a3616d738a7dbdc5c8c357b64b82d18b80aa48a9f88",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AnonymousPiwikUsageMeasurement/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "9d558b41ebd80961850a2c8c4e906f5db1ff5fa36da36b443378d379614c6544",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AnonymousPiwikUsageMeasurement/download/5.0.2",
+    "version": "5.0.2",
     "description": "Send anonymized usage data to your own Matomo instance or to any other Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -81,9 +81,9 @@
     "displayName": "Auto Login"
   },
   "Bandwidth": {
-    "sha256": "2710981d2952b1b755e330c3b9bd7d72045f8c12fe5ca75560fbb550a7ace6bd",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "77b60d756e291acb44045e5b5c72f76654306cc4c7f4229ddb9febb891deef12",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/5.0.3",
+    "version": "5.0.3",
     "description": "Monitor Bandwidth for each page, download, and measure overall traffic in bytes. For requirements check out the description.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -188,6 +188,15 @@
     "license": "GPL v3+",
     "displayName": "Code Injector"
   },
+  "ConversionApi": {
+    "sha256": "48bfd99756e3a230c1412d985ba5e8f7730ad0d1057186ca68018b611cc2fb2a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ConversionApi/download/0.2.9",
+    "version": "0.2.9",
+    "description": "The Conversion Api plugin allows users to integrate their data directly with Marketing platforms, like Meta, LinkedIn and Google.",
+    "homepage": "",
+    "license": "GPL v3+",
+    "displayName": "Conversion Api"
+  },
   "CrazyEggWidgetByAmperage": {
     "sha256": "0066d2133537c7537514c1b7fd2c28ed668794b9b0199ed3d0693e7f05d75396",
     "url": "https://plugins.matomo.org/api/2.0/plugins/CrazyEggWidgetByAmperage/download/5.0.1",
@@ -198,9 +207,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "6539a3ad9908971e508f5d393a37887537c662deeb1463a2dee7e1bf6aac12e9",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.0.6",
-    "version": "5.0.6",
+    "sha256": "35c3b35ec840bb9a3bf4a4a39815147a2b20fd42f9f5b9af333cba7e7fcc1e0f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.0.7",
+    "version": "5.0.7",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -225,9 +234,9 @@
     "displayName": "Custom Dimensions Manager"
   },
   "CustomOptOut": {
-    "sha256": "c279bf838d6f6a0c6f549f755e280103265a2d061b625b9dd0c55c475fb6c061",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomOptOut/download/2.0.5",
-    "version": "2.0.5",
+    "sha256": "6e0d7e98d9a8aa7964d40c5afbae043c08e1b55ca8a44142f67fcc9070861207",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomOptOut/download/0.2.0",
+    "version": "0.2.0",
     "description": "Create your own opt-out iframe css styles.",
     "homepage": "https://www.zwei-entwickler.de",
     "license": "GPL-3.0+",
@@ -277,6 +286,15 @@
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
     "displayName": "Customise Translations"
+  },
+  "CustomizeLogoUrl": {
+    "sha256": "5ba3e074ea0c42151095128febf07a17b98f3e1b19b9e144372af963da280d8d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomizeLogoUrl/download/1.0.6",
+    "version": "1.0.6",
+    "description": "Plugin that allows you to configure the destination URL of the Matomo logo through the Admin Dashboard.",
+    "homepage": "https://github.com/Simoblaster/matomo-plugin-CustomizeLogoUrl",
+    "license": "GPL v3+",
+    "displayName": "Customize Logo Url"
   },
   "DataExport": {
     "sha256": "ef74e9180a75aaa68581a0904a72a71d7d9b0b61adcbde1694eb7b887b9bf7af",
@@ -386,6 +404,15 @@
     "license": "GPL v3+",
     "displayName": "Endpoint"
   },
+  "EnhancedAttribution": {
+    "sha256": "eddbfe70202cd2bef8e67b443b148d4e6721362b8cefd3b70988bf8b99d8c6f1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EnhancedAttribution/download/1.1.2",
+    "version": "1.1.2",
+    "description": "Enhanced attribution tracking with goal URL analysis.",
+    "homepage": "https://www.carnaby.se/matomo-enhanced-attribution/",
+    "license": "GPL-3.0+",
+    "displayName": "Enhanced Attribution"
+  },
   "EnvironmentVariables": {
     "sha256": "752581ffb116a32d195f11855adc00db9df3c1f6deb4c97612fd5df7ce90923d",
     "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/5.0.3",
@@ -467,6 +494,15 @@
     "license": "GPL v3+",
     "displayName": "Flag Counter"
   },
+  "ForceOIDCLogin": {
+    "sha256": "2d709f064258f78396a0bc02eba229e5d23baa8174d9f1b08efa492d470460a2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ForceOIDCLogin/download/0.1.0",
+    "version": "0.1.0",
+    "description": "Force exclusive OIDC login by redirecting standard login attempts.",
+    "homepage": "https://github.com/ihersua/ForceOIDCLogin",
+    "license": "GPL v3+",
+    "displayName": "Force OIDCLogin"
+  },
   "ForceSSL": {
     "sha256": "741ab630b47ddb15a579a643ac2e66f58ba4ccd3980de2084cc02527d9dd9b60",
     "url": "https://plugins.matomo.org/api/2.0/plugins/ForceSSL/download/5.0.1",
@@ -495,9 +531,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "a374d9e25e1cd7fa4b83191f1533c547dc305df7d14048bee180ac9c4ac7b473",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.1.2",
-    "version": "5.1.2",
+    "sha256": "3a597c2f41b9647e43eebb2772b9ce8f562021fa20e82ffdaf1573eff2d8fb5d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.1.4",
+    "version": "5.1.4",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -612,9 +648,9 @@
     "displayName": "Ice Cast Statistics"
   },
   "ImportAnnotationWidget": {
-    "sha256": "7f5867c6759f9e7ca0a8632e39b473fe4a85637c7c723005bf358a8c1a5111bd",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ImportAnnotationWidget/download/0.1.2",
-    "version": "0.1.2",
+    "sha256": "075cc60862cf78939c8626bd7860c83fa06026db1b7fcbc9f86e3d91b2938d60",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ImportAnnotationWidget/download/0.1.0",
+    "version": "0.1.0",
     "description": "A simple widget to import multiple annotations at once by using the Matomo UI.",
     "homepage": "https://github.com/Chardonneaur/ImportAnnotationWidget/",
     "license": "GPL v3+",
@@ -756,9 +792,9 @@
     "displayName": "Live Tab"
   },
   "LogViewer": {
-    "sha256": "0b6841f433de3d9645b4744ace64a9ed44c2a99aea3cc695bf011da9c3a8db53",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "8d0cd54a24d9d7fc332ba5b1b3138e30ca992f9cda960ad6c07b3abc067e212e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/5.0.4",
+    "version": "5.0.4",
     "description": "View log messages logged by Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -774,9 +810,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "6715a9cd2b11052ef6296d9933f52d8a7d2d54abe5d8e69bac1cf06be9c05292",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.1",
-    "version": "5.1.1",
+    "sha256": "278b907a74a050f7638af71556dda4a31cbb1074f405f9a009ac3b1a4eb2bf8f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.3",
+    "version": "5.1.3",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -819,9 +855,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "0ac653e07a7618d379762b672a74b38412398d428e02d8eedaa310fb3ce6e9cb",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.1.1",
-    "version": "5.1.1",
+    "sha256": "ad424bc7992f64c7fe576f088344e42923f5c762f059f749cb490e33df9f2fa9",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.1.2",
+    "version": "5.1.2",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -917,6 +953,15 @@
     "license": "GPL-3.0+",
     "displayName": "Performance Monitor"
   },
+  "PkceOIDC": {
+    "sha256": "32ec08a11f7ef977f5b1336bb4b759f8ea2d12de486eaa2832281f55c8395599",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/PkceOIDC/download/5.1.5",
+    "version": "5.1.5",
+    "description": "Adds support for OIDC login that uses pkce flow.",
+    "homepage": "https://github.com/marco-jj/matomo-plugin-LoginOIDC-pkce",
+    "license": "GPL v3+",
+    "displayName": "Pkce OIDC"
+  },
   "ProfileAvatar": {
     "sha256": "3aac3088fe92fa2ed8821fcb5571dbd691a2d5300e4a04bbbbd58ea8b7104f3c",
     "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileAvatar/download/0.2.0",
@@ -954,9 +999,9 @@
     "displayName": "Provider"
   },
   "QueuedTracking": {
-    "sha256": "1c8ecab588afb06dd40dd67016a973731c14da37411152fe77cfabca07778cf1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/5.1.1",
-    "version": "5.1.1",
+    "sha256": "5b24795acef97cc02affd69de479204b812e10722441743732766e9eb90d6adc",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/5.1.2",
+    "version": "5.1.2",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1188,9 +1233,9 @@
     "displayName": "Swagger"
   },
   "TagManagerExtended": {
-    "sha256": "e0914d2bb79dc9415202bd2f7c5a1f007484c0e1bac489269b523eaa28b5eb7e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.2.2",
-    "version": "5.2.2",
+    "sha256": "2c0457044056c304e215baa8e086cb510a1c6bb12b08d1a18edf6777828c2759",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.2.3",
+    "version": "5.2.3",
     "description": "Adds several useful tags, triggers and variables to the Tag Manager.",
     "homepage": "https://openmost.io/products/tag-manager-extended/",
     "license": "GPL v3+",
@@ -1206,9 +1251,9 @@
     "displayName": "Tag Manager Input Extension"
   },
   "TasksTimetable": {
-    "sha256": "4d2eaa6992d413cf44aa244e7c68ad5ed7f9f72b6ca805998f7636b0b36b7737",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TasksTimetable/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "07ca870013d7d6ee8593184aa1623d93eb1b2f167490225b650890d0dadbef72",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TasksTimetable/download/5.0.2",
+    "version": "5.0.2",
     "description": "List all maintenance tasks that are scheduled to run. Displays the task names and next execution time in a table.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1242,18 +1287,18 @@
     "displayName": "Tracking Code Customizer"
   },
   "TrackingSpamPrevention": {
-    "sha256": "ae8bc8b1b2bf9f90306347342e0f68f88e823511ca085cd04e258cf89314f9bf",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.7",
-    "version": "5.0.7",
+    "sha256": "7c5603228e2ad9fb2ac3eb3565facd12b4706932739ee2978bb9637b1a8e6efa",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.8",
+    "version": "5.0.8",
     "description": "This plugin offers various options to prevent spammers and bots from making your data inaccurate so you can rely on your data again.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
     "displayName": "Tracking Spam Prevention"
   },
   "TreemapVisualization": {
-    "sha256": "4305a8fd532d6ace6cf322879e76e28f049b39e2b643ace4f90d309c608b4153",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "8b9fcb483623dedb1b253a3288e38701552adcfe63c10aa21181f441a41b2494",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/5.0.4",
+    "version": "5.0.4",
     "description": "Visualise any report in Matomo as a Treemap. Click on the Treemap icon in each report to load the visualisation.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
