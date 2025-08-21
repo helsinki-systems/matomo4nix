@@ -459,9 +459,9 @@
     "displayName": "Extra Api Information"
   },
   "ExtraTools": {
-    "sha256": "ead24057b3cd1bcd25b283f7ccf7a05ed117b572f9272bb7a0344e9bdc702191",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.1.2",
-    "version": "5.1.2",
+    "sha256": "7339deee72156048b4cc1e422ba5c261f9a6f24c4ed3b8ac223d1cf53cd786c0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.1.5",
+    "version": "5.1.5",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://digitalist.cloud/matomo",
     "license": "GPL v3+",
@@ -1359,9 +1359,9 @@
     "displayName": "Visitor Avatar"
   },
   "VisitorGenerator": {
-    "sha256": "f513477e0d494a937af4907e1a7f66d42d12ad50bf1ca7ba3ac8d8616084e883",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/5.1.1",
-    "version": "5.1.1",
+    "sha256": "1cc82d436cc7219b90e2b9989e9325b915cdf4602abede4369e0e50af2b05052",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/5.1.2",
+    "version": "5.1.2",
     "description": "Developer tool that lets you generate fake visits. Useful if you are working with plugins or themes or if you use the Matomo API.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
