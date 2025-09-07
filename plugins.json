@@ -126,9 +126,9 @@
     "displayName": "Brave Detector"
   },
   "CampusGeoIP": {
-    "sha256": "d6c7de8cf12a81155a57d479ea281f1189bfdb09308ae5b3679c4679453a3e55",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CampusGeoIP/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "96675f871094a0d49227ff5782aa1a59a6e9ff51b03851271d9582af3e088372",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CampusGeoIP/download/5.0.3",
+    "version": "5.0.3",
     "description": "This location provider is designed to geolocate ips across a campus in an intranet type environment.",
     "homepage": "https://github.com/jbrule/matomoplugin-CampusGeoIP",
     "license": "GPL v3+",
