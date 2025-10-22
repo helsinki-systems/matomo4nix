@@ -126,10 +126,10 @@
     "displayName": "Terrano"
   },
   "TheBlueOne": {
-    "sha256": "10528ac501c639da972320eaadd43489514d2e555add6e594fb72a2924feb484",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TheBlueOne/download/1.5.3",
-    "version": "1.5.3",
-    "description": "a peaceful, modern theme.",
+    "sha256": "598d736be7708758f69fb002662138cf7589d24844968687a9079d17d056edf1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TheBlueOne/download/1.5.6",
+    "version": "1.5.6",
+    "description": "A peaceful, modern theme.",
     "homepage": "https://github.com/soheil03/TheBlueOne",
     "license": "MIT",
     "displayName": "The Blue One"
