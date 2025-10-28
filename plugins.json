@@ -81,9 +81,9 @@
     "displayName": "Auto Login"
   },
   "Bandwidth": {
-    "sha256": "77b60d756e291acb44045e5b5c72f76654306cc4c7f4229ddb9febb891deef12",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "e2380c17e6412bac4895f4c3791a3b034d2fc7002690fd314c4c7d3a98f54c62",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/5.0.4",
+    "version": "5.0.4",
     "description": "Monitor Bandwidth for each page, download, and measure overall traffic in bytes. For requirements check out the description.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1206,9 +1206,9 @@
     "displayName": "Site Groups"
   },
   "Slack": {
-    "sha256": "bc0b581852387e7d099dca4889ae674dfa21f52da3548075841b8060431a9a39",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Slack/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "c70439715153bd67209856c2fed668348b1d486c5e5d70d35ffbf923e541363f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Slack/download/5.0.2",
+    "version": "5.0.2",
     "description": "Send Matomo reports and alerts to Slack channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
