@@ -855,9 +855,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "e7624da998dd1db26a379d3392b76dab7656e94e8aa4a4369e54d02ef16faf6d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.1.3",
-    "version": "5.1.3",
+    "sha256": "8c042b9dfa09b724a167b210af69704008f800c94cd81f4fecee0156dd5dbf9e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.1.4",
+    "version": "5.1.4",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1206,9 +1206,9 @@
     "displayName": "Site Groups"
   },
   "Slack": {
-    "sha256": "c70439715153bd67209856c2fed668348b1d486c5e5d70d35ffbf923e541363f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Slack/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "b59130c7451ebd077e5ff6a81ada7868b6ba01c0f145390a262319f70185ee30",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Slack/download/5.0.3",
+    "version": "5.0.3",
     "description": "Send Matomo reports and alerts to Slack channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
