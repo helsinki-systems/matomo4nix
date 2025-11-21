@@ -153,9 +153,9 @@
     "displayName": "Chat"
   },
   "ChatGPT": {
-    "sha256": "5e4e907b96af7a39b3b40f25bba81332fd9ebdda6720b5af1d7d3b9a3b106cf3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.3.0",
-    "version": "5.3.0",
+    "sha256": "08c0a043644d7fa92645bd31966bc11c8fd0a051b84c2e644f9995b5f55ab2fb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.4.0",
+    "version": "5.4.0",
     "description": "ChatGPT support for Matomo.",
     "homepage": "https://openmost.io/products/chatgpt/",
     "license": "GPL v3+",
@@ -720,9 +720,9 @@
     "displayName": "Js Tracker Force Async"
   },
   "KPIWidgets": {
-    "sha256": "ca15fc228996e42140b58bd3dad7abb0d6b1a06950901b1eab28581a050b818f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "4223350c46b69d0d21e8eb20137b5f2109865849983042d55b151f89c2c12c00",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/5.1.0",
+    "version": "5.1.0",
     "description": "Display KPIs on the dashboard for better readability.",
     "homepage": "https://openmost.io/products/kpi-widgets/",
     "license": "GPL v3+",
@@ -882,9 +882,9 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "b8b507f0fa39001cc7505bc5c02d42ef134f01dd3e022518192ea672c2578bc7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.7.0",
-    "version": "5.7.0",
+    "sha256": "85a623c1a7b2bed543e298a9ed1cbf73557d6b80b90cedc1be0a16ac65e7f913",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.8.0",
+    "version": "5.8.0",
     "description": "Mistral AI support for Matomo.",
     "homepage": "https://openmost.io/products/mistral-ai/",
     "license": "GPL v3+",
@@ -1377,9 +1377,9 @@
     "displayName": "Visitor Generator"
   },
   "WeatherReports": {
-    "sha256": "f02d5ed5063e8d0bcce4dafd6de4bea23ccd9106039f89973835ab645c55b782",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "09c8f3a61b303e055c9157161c92aac39ac54050d587b1604dfd9bd9a74766c2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/5.1.2",
+    "version": "5.1.2",
     "description": "Track weather data from your website visitors.",
     "homepage": "https://openmost.io/products/weather-reports/",
     "license": "GPL v3+",
