@@ -207,9 +207,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "454d54333b8280082a82938406b93cfdd822d2f53b3d30103835e13fd3caeb79",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "ba5968d2ecfafa9eb45be21aab6e2339130d7cce9edc1e9d70dfc53571e141f0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.2.0",
+    "version": "5.2.0",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1233,9 +1233,9 @@
     "displayName": "Snoopy Behavioral Scoring"
   },
   "Swagger": {
-    "sha256": "2a94ebaa1fd0824923cbe586b68c91c08d6826aebe0b287cc3fb9588443346c2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/5.1.4",
-    "version": "5.1.4",
+    "sha256": "875498df2de1d6e4d563d9d93054a393d18efbb1629eb5a03f06236139ab1e5f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/5.2.0",
+    "version": "5.2.0",
     "description": "Matomo reporting API documentation with Swagger/OpenAPI.",
     "homepage": "https://openmost.io/products/swagger/",
     "license": "GPL v3+",
@@ -1368,9 +1368,9 @@
     "displayName": "Visitor Avatar"
   },
   "VisitorGenerator": {
-    "sha256": "6010ae9f419bbb3bbab863847401ad9c5daad914255b47dbb17ea730f4732194",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/5.1.4",
-    "version": "5.1.4",
+    "sha256": "91db5e41eb1ad2d05fbd5d311296f761400ea70913c0c99c6b99f4d7c31a363e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/5.1.5",
+    "version": "5.1.5",
     "description": "Developer tool that lets you generate fake visits. Useful if you are working with plugins or themes or if you use the Matomo API.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
