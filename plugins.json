@@ -153,9 +153,9 @@
     "displayName": "Chat"
   },
   "ChatGPT": {
-    "sha256": "08c0a043644d7fa92645bd31966bc11c8fd0a051b84c2e644f9995b5f55ab2fb",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.4.0",
-    "version": "5.4.0",
+    "sha256": "de4ff6f17a001dc549771b8d789d503d0c0041cda7840b6c4a873ebfc2516440",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.4.1",
+    "version": "5.4.1",
     "description": "ChatGPT support for Matomo.",
     "homepage": "https://openmost.io/products/chatgpt/",
     "license": "GPL v3+",
@@ -882,9 +882,9 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "85a623c1a7b2bed543e298a9ed1cbf73557d6b80b90cedc1be0a16ac65e7f913",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.8.0",
-    "version": "5.8.0",
+    "sha256": "b06f16316fd6f690b374357b9ae26a9eae22bb63ebede6ee16a4426908cee6ed",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.8.1",
+    "version": "5.8.1",
     "description": "Mistral AI support for Matomo.",
     "homepage": "https://openmost.io/products/mistral-ai/",
     "license": "GPL v3+",
@@ -999,9 +999,9 @@
     "displayName": "Provider"
   },
   "QueuedTracking": {
-    "sha256": "e6ef791e66008205ef793acd231d096aca08409a7ea51b259a58e3da29be35ef",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/5.1.3",
-    "version": "5.1.3",
+    "sha256": "1ec22a28a740d181d4277d26e585b6fe0e42d90334dc1ad0f61b44ef8d0ce4ca",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/5.2.0",
+    "version": "5.2.0",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1233,18 +1233,18 @@
     "displayName": "Snoopy Behavioral Scoring"
   },
   "Swagger": {
-    "sha256": "875498df2de1d6e4d563d9d93054a393d18efbb1629eb5a03f06236139ab1e5f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/5.2.0",
-    "version": "5.2.0",
+    "sha256": "6387cdd937b4c93f3c9be1011411ca42e27eb5139b1b981fdb256e90610b28e3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/5.2.2",
+    "version": "5.2.2",
     "description": "Matomo reporting API documentation with Swagger/OpenAPI.",
     "homepage": "https://openmost.io/products/swagger/",
     "license": "GPL v3+",
     "displayName": "Swagger"
   },
   "TagManagerExtended": {
-    "sha256": "2c0457044056c304e215baa8e086cb510a1c6bb12b08d1a18edf6777828c2759",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.2.3",
-    "version": "5.2.3",
+    "sha256": "45846e45e1a09b22d4449cf46f82edbd8ba56138f823f5f2634b86086b44c592",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.3.0",
+    "version": "5.3.0",
     "description": "Adds several useful tags, triggers and variables to the Tag Manager.",
     "homepage": "https://openmost.io/products/tag-manager-extended/",
     "license": "GPL v3+",
