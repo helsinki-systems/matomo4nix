@@ -153,9 +153,9 @@
     "displayName": "Chat"
   },
   "ChatGPT": {
-    "sha256": "de4ff6f17a001dc549771b8d789d503d0c0041cda7840b6c4a873ebfc2516440",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.4.1",
-    "version": "5.4.1",
+    "sha256": "1cc7eeea24457dac1138acb39bc8c720b8989e32bec62eeff3327e57465b3ff2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.5.7",
+    "version": "5.5.7",
     "description": "ChatGPT support for Matomo.",
     "homepage": "https://openmost.io/products/chatgpt/",
     "license": "GPL v3+",
