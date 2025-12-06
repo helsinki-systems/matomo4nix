@@ -882,10 +882,10 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "b06f16316fd6f690b374357b9ae26a9eae22bb63ebede6ee16a4426908cee6ed",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.8.1",
-    "version": "5.8.1",
-    "description": "Mistral AI support for Matomo.",
+    "sha256": "5823d62450e7e666585e72f4c669e6315d046126b42cd2b439d49e5952ae92d0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.9.3",
+    "version": "5.9.3",
+    "description": "MistralAI support for Matomo.",
     "homepage": "https://openmost.io/products/mistral-ai/",
     "license": "GPL v3+",
     "displayName": "Mistral AI"
