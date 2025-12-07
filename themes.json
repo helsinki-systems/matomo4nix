@@ -27,9 +27,9 @@
     "displayName": "Coffee Cup"
   },
   "DarkTheme": {
-    "sha256": "64c2c18e1938f20f81520cc2d5d91c65b4ecff05e941cf8034ada38115d52c90",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/5.1.2",
-    "version": "5.1.2",
+    "sha256": "c25096fe44b7b52ae10ee094d71a2596a1ef2269092f2a9495eb106e946850bb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/5.2.0",
+    "version": "5.2.0",
     "description": "A modern dark theme for Matomo.",
     "homepage": "https://openmost.io/products/matomo-dark-theme/",
     "license": "GPL v3+",
