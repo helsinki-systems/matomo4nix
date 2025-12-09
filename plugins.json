@@ -422,6 +422,15 @@
     "license": "GPL v3+",
     "displayName": "Environment Variables"
   },
+  "EventsEnhanced": {
+    "sha256": "c957d4fd444637078f4ec113f43dfd7af8ff53502ec1e12aeae95fa92649befe",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EventsEnhanced/download/1.0.4",
+    "version": "1.0.4",
+    "description": "Add event-based report and event details view.",
+    "homepage": "https://openmost.io/products/events-enhanced/",
+    "license": "GPL v3+",
+    "displayName": "Events Enhanced"
+  },
   "ExcludeByDDNS": {
     "sha256": "c97554d4f9ef34c506196845e08abc0c1bc4a65860404fe943842c98586a5cc1",
     "url": "https://plugins.matomo.org/api/2.0/plugins/ExcludeByDDNS/download/5.0.0",
