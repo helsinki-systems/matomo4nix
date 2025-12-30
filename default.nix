@@ -1,8 +1,8 @@
-{ fetchurl, recurseIntoAttrs, unzip, zopfli, lib, stdenvNoCC, overrides ? (self: super: {}) }: with lib;
-let packages = (self:
+{ fetchurl, unzip, zopfli, lib, stdenvNoCC, overrides ? (_: _: {}) }:
+let packages = _:
   let
-    pluginJSON = builtins.fromJSON (readFile ./plugins.json);
-    themeJSON = builtins.fromJSON (readFile ./themes.json);
+    pluginJSON = builtins.fromJSON (lib.readFile ./plugins.json);
+    themeJSON = builtins.fromJSON (lib.readFile ./themes.json);
     mkPkg = pname: value: stdenvNoCC.mkDerivation rec {
       inherit pname;
       inherit (value) version;
@@ -19,7 +19,7 @@ let packages = (self:
       '';
     };
   in {
-    plugins = recurseIntoAttrs (mapAttrs mkPkg pluginJSON);
-    themes = recurseIntoAttrs (mapAttrs mkPkg themeJSON);
-  });
-in fix' (extends overrides packages)
+    plugins = lib.recurseIntoAttrs (lib.mapAttrs mkPkg pluginJSON);
+    themes = lib.recurseIntoAttrs (lib.mapAttrs mkPkg themeJSON);
+  };
+in lib.fix' (lib.extends overrides packages)
