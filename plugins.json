@@ -1044,10 +1044,10 @@
     "displayName": "Rebel OIDC"
   },
   "ReferrersManager": {
-    "sha256": "8a2a7270d4dcac5f77956cc3e5fe87107d705feadf836855b5c2b3b47664ca98",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ReferrersManager/download/5.0.1",
-    "version": "5.0.1",
-    "description": "Allows to view and manage the search engines and social networks that Matomo is able to detect.",
+    "sha256": "4ea31f6c8788bcf0525fbd5098753f3f399f0c40a122d8d53a0ec00d30969843",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ReferrersManager/download/5.1.0",
+    "version": "5.1.0",
+    "description": "Allows to view and manage the search engines, social networks, and AI assistants that Matomo is able to detect.",
     "homepage": "https://github.com/sgiehl/piwik-plugin-ReferrersManager",
     "license": "GPL v3+",
     "displayName": "Referrers Manager"
