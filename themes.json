@@ -126,9 +126,9 @@
     "displayName": "Terrano"
   },
   "TheBlueOne": {
-    "sha256": "06e2bcdcdff47d502f17c85a9a5a3d188ab589d716c6cba8c69e1bceb2e65ca3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TheBlueOne/download/1.5.8",
-    "version": "1.5.8",
+    "sha256": "ec953a4aebe63a5121c74a1e15abde2d1faa5e666266f0d92d916eb1d8501bb8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TheBlueOne/download/2.4.0",
+    "version": "2.4.0",
     "description": "A peaceful, modern theme.",
     "homepage": "https://github.com/soheil03/TheBlueOne",
     "license": "MIT",
