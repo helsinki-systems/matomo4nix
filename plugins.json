@@ -1215,9 +1215,9 @@
     "displayName": "Site Groups"
   },
   "Slack": {
-    "sha256": "b59130c7451ebd077e5ff6a81ada7868b6ba01c0f145390a262319f70185ee30",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Slack/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "fda7a04c4de7fafec108d4cc2abbed432cb859eb2f82c2065be029e34f3a265e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Slack/download/5.0.4",
+    "version": "5.0.4",
     "description": "Send Matomo reports and alerts to Slack channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
