@@ -881,6 +881,15 @@
     "license": "GPL v3+",
     "displayName": "Max Concurrent"
   },
+  "MicrosoftTeams": {
+    "sha256": "55d60d0ea72eb8d952cf3c3aadc3ac47f1b8339df59e13f813a4c09d2f43421e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/5.0.0",
+    "version": "5.0.0",
+    "description": "Send Matomo reports and alerts to Microsoft Team channels, keeping your team informed and ready to act in real time.",
+    "homepage": "",
+    "license": "GPL v3+",
+    "displayName": "Microsoft Teams"
+  },
   "Migration": {
     "sha256": "311571750c5dcc2e9b6a28e13204ace0fc1d9bc5daa583cf7b36c0c3720438b1",
     "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/5.0.6",
