@@ -504,9 +504,9 @@
     "displayName": "Flag Counter"
   },
   "ForceOIDCLogin": {
-    "sha256": "2d709f064258f78396a0bc02eba229e5d23baa8174d9f1b08efa492d470460a2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ForceOIDCLogin/download/0.1.0",
-    "version": "0.1.0",
+    "sha256": "20c050673383461a491e4dab12a94b9fdf7b6f930fa2f18f50ccab4ed029dca1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ForceOIDCLogin/download/0.1.2",
+    "version": "0.1.2",
     "description": "Force exclusive OIDC login by redirecting standard login attempts.",
     "homepage": "https://github.com/ihersua/ForceOIDCLogin",
     "license": "GPL v3+",
@@ -882,9 +882,9 @@
     "displayName": "Max Concurrent"
   },
   "MicrosoftTeams": {
-    "sha256": "55d60d0ea72eb8d952cf3c3aadc3ac47f1b8339df59e13f813a4c09d2f43421e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "bfddf45f7133466ff4a60c082a7ea488c73a40b0617313c26b83c5af2959f4c0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/5.0.1",
+    "version": "5.0.1",
     "description": "Send Matomo reports and alerts to Microsoft Team channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
