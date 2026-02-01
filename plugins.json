@@ -1044,9 +1044,9 @@
     "displayName": "Rebel Notifications"
   },
   "RebelOIDC": {
-    "sha256": "d933c4dbe157bfb211def620e2ac72f84ae75147e9b979b2a6b4c285e5177754",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelOIDC/download/5.1.1",
-    "version": "5.1.1",
+    "sha256": "a37a81fd4e2b33c9e8f376e3a554b2c656c7a3f0caf35f82752a5d1b72fcc968",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelOIDC/download/5.1.2",
+    "version": "5.1.2",
     "description": "Adds OIDC login to your Matomo instance.",
     "homepage": "https://github.com/Digitalist-Open-Cloud/Matomo-Plugin-RebelOIDC",
     "license": "GPL v3+",
