@@ -819,9 +819,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "c4e4499438444788930582c1038eec06e3914996334bb4b033845449f1c539e7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.5",
-    "version": "5.1.5",
+    "sha256": "980450e8c257db91ead42f04271db914c76c212763cf0df3b1578d96adb96576",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.6",
+    "version": "5.1.6",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -1044,9 +1044,9 @@
     "displayName": "Rebel Notifications"
   },
   "RebelOIDC": {
-    "sha256": "a37a81fd4e2b33c9e8f376e3a554b2c656c7a3f0caf35f82752a5d1b72fcc968",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelOIDC/download/5.1.2",
-    "version": "5.1.2",
+    "sha256": "7353519bab04c3127161b938f6678ab36748ec35d08f4d5609c69ac0c50af23a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelOIDC/download/5.1.3",
+    "version": "5.1.3",
     "description": "Adds OIDC login to your Matomo instance.",
     "homepage": "https://github.com/Digitalist-Open-Cloud/Matomo-Plugin-RebelOIDC",
     "license": "GPL v3+",
@@ -1296,9 +1296,9 @@
     "displayName": "Top Pages By Actions"
   },
   "TrackerDomain": {
-    "sha256": "50bf0c99c3555798708a96a84a981881a7802a6f182825521ed80cb5804bac5b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "685d6f08719838af5d3e521edb172b6a9b6c908b6f7aa15d0deea9e5b73d22ca",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackerDomain/download/5.0.5",
+    "version": "5.0.5",
     "description": "Set Domain for js trackers, useful when your UI is on another domain.",
     "homepage": "https://digitalist.cloud",
     "license": "GPL v3+",
