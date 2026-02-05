@@ -207,9 +207,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "7b0aeecde113b5415a6db600725d0aa87253828f531143f58396db692fcdffe2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.2.2",
-    "version": "5.2.2",
+    "sha256": "0da2d98f40e5970764569c0e511a518d92d2d91c2259fb23df8af8027cf335d8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.2.3",
+    "version": "5.2.3",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
