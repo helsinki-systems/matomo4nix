@@ -306,9 +306,9 @@
     "displayName": "Data Export"
   },
   "DefaultSegmentApplied": {
-    "sha256": "39b322fed05cdd764a0ba8675a46cab27c686bf567860e883cdc33dc766788ba",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DefaultSegmentApplied/download/1.0.0",
-    "version": "1.0.0",
+    "sha256": "f5b89093d0608a66dfb297eac86a318bab9250f852ed0266ef3effba68744efe",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DefaultSegmentApplied/download/1.1.0",
+    "version": "1.1.0",
     "description": "Allows users to set a default segment that is automatically applied when viewing reports.",
     "homepage": "https://github.com/Chardonneaur/DefaultSegmentApplied",
     "license": "GPL v3+",
