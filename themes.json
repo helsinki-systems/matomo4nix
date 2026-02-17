@@ -144,9 +144,9 @@
     "displayName": "The Famous Snake House"
   },
   "ThemeChineseNewYear": {
-    "sha256": "aa7007a4ab451bcae3c12b245e570217022523b3b4d40af6e675ef36422150e2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ThemeChineseNewYear/download/1.0.0",
-    "version": "1.0.0",
+    "sha256": "5dfbb8c6a9fc58a6c30655a6bfa9b5507d7d0a460bc6fbffa9256338afa1391e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ThemeChineseNewYear/download/2.0.0",
+    "version": "2.0.0",
     "description": "A festive Chinese New Year theme with red and gold colors and a zodiac animal background pattern.",
     "homepage": "https://github.com/Chardonneaur/ThemeChineseNewYear",
     "license": "GPL-3.0+",
