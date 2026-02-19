@@ -1412,6 +1412,15 @@
     "license": "GPL v3+",
     "displayName": "Weather Reports"
   },
+  "WeatherWidget": {
+    "sha256": "d3562b290deee4675cac2bfa7f6e61206e2e70af1df6978177313f17323700b4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherWidget/download/1.1.0",
+    "version": "1.1.0",
+    "description": "Displays current weather on your dashboard with configurable location and units. Powered by Open-Meteo.",
+    "homepage": "https://github.com/Chardonneaur/WeatherWidget",
+    "license": "GPL-3.0+",
+    "displayName": "Weather Widget"
+  },
   "cacheBuster": {
     "sha256": "07d3572d137629d8b32770140e7bed96dae2ae8d1f1772c49385043b2d2e10bb",
     "url": "https://plugins.matomo.org/api/2.0/plugins/cacheBuster/download/1.4.2",
