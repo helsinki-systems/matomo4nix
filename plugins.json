@@ -1044,9 +1044,9 @@
     "displayName": "Quick Exclude Visitor IP"
   },
   "RebelNotifications": {
-    "sha256": "f4d12756756fa1aa3ab0a43bf751445443388b38903ba8d4eaf01945e384538f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelNotifications/download/5.0.5",
-    "version": "5.0.5",
+    "sha256": "d0b499f98c144d8896d8826a9b477b9e4ee291f580fb41dc4641fcea5bf5a943",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelNotifications/download/5.0.6",
+    "version": "5.0.6",
     "description": "Show Notifications to your users.",
     "homepage": "https://digitalist.cloud",
     "license": "GPL v3+",
