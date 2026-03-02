@@ -81,9 +81,9 @@
     "displayName": "Auto Login"
   },
   "Bandwidth": {
-    "sha256": "e2380c17e6412bac4895f4c3791a3b034d2fc7002690fd314c4c7d3a98f54c62",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "eb5eda9091d2adac26e8c983fe33da4c4a3f8dd8e08224629a6030adc26f4f0a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/5.0.5",
+    "version": "5.0.5",
     "description": "Monitor Bandwidth for each page, download, and measure overall traffic in bytes. For requirements check out the description.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -207,9 +207,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "0da2d98f40e5970764569c0e511a518d92d2d91c2259fb23df8af8027cf335d8",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.2.3",
-    "version": "5.2.3",
+    "sha256": "4b6e564719b3e126c04dad27a6e1b69dc81f026eb163662186bcd98f4e3d2f32",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.2.4",
+    "version": "5.2.4",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -243,9 +243,9 @@
     "displayName": "Custom Opt Out"
   },
   "CustomTranslations": {
-    "sha256": "8659d16aad6f0364b26f2e9737f54c96d1baa4515903fd9e2eac391a6c3e0b86",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "16e3332b34fba256b832e5e838fc719bbb4197a52c1c8cedcfbad420e25f5766",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/5.0.2",
+    "version": "5.0.2",
     "description": "Translate entities and tracked values into different languages. For example Custom dimensions, dashboard names, custom report names, event values, ...",
     "homepage": "https://innocraft.com",
     "license": "GPL v3+",
@@ -810,9 +810,9 @@
     "displayName": "Live Tab"
   },
   "LogViewer": {
-    "sha256": "8d0cd54a24d9d7fc332ba5b1b3138e30ca992f9cda960ad6c07b3abc067e212e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "cdb735b9236ad5c3053e8cbfaca9c507a9b07fdb0fa79143f8028fd2b6c45060",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/5.0.5",
+    "version": "5.0.5",
     "description": "View log messages logged by Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -828,9 +828,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "980450e8c257db91ead42f04271db914c76c212763cf0df3b1578d96adb96576",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.6",
-    "version": "5.1.6",
+    "sha256": "5767e140b4bed5cf04caa6870292f9f28ed49f7a9800822e2e4b89ce8239160d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.7",
+    "version": "5.1.7",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -873,9 +873,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "8a6f5f6b2062316ec7e0296e6ac1dd1613b76a4a93bc44c9989957a9fdd6fdd2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.1.5",
-    "version": "5.1.5",
+    "sha256": "36e02064c0ceb8a8f2276bc71f0b5cba01247c57a96422effb496d1dca94954d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.1.6",
+    "version": "5.1.6",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1017,9 +1017,9 @@
     "displayName": "Protect Track ID"
   },
   "Provider": {
-    "sha256": "df70262705d9300d6d7b99819a3db3d3c1677d206044c3144328a80718238279",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "1444ae37ff9ade85553a2904afa2f42ba65ae390a5768a7d340abf6e8c653ab8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/5.0.5",
+    "version": "5.0.5",
     "description": "Reports the Internet Service Provider of the visitors.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1044,9 +1044,9 @@
     "displayName": "Quick Exclude Visitor IP"
   },
   "RebelNotifications": {
-    "sha256": "d0b499f98c144d8896d8826a9b477b9e4ee291f580fb41dc4641fcea5bf5a943",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelNotifications/download/5.0.6",
-    "version": "5.0.6",
+    "sha256": "c00f3473ef290ba1b7cd8af26522b86297cb81a2a7a76669912595f0e8e2b444",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelNotifications/download/5.0.8",
+    "version": "5.0.8",
     "description": "Show Notifications to your users.",
     "homepage": "https://digitalist.cloud",
     "license": "GPL v3+",
@@ -1332,9 +1332,9 @@
     "displayName": "Tracking Spam Prevention"
   },
   "TreemapVisualization": {
-    "sha256": "a46ef4ff179024b577eaa51d2597e3d38f6fcdc5898881f8b5973771971fd3ee",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/5.0.5",
-    "version": "5.0.5",
+    "sha256": "b032355ae5350a40ab05143babf03a2f5f4c61edb38ebef726a79148212b8a0a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/5.0.6",
+    "version": "5.0.6",
     "description": "Visualise any report in Matomo as a Treemap. Click on the Treemap icon in each report to load the visualisation.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
