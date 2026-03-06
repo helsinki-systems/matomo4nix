@@ -242,6 +242,15 @@
     "license": "GPL-3.0+",
     "displayName": "Custom Opt Out"
   },
+  "CustomTheme": {
+    "sha256": "1386e7a13f63d7156227ac1044d386662358e09c98f7e4c10899baaf7072f994",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTheme/download/1.0.0",
+    "version": "1.0.0",
+    "description": "Live theme editor for Matomo super-administrators. Control colours, typography, background image, and UI roundness — no code required. Changes apply.",
+    "homepage": "https://github.com/Chardonneaur/CustomTheme",
+    "license": "GPL v3+",
+    "displayName": "Custom Theme"
+  },
   "CustomTranslations": {
     "sha256": "16e3332b34fba256b832e5e838fc719bbb4197a52c1c8cedcfbad420e25f5766",
     "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/5.0.2",
@@ -538,6 +547,24 @@
     "homepage": "https://github.com/apapillon/piwik-freemobilesmsprovider-plugin",
     "license": "GPL v3",
     "displayName": "Free Mobile Messaging"
+  },
+  "GeneratedInsights": {
+    "sha256": "36787d9c041e063c27287f67aa4c98e942865ea558cf78eae25309e76371f73f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GeneratedInsights/download/0.1.1",
+    "version": "0.1.1",
+    "description": "Automatically surfaces significant traffic changes as insight cards on your Matomo dashboard. Compares the current period to the previous one and high.",
+    "homepage": "https://github.com/Chardonneaur/GeneratedInsights",
+    "license": "GPL v3+",
+    "displayName": "Generated Insights"
+  },
+  "GithubMarketplace": {
+    "sha256": "16282e190a950a195aa90061164675c559850e546dcdccd71b90e818254f65c4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GithubMarketplace/download/1.0.1",
+    "version": "1.0.1",
+    "description": "Install and manage Matomo plugins directly from GitHub ZIP releases, without needing access to the Matomo Marketplace. Useful for self-hosted instance.",
+    "homepage": "https://github.com/Chardonneaur/GithubMarketplace",
+    "license": "GPL v3+",
+    "displayName": "Github Marketplace"
   },
   "GoalConversionExport": {
     "sha256": "744bef33b260d004696594d22207fb59082b91102d899a5b9d5ebf1da855974e",
@@ -1078,6 +1105,15 @@
     "homepage": "https://github.com/JulienMoumne/piwik-report-publisher",
     "license": "GPL-3.0+",
     "displayName": "Report Publisher"
+  },
+  "ReportSorter": {
+    "sha256": "ae42ea6852fc9da76b8f32a57e3436a299bf21753ac2813b61433373f3afa94b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ReportSorter/download/1.0.0",
+    "version": "1.0.0",
+    "description": "Drag and drop to reorder reports on any Matomo report page. Each user saves their own custom layout, independently of other users. Works on all standa.",
+    "homepage": "https://github.com/chardonneaur/ReportSorter",
+    "license": "GPL v3+",
+    "displayName": "Report Sorter"
   },
   "RerIntranetSubnetwork": {
     "sha256": "b01795922f8a8fea1522324f3a61240b12a75984dd02339ac529b6e3932f8370",
