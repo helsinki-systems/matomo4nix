@@ -917,6 +917,15 @@
     "license": "GPL v3+",
     "displayName": "Max Concurrent"
   },
+  "McpServer": {
+    "sha256": "fdcbef889fc317bc54963ac51b8521b3e1b43ece1740611630d43dd7f5e6ab7c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/McpServer/download/5.0.1",
+    "version": "5.0.1",
+    "description": "Early preview: connect AI assistants and MCP clients to Matomo with secure access to sites, reports, goals, segments, and dimensions.",
+    "homepage": "https://github.com/matomo-org/plugin-McpServer",
+    "license": "GPL v3+",
+    "displayName": "Mcp Server"
+  },
   "MicrosoftTeams": {
     "sha256": "462ebc111dddfed9d0bc6baa73b8b58e70f7836787677792c3bcd8a96b16cf82",
     "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/5.0.2",
