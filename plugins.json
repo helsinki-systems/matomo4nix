@@ -261,9 +261,9 @@
     "displayName": "Custom Translations"
   },
   "CustomVariables": {
-    "sha256": "b27774bf8c432eb02e8ff12c416b394d8c5cb1924862b431aa6997a6b23b57d8",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariables/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "61d5f6e4d76ac11e7d4b8e67e6bd15eb2f810c843302f07b11445c0fa3930d1d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariables/download/5.0.5",
+    "version": "5.0.5",
     "description": "Categorise your visitors and actions with custom name-value pairs. Segment by these values and get more insights to draw the right conclusions.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -502,6 +502,15 @@
     "homepage": "https://www.amperagemarketing.com",
     "license": "GPL v3+",
     "displayName": "Facebook Page Widget"
+  },
+  "FeatureSupport": {
+    "sha256": "b38cb01e47bbe7a67f1e3205fe97afeea0ef8fa5dbed10895f272f907c5be252",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeatureSupport/download/0.1.1",
+    "version": "0.1.1",
+    "description": "Helps administrators find GitHub issue trackers for installed Matomo features so they can report bugs and request improvements directly to developers.",
+    "homepage": "https://ronan-chardonneau.fr",
+    "license": "GPL v3+",
+    "displayName": "Feature Support"
   },
   "FeedPress": {
     "sha256": "0be9ea1804c9358d89e948b5376b1669eb94d5249217d8433fb7c3f9c5960b6f",
@@ -970,6 +979,15 @@
     "homepage": "https://github.com/orismology/PageColours/",
     "license": "GPL v3+",
     "displayName": "Page Colours"
+  },
+  "PageviewUrlLookup": {
+    "sha256": "addeb225faaf33f6566429b1af1086dbed085bff2c84709ddf0656efb6998f64",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/PageviewUrlLookup/download/0.1.0",
+    "version": "0.1.0",
+    "description": "Instantly count pageviews for any URL by querying the raw visit log — exact or substring match, timezone-aware date ranges, every result saved to a.",
+    "homepage": "https://github.com/Chardonneaur/PageviewUrlLookup",
+    "license": "GPL v3+",
+    "displayName": "Pageview Url Lookup"
   },
   "PasswordPolicyEnforcer": {
     "sha256": "e67d1df67cbf32c1702f9bc4a8213672d4892b90c0175659d586af9586d6d4aa",
