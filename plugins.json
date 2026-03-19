@@ -933,7 +933,7 @@
     "description": "Early preview: connect AI assistants and MCP clients to Matomo with secure access to sites, reports, goals, segments, and dimensions.",
     "homepage": "https://github.com/matomo-org/plugin-McpServer",
     "license": "GPL v3+",
-    "displayName": "Mcp Server"
+    "displayName": "MCP Server"
   },
   "MicrosoftTeams": {
     "sha256": "462ebc111dddfed9d0bc6baa73b8b58e70f7836787677792c3bcd8a96b16cf82",
