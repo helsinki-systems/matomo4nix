@@ -936,9 +936,9 @@
     "displayName": "MCP Server"
   },
   "MicrosoftTeams": {
-    "sha256": "462ebc111dddfed9d0bc6baa73b8b58e70f7836787677792c3bcd8a96b16cf82",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "ddc058fface6839281f6c054fc749e46aa8d2832bdcf34da9a2735403f11b6db",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/5.0.3",
+    "version": "5.0.3",
     "description": "Send Matomo reports and alerts to Microsoft Team channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
