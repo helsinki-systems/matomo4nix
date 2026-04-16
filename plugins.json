@@ -548,6 +548,15 @@
     "license": "GPL v3+",
     "displayName": "Force SSL"
   },
+  "Forecast": {
+    "sha256": "4aa609b8ffd04fdc1fe58e11f1dd571f65cd8fc6e36b75823aa7c950261e0cb9",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Forecast/download/5.7.3",
+    "version": "5.7.3",
+    "description": "This Matomo plugin adds a future visits forecast based on the prophet time‑series library.",
+    "homepage": "https://matomo.org",
+    "license": "GPL-3.0+",
+    "displayName": "Forecast"
+  },
   "FreeMobileMessaging": {
     "sha256": "ecc9a3eb7849e65e69d59e899c74fdc8f230e4d95e2ecaaab6d701fad0655bbb",
     "url": "https://plugins.matomo.org/api/2.0/plugins/FreeMobileMessaging/download/1.0.1",
@@ -972,9 +981,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "519cc327d7dfb5cba790b3d0a9c64e434913676db814782d2e4d3723d8193c9d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "ba40ca5e7329b2dd554070a4d73d94b4e4532bf9dca6c1939ab80751a934aec4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.0.1",
+    "version": "5.0.1",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
