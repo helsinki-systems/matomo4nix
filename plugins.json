@@ -987,7 +987,7 @@
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
-    "displayName": "OAuth2"
+    "displayName": "OAuth 2.0"
   },
   "PageColours": {
     "sha256": "f481b9e6fc6d2da49e07ac48213ddfb58262247dbf13dc770b2b04e93c46b764",
