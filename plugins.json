@@ -81,9 +81,9 @@
     "displayName": "Auto Login"
   },
   "Bandwidth": {
-    "sha256": "eb5eda9091d2adac26e8c983fe33da4c4a3f8dd8e08224629a6030adc26f4f0a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/5.0.5",
-    "version": "5.0.5",
+    "sha256": "aa43ca224eeeeccb293bfe22ed670247de6ef63e566e0bffee614e220f7d8680",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Bandwidth/download/5.0.6",
+    "version": "5.0.6",
     "description": "Monitor Bandwidth for each page, download, and measure overall traffic in bytes. For requirements check out the description.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -207,9 +207,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "83f656baddd25ff29086538e710667d7f2699ae72ce15d6e6a297c1f304b1c90",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.2.5",
-    "version": "5.2.5",
+    "sha256": "ab2bc9daddbf1c71404c92f59439f20caa5caa8d6ed34a8045afe778e875f966",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.2.6",
+    "version": "5.2.6",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -252,18 +252,18 @@
     "displayName": "Custom Theme"
   },
   "CustomTranslations": {
-    "sha256": "16e3332b34fba256b832e5e838fc719bbb4197a52c1c8cedcfbad420e25f5766",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "44076a21d3c2725c42f4cd0a61e1834dc8e34dd6ba4d4830fe52aaa5681542a5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/5.0.3",
+    "version": "5.0.3",
     "description": "Translate entities and tracked values into different languages. For example Custom dimensions, dashboard names, custom report names, event values, ...",
     "homepage": "https://innocraft.com",
     "license": "GPL v3+",
     "displayName": "Custom Translations"
   },
   "CustomVariables": {
-    "sha256": "61d5f6e4d76ac11e7d4b8e67e6bd15eb2f810c843302f07b11445c0fa3930d1d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariables/download/5.0.5",
-    "version": "5.0.5",
+    "sha256": "8151e995227d996b93ef3910b9774afd364139a8f877ecd74b8d483d6fbd2d97",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomVariables/download/5.0.6",
+    "version": "5.0.6",
     "description": "Categorise your visitors and actions with custom name-value pairs. Segment by these values and get more insights to draw the right conclusions.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -855,9 +855,9 @@
     "displayName": "Live Tab"
   },
   "LogViewer": {
-    "sha256": "cdb735b9236ad5c3053e8cbfaca9c507a9b07fdb0fa79143f8028fd2b6c45060",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/5.0.5",
-    "version": "5.0.5",
+    "sha256": "bb1bce1469536415b40154e0a8d5bc77ca6c51bd4edffb79ff50a634447fff1f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/5.0.6",
+    "version": "5.0.6",
     "description": "View log messages logged by Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -873,9 +873,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "bec4eaa2da2b7b6f14ff5a41733f2f16bb66389786e54ca4dd6a625de6e3b8d5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.9",
-    "version": "5.1.9",
+    "sha256": "8aab6b7a274d5be570ca8cf2043614cc2f466579457a50f22947035f0e1cb7d6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.10",
+    "version": "5.1.10",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -918,9 +918,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "36e02064c0ceb8a8f2276bc71f0b5cba01247c57a96422effb496d1dca94954d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.1.6",
-    "version": "5.1.6",
+    "sha256": "229d3587463e7af8574c278a91d64feb38c4f154dd736d35c049205d54bce7f6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.1.7",
+    "version": "5.1.7",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -981,9 +981,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "ba40ca5e7329b2dd554070a4d73d94b4e4532bf9dca6c1939ab80751a934aec4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "58f300c47aeca0f41a86e228c587e372be2e3a3757fede052f6259aa0a49169e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.0.2",
+    "version": "5.0.2",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
@@ -1089,9 +1089,9 @@
     "displayName": "Protect Track ID"
   },
   "Provider": {
-    "sha256": "1444ae37ff9ade85553a2904afa2f42ba65ae390a5768a7d340abf6e8c653ab8",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/5.0.5",
-    "version": "5.0.5",
+    "sha256": "2271d171337674c3634df18c78883b47c81d813d899f572ec0afdcb127dec95f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Provider/download/5.0.6",
+    "version": "5.0.6",
     "description": "Reports the Internet Service Provider of the visitors.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1413,9 +1413,9 @@
     "displayName": "Tracking Spam Prevention"
   },
   "TreemapVisualization": {
-    "sha256": "b032355ae5350a40ab05143babf03a2f5f4c61edb38ebef726a79148212b8a0a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/5.0.6",
-    "version": "5.0.6",
+    "sha256": "cb314767159e57fcdb7a4c11d8e1b97342d10a6e6f157076580bfb411e5b80cc",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/5.0.7",
+    "version": "5.0.7",
     "description": "Visualise any report in Matomo as a Treemap. Click on the Treemap icon in each report to load the visualisation.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
