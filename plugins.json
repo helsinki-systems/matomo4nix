@@ -936,18 +936,18 @@
     "displayName": "Max Concurrent"
   },
   "McpServer": {
-    "sha256": "fdcbef889fc317bc54963ac51b8521b3e1b43ece1740611630d43dd7f5e6ab7c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/McpServer/download/5.0.1",
-    "version": "5.0.1",
-    "description": "Early preview: connect AI assistants and MCP clients to Matomo with secure access to sites, reports, goals, segments, and dimensions.",
+    "sha256": "529f26f08dd50fcd859a67bf929de87696a62a2671bfdc0e153c3afaefc025c4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/McpServer/download/5.0.2",
+    "version": "5.0.2",
+    "description": "Early preview: Connect Matomo to ChatGPT, Claude & MCP clients securely. Ask questions and get insights from your analytics instantly.",
     "homepage": "https://github.com/matomo-org/plugin-McpServer",
     "license": "GPL v3+",
     "displayName": "MCP Server"
   },
   "MicrosoftTeams": {
-    "sha256": "06bfbedb0b29f09668c3eaa37c24bd5f779034b0211b695a82fd69f44b404f58",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/5.0.5",
-    "version": "5.0.5",
+    "sha256": "aecd2464f1d14598ba36dc66769dd925179e8cefae4b3450cdf8ca10cbb4ba69",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/5.0.6",
+    "version": "5.0.6",
     "description": "Send Matomo reports and alerts to Microsoft Team channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
