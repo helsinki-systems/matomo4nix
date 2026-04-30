@@ -936,9 +936,9 @@
     "displayName": "Max Concurrent"
   },
   "McpServer": {
-    "sha256": "529f26f08dd50fcd859a67bf929de87696a62a2671bfdc0e153c3afaefc025c4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/McpServer/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "0a7cebac38d34266653888156280e2275198a4e9cb6c29a662101752335ca5a7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/McpServer/download/5.0.3",
+    "version": "5.0.3",
     "description": "Early preview: Connect Matomo to ChatGPT, Claude & MCP clients securely. Ask questions and get insights from your analytics instantly.",
     "homepage": "https://github.com/matomo-org/plugin-McpServer",
     "license": "GPL v3+",
