@@ -549,9 +549,9 @@
     "displayName": "Force SSL"
   },
   "Forecast": {
-    "sha256": "4aa609b8ffd04fdc1fe58e11f1dd571f65cd8fc6e36b75823aa7c950261e0cb9",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Forecast/download/5.7.3",
-    "version": "5.7.3",
+    "sha256": "c73fa4ff03c1b7b576dea592cf0fe6cb1b4b8f083fc020942169a2cceac7eed0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Forecast/download/5.7.4",
+    "version": "5.7.4",
     "description": "This Matomo plugin adds a future visits forecast based on the prophet time‑series library.",
     "homepage": "https://matomo.org",
     "license": "GPL-3.0+",
