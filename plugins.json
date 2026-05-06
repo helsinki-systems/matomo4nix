@@ -153,9 +153,9 @@
     "displayName": "Chat"
   },
   "ChatGPT": {
-    "sha256": "1cc7eeea24457dac1138acb39bc8c720b8989e32bec62eeff3327e57465b3ff2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.5.7",
-    "version": "5.5.7",
+    "sha256": "1663c70660766fcbbc4f7a90506a54ba56e7add8bdbb562abaefab303b1e360a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.6.1",
+    "version": "5.6.1",
     "description": "ChatGPT support for Matomo.",
     "homepage": "https://openmost.io/products/chatgpt/",
     "license": "GPL v3+",
@@ -639,9 +639,9 @@
     "displayName": "Hide Password Reset"
   },
   "HooksViewer": {
-    "sha256": "21532486b387cc6deeeb72f575663ebcf9aa1f6d23f336360f8b57b3d25bafca",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/HooksViewer/download/1.0.0",
-    "version": "1.0.0",
+    "sha256": "8360c4c21e457cb7d00c839eee7b06eae578c4af127282695fe96b25533760bf",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/HooksViewer/download/2.0.1",
+    "version": "2.0.1",
     "description": "Easily visualize event hooks in Matomo. Never install in production !",
     "homepage": "https://openmost.io/products/hooks-viewer/",
     "license": "GPL v3+",
@@ -963,9 +963,9 @@
     "displayName": "Migration"
   },
   "MistralAI": {
-    "sha256": "5823d62450e7e666585e72f4c669e6315d046126b42cd2b439d49e5952ae92d0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.9.3",
-    "version": "5.9.3",
+    "sha256": "433f081abde57b348298d841f8ef02f683be498bc2f0fb9d2ac25fe3c7027041",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.10.0",
+    "version": "5.10.0",
     "description": "MistralAI support for Matomo.",
     "homepage": "https://openmost.io/products/mistral-ai/",
     "license": "GPL v3+",
@@ -1350,9 +1350,9 @@
     "displayName": "Swagger"
   },
   "TagManagerExtended": {
-    "sha256": "b4df115e5a55fda9e5ff90df39dcaa5868dce1e926f4c385b1b62906110b1d0f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.5.1",
-    "version": "5.5.1",
+    "sha256": "f138bb0675c2f246bc49d560ab3b3721a34165c12a0fc6acd094cd110f1a30a5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.6.1",
+    "version": "5.6.1",
     "description": "Adds several useful tags, triggers and variables to the Tag Manager.",
     "homepage": "https://openmost.io/products/tag-manager-extended/",
     "license": "GPL v3+",
