@@ -783,9 +783,9 @@
     "displayName": "Js Tracker Force Async"
   },
   "KPIWidgets": {
-    "sha256": "4223350c46b69d0d21e8eb20137b5f2109865849983042d55b151f89c2c12c00",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "ee5773a226fa8f3826dd6e3866702b9cd6b64ef57c02c85d8c4180df08a01622",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/5.2.0",
+    "version": "5.2.0",
     "description": "Display KPIs on the dashboard for better readability.",
     "homepage": "https://openmost.io/products/kpi-widgets/",
     "license": "GPL v3+",
@@ -1341,18 +1341,18 @@
     "displayName": "Snoopy Behavioral Scoring"
   },
   "Swagger": {
-    "sha256": "a3fedec9af19d325fd01616a1733532f456b7def069a3cff067b37ddbbddab9d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/5.2.3",
-    "version": "5.2.3",
+    "sha256": "ab20596ecf64fdbf82b8105c228cb6e7d9b0f32a782d8ca3f1ff814446203643",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/5.3.0",
+    "version": "5.3.0",
     "description": "Matomo reporting API documentation with Swagger/OpenAPI.",
-    "homepage": "https://openmost.io/products/swagger/",
+    "homepage": "https://openmost.com/products/swagger/",
     "license": "GPL v3+",
     "displayName": "Swagger"
   },
   "TagManagerExtended": {
-    "sha256": "f138bb0675c2f246bc49d560ab3b3721a34165c12a0fc6acd094cd110f1a30a5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.6.1",
-    "version": "5.6.1",
+    "sha256": "787df07e230c288abc6ed8525b305db5fd93928256db1993760cc5325af94d8d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.6.2",
+    "version": "5.6.2",
     "description": "Adds several useful tags, triggers and variables to the Tag Manager.",
     "homepage": "https://openmost.io/products/tag-manager-extended/",
     "license": "GPL v3+",
@@ -1485,9 +1485,9 @@
     "displayName": "Visitor Generator"
   },
   "WeatherReports": {
-    "sha256": "09c8f3a61b303e055c9157161c92aac39ac54050d587b1604dfd9bd9a74766c2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/5.1.2",
-    "version": "5.1.2",
+    "sha256": "444c60dc982bb8bc1698f50cafb9345da22513241b3e0a87bad580481d93dbc2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/5.2.0",
+    "version": "5.2.0",
     "description": "Track weather data from your website visitors.",
     "homepage": "https://openmost.io/products/weather-reports/",
     "license": "GPL v3+",
