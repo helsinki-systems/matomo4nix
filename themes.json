@@ -99,11 +99,11 @@
     "displayName": "My Crypto"
   },
   "OpenmostTheme": {
-    "sha256": "91796b20231f3594218d1e51cd6b95b1dc4156ccecde4ec88267103883efd72d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OpenmostTheme/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "3bddb1deb9af8e08d6cca54cc7c7be8ee8f0f630a416ed4c5c40cab950cf9e98",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OpenmostTheme/download/5.1.0",
+    "version": "5.1.0",
     "description": "Enhance your Matomo experience with Openmost design.",
-    "homepage": "https://openmost.io/products/matomo-openmost-theme/",
+    "homepage": "https://openmost.com/products/matomo-openmost-theme/",
     "license": "GPL v3+",
     "displayName": "Openmost Theme"
   },

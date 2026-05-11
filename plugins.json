@@ -207,9 +207,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "ab2bc9daddbf1c71404c92f59439f20caa5caa8d6ed34a8045afe778e875f966",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.2.6",
-    "version": "5.2.6",
+    "sha256": "a8b675365a1957d20caf6fa608672efd3fcc40d2692dd266b4aa276f9b8b59f8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.3.0",
+    "version": "5.3.0",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -594,9 +594,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "0ae80c96a856060340128da4ee02cb3e293f3217708ad0483e5b4a04809aa8ec",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.1.6",
-    "version": "5.1.6",
+    "sha256": "c1f1a91640c5f0f7fa37472587879422324cbac26dc065aa770c5d10c3a072c5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.1.7",
+    "version": "5.1.7",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -873,9 +873,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "8aab6b7a274d5be570ca8cf2043614cc2f466579457a50f22947035f0e1cb7d6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.10",
-    "version": "5.1.10",
+    "sha256": "c2112db1c2d39f960e6c4806b33210f02ce295702017d10fd30763dc8aa34118",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.11",
+    "version": "5.1.11",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -918,9 +918,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "229d3587463e7af8574c278a91d64feb38c4f154dd736d35c049205d54bce7f6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.1.7",
-    "version": "5.1.7",
+    "sha256": "de670efbe66f891ed2a08cef50b949a110c0cfa6a5f6a0da3397c0a8ae9b8a8c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.2.0",
+    "version": "5.2.0",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -981,9 +981,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "58f300c47aeca0f41a86e228c587e372be2e3a3757fede052f6259aa0a49169e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "fb50bfb958e256a59e8386440678db6b9364eab30dc5a2e487b4baebbc88f91d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.0.3",
+    "version": "5.0.3",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
@@ -1404,9 +1404,9 @@
     "displayName": "Tracking Code Customizer"
   },
   "TrackingSpamPrevention": {
-    "sha256": "7c5603228e2ad9fb2ac3eb3565facd12b4706932739ee2978bb9637b1a8e6efa",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.8",
-    "version": "5.0.8",
+    "sha256": "b4bb4ecc8bfdfa228e5221e1259ec9ca20150c139b491b698c9071d80e362eb1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.9",
+    "version": "5.0.9",
     "description": "This plugin offers various options to prevent spammers and bots from making your data inaccurate so you can rely on your data again.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
