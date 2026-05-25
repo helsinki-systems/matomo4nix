@@ -53,6 +53,15 @@
     "license": "GPL v3+",
     "displayName": "Api Get With Sites Info"
   },
+  "ApiReference": {
+    "sha256": "6414f2f9effc5b41e40036d13909ee19b2b147d46e05186fbbdf662eb5b340e6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/5.0.2",
+    "version": "5.0.2",
+    "description": "Modern interactive API documentation for Matomo based on OpenAPI (Swagger). Explore endpoints, parameters, and responses directly in your browser.",
+    "homepage": "https://matomo.org",
+    "license": "GPL v3+",
+    "displayName": "Api Reference"
+  },
   "AskYourDatabase": {
     "sha256": "1bd9a58a5e910569c17f62dad07a4bb8183906cacaae5c243902f7da7d1766f2",
     "url": "https://plugins.matomo.org/api/2.0/plugins/AskYourDatabase/download/5.0.7",
@@ -594,9 +603,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "c1f1a91640c5f0f7fa37472587879422324cbac26dc065aa770c5d10c3a072c5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.1.7",
-    "version": "5.1.7",
+    "sha256": "fc8e128f94dc69aff1ae07eebef799d9d94ec59c6757d2ca1fa1503d7bb8e889",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.1.8",
+    "version": "5.1.8",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -945,9 +954,9 @@
     "displayName": "MCP Server"
   },
   "MicrosoftTeams": {
-    "sha256": "aecd2464f1d14598ba36dc66769dd925179e8cefae4b3450cdf8ca10cbb4ba69",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/5.0.6",
-    "version": "5.0.6",
+    "sha256": "ef11db0b4868f6665e2f9921720b4e669f76be9fe6abc700adc86af482ace4bc",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/5.1.0",
+    "version": "5.1.0",
     "description": "Send Matomo reports and alerts to Microsoft Team channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
@@ -981,9 +990,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "fb50bfb958e256a59e8386440678db6b9364eab30dc5a2e487b4baebbc88f91d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "8eea5cae65a239adfe74569c9da3f64875cc5996800076ee9c039f08122c1076",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.0.4",
+    "version": "5.0.4",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
