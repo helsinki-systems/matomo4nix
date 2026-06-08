@@ -54,9 +54,9 @@
     "displayName": "Api Get With Sites Info"
   },
   "ApiReference": {
-    "sha256": "6414f2f9effc5b41e40036d13909ee19b2b147d46e05186fbbdf662eb5b340e6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "e3fe1ec7bb6f5700b2c4ea429d1e40fddea994d068de4d596d0d29cd8c329d2f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/5.0.3",
+    "version": "5.0.3",
     "description": "Modern interactive API documentation for Matomo based on OpenAPI (Swagger). Explore endpoints, parameters, and responses directly in your browser.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -216,9 +216,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "a8b675365a1957d20caf6fa608672efd3fcc40d2692dd266b4aa276f9b8b59f8",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.3.0",
-    "version": "5.3.0",
+    "sha256": "add1eb2201e49fa5e9d0958cb8068b06a47af9043e026932cf030a3bc3ddd47d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.3.1",
+    "version": "5.3.1",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -963,9 +963,9 @@
     "displayName": "Microsoft Teams"
   },
   "Migration": {
-    "sha256": "311571750c5dcc2e9b6a28e13204ace0fc1d9bc5daa583cf7b36c0c3720438b1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/5.0.6",
-    "version": "5.0.6",
+    "sha256": "7fe56b319b2b8d277e2894d0e6a208174746cca212b149c968c2c1d56122b22a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/5.0.7",
+    "version": "5.0.7",
     "description": "Migrate/copy any measurable (site, app, roll-up) from one Matomo to another Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -990,9 +990,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "8eea5cae65a239adfe74569c9da3f64875cc5996800076ee9c039f08122c1076",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "cfa2876986c420d7ed6374ebbe6b53c337e25ce8cbdda7187ab9cdf5057351b3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.1.0",
+    "version": "5.1.0",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
