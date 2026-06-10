@@ -1359,9 +1359,9 @@
     "displayName": "Swagger"
   },
   "TagManagerExtended": {
-    "sha256": "787df07e230c288abc6ed8525b305db5fd93928256db1993760cc5325af94d8d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.6.2",
-    "version": "5.6.2",
+    "sha256": "b139d91ed9985bfdc3e44289f7511204fe93a07f7190ed1b88b6209e94ae6b85",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.7.1",
+    "version": "5.7.1",
     "description": "Adds several useful tags, triggers and variables to the Tag Manager.",
     "homepage": "https://openmost.io/products/tag-manager-extended/",
     "license": "GPL v3+",
@@ -1467,9 +1467,9 @@
     "displayName": "User Console"
   },
   "VipDetector": {
-    "sha256": "14765feff686895b66cd6015ef698afb9341e5f3840731ddd0c4dd64673224db",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VipDetector/download/3.0.2",
-    "version": "3.0.2",
+    "sha256": "74b3e16b908f1434d624e7acc6f3313a7a0f92f9b08153625113ccb270f2dffd",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VipDetector/download/3.0.3",
+    "version": "3.0.3",
     "description": "Detect visits from special predefined IP ranges and display the name.",
     "homepage": "https://github.com/deadda7a/Matomo-VIP-Detector",
     "license": "MIT",
