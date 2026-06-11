@@ -927,9 +927,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "8f297a6588572fdccb61c2b132a5286e553cac0bb3fd0b35c1d0f0b8fdf30925",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.2.1",
-    "version": "5.2.1",
+    "sha256": "69248f897f8fc1b4804999c4357b049adea85ab6a784dae7e6837811df54cdd5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/5.2.2",
+    "version": "5.2.2",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
