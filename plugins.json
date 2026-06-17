@@ -990,9 +990,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "cfa2876986c420d7ed6374ebbe6b53c337e25ce8cbdda7187ab9cdf5057351b3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "65c8316380d4f1130c2185aa859c35d2c3d56161bd9a32dfcebf63db6e67436c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.1.1",
+    "version": "5.1.1",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
