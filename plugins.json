@@ -603,9 +603,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "fc8e128f94dc69aff1ae07eebef799d9d94ec59c6757d2ca1fa1503d7bb8e889",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.1.8",
-    "version": "5.1.8",
+    "sha256": "f819332c1f5818f45d34ae97b480020daeb4b7f13cb989175d2e62af63cf9c75",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.1.9",
+    "version": "5.1.9",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -882,9 +882,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "c2112db1c2d39f960e6c4806b33210f02ce295702017d10fd30763dc8aa34118",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.1.11",
-    "version": "5.1.11",
+    "sha256": "bc5ad53496450e69da81fb3e400ca4d7e59acb9a73b664d45284a5113ada3549",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.2.0",
+    "version": "5.2.0",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -1413,9 +1413,9 @@
     "displayName": "Tracking Code Customizer"
   },
   "TrackingSpamPrevention": {
-    "sha256": "b4bb4ecc8bfdfa228e5221e1259ec9ca20150c139b491b698c9071d80e362eb1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.9",
-    "version": "5.0.9",
+    "sha256": "c468d42087a0eebcb1f6d8a5fc8c953b7d7aa2411a453ad64a9b5be11fab0854",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.10",
+    "version": "5.0.10",
     "description": "This plugin offers various options to prevent spammers and bots from making your data inaccurate so you can rely on your data again.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
