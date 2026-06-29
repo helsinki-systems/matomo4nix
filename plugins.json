@@ -54,9 +54,9 @@
     "displayName": "Api Get With Sites Info"
   },
   "ApiReference": {
-    "sha256": "e3fe1ec7bb6f5700b2c4ea429d1e40fddea994d068de4d596d0d29cd8c329d2f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "040034c64659eb54b41c82b293fc6cae9a16ec499594073377dbc214cd9c2fa3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/5.0.4",
+    "version": "5.0.4",
     "description": "Modern interactive API documentation for Matomo based on OpenAPI (Swagger). Explore endpoints, parameters, and responses directly in your browser.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -216,9 +216,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "add1eb2201e49fa5e9d0958cb8068b06a47af9043e026932cf030a3bc3ddd47d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.3.1",
-    "version": "5.3.1",
+    "sha256": "c295dcf66cf2f749d1e001dfd41fe1945fd21019c15dada34acd81ef99865a4f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.3.2",
+    "version": "5.3.2",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -963,9 +963,9 @@
     "displayName": "Microsoft Teams"
   },
   "Migration": {
-    "sha256": "7fe56b319b2b8d277e2894d0e6a208174746cca212b149c968c2c1d56122b22a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/5.0.7",
-    "version": "5.0.7",
+    "sha256": "5a6ef5591165754cfe7622db313e9399cb9d23dc0bb642da76d418bf81e56459",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/5.0.8",
+    "version": "5.0.8",
     "description": "Migrate/copy any measurable (site, app, roll-up) from one Matomo to another Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
