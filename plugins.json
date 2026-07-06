@@ -54,9 +54,9 @@
     "displayName": "Api Get With Sites Info"
   },
   "ApiReference": {
-    "sha256": "040034c64659eb54b41c82b293fc6cae9a16ec499594073377dbc214cd9c2fa3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "e95d0de35d6466071bd4b9e04ea0db8008e60724306d9287266c4d901830e4e0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/5.0.5",
+    "version": "5.0.5",
     "description": "Modern interactive API documentation for Matomo based on OpenAPI (Swagger). Explore endpoints, parameters, and responses directly in your browser.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -990,9 +990,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "65c8316380d4f1130c2185aa859c35d2c3d56161bd9a32dfcebf63db6e67436c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.1.1",
-    "version": "5.1.1",
+    "sha256": "781c82632099b35c3717523f605ecd18e2a2e0dac3f16ac5ae689757d6b1e91c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.2.0",
+    "version": "5.2.0",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
@@ -1413,9 +1413,9 @@
     "displayName": "Tracking Code Customizer"
   },
   "TrackingSpamPrevention": {
-    "sha256": "c468d42087a0eebcb1f6d8a5fc8c953b7d7aa2411a453ad64a9b5be11fab0854",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.10",
-    "version": "5.0.10",
+    "sha256": "73cc391ffb69e52565e77327ef3dc3600f9e133ca09f9dffe639a87508f6b16a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.11",
+    "version": "5.0.11",
     "description": "This plugin offers various options to prevent spammers and bots from making your data inaccurate so you can rely on your data again.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
