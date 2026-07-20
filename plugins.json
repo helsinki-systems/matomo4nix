@@ -603,9 +603,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "f819332c1f5818f45d34ae97b480020daeb4b7f13cb989175d2e62af63cf9c75",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.1.9",
-    "version": "5.1.9",
+    "sha256": "b5d187ba6f7b818f9263fc9b8e5a5937c380f22c29c0660c6cff89fe849a4b05",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.2.0",
+    "version": "5.2.0",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -882,9 +882,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "bc5ad53496450e69da81fb3e400ca4d7e59acb9a73b664d45284a5113ada3549",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.2.0",
-    "version": "5.2.0",
+    "sha256": "e2e83e1b7f952345e8905abaa78c5370bff292b536e9df7fac11b705962cf0fc",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.2.1",
+    "version": "5.2.1",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -954,9 +954,9 @@
     "displayName": "MCP Server"
   },
   "MicrosoftTeams": {
-    "sha256": "ef11db0b4868f6665e2f9921720b4e669f76be9fe6abc700adc86af482ace4bc",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "bdf8a10ec9e8b35d01f79d8c5b13641050a77d95e66f7f8542cf6060e0c543a5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/5.2.0",
+    "version": "5.2.0",
     "description": "Send Matomo reports and alerts to Microsoft Team channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
@@ -990,9 +990,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "0efa31cf49fa9285718a2849d04603af19963d73e7e31fe9daf1c4a64e2ec9b6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.2.2",
-    "version": "5.2.2",
+    "sha256": "3ccc4dcd1276eef585b202aaa53a0717abcf906bf0274f06a8a7369fa2510f4d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.2.3",
+    "version": "5.2.3",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
