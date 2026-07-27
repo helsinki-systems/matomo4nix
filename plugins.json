@@ -216,9 +216,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "c295dcf66cf2f749d1e001dfd41fe1945fd21019c15dada34acd81ef99865a4f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.3.2",
-    "version": "5.3.2",
+    "sha256": "8eadd7abd142cb19d9266d9fd0050dcbdb200fe4471643ad594b088070f18e96",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/5.3.3",
+    "version": "5.3.3",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -882,9 +882,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "e2e83e1b7f952345e8905abaa78c5370bff292b536e9df7fac11b705962cf0fc",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.2.1",
-    "version": "5.2.1",
+    "sha256": "87adbe6e243984ee26ac514b212e1654804f7a5cedef4846c3b48c1dc31c2916",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.2.2",
+    "version": "5.2.2",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -990,9 +990,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "3ccc4dcd1276eef585b202aaa53a0717abcf906bf0274f06a8a7369fa2510f4d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.2.3",
-    "version": "5.2.3",
+    "sha256": "52328f35e86c3a2683d3a2c2dd918efb5862460f7df843ae97ca19955db26fdf",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.2.4",
+    "version": "5.2.4",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
