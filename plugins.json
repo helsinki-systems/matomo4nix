@@ -603,9 +603,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "b5d187ba6f7b818f9263fc9b8e5a5937c380f22c29c0660c6cff89fe849a4b05",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.2.0",
-    "version": "5.2.0",
+    "sha256": "b182e1496fbdd711fd15e86037476b95de8b1e63e4b8d05db16f1dedbc17508a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.2.1",
+    "version": "5.2.1",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -882,9 +882,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "87adbe6e243984ee26ac514b212e1654804f7a5cedef4846c3b48c1dc31c2916",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.2.2",
-    "version": "5.2.2",
+    "sha256": "dfa8dc909b52ce016e769573e550753beb507c53a0de8fdee353dbe623da83a6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.2.3",
+    "version": "5.2.3",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -990,9 +990,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "52328f35e86c3a2683d3a2c2dd918efb5862460f7df843ae97ca19955db26fdf",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.2.4",
-    "version": "5.2.4",
+    "sha256": "a364b5ab68870ff7fb4e14615d1dbbbc1ae11f9cc8c4514cf8b7cc2184d99e25",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.3.0",
+    "version": "5.3.0",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
@@ -1413,9 +1413,9 @@
     "displayName": "Tracking Code Customizer"
   },
   "TrackingSpamPrevention": {
-    "sha256": "73cc391ffb69e52565e77327ef3dc3600f9e133ca09f9dffe639a87508f6b16a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.0.11",
-    "version": "5.0.11",
+    "sha256": "92a59bbd5e27758055fdeed21a40b40f3f1b64119af44b3e41370e758e18dfa9",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.1.0",
+    "version": "5.1.0",
     "description": "This plugin offers various options to prevent spammers and bots from making your data inaccurate so you can rely on your data again.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
