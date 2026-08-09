@@ -1143,9 +1143,9 @@
     "displayName": "Rebel OIDC"
   },
   "ReferrersManager": {
-    "sha256": "4ea31f6c8788bcf0525fbd5098753f3f399f0c40a122d8d53a0ec00d30969843",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ReferrersManager/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "802de7f397873f40defa95e679d3c0f7d222dd81e35a47133fcbdb46b763728e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ReferrersManager/download/6.0.0",
+    "version": "6.0.0",
     "description": "Allows to view and manage the search engines, social networks, and AI assistants that Matomo is able to detect.",
     "homepage": "https://github.com/sgiehl/piwik-plugin-ReferrersManager",
     "license": "GPL v3+",
