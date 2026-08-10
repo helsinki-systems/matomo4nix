@@ -261,9 +261,9 @@
     "displayName": "Custom Theme"
   },
   "CustomTranslations": {
-    "sha256": "44076a21d3c2725c42f4cd0a61e1834dc8e34dd6ba4d4830fe52aaa5681542a5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "73a8f0ac2b39cee1f464ad14ae646d6c9d1fa2627a7cc9d8828d5ce71a56715c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/5.0.4",
+    "version": "5.0.4",
     "description": "Translate entities and tracked values into different languages. For example Custom dimensions, dashboard names, custom report names, event values, ...",
     "homepage": "https://innocraft.com",
     "license": "GPL v3+",
@@ -882,9 +882,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "dfa8dc909b52ce016e769573e550753beb507c53a0de8fdee353dbe623da83a6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.2.3",
-    "version": "5.2.3",
+    "sha256": "9e380d6ed607580a40d1bf2b7551ac1fb08774d72525e2a9cc0b4df849cf2192",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.2.4",
+    "version": "5.2.4",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -945,10 +945,10 @@
     "displayName": "Max Concurrent"
   },
   "McpServer": {
-    "sha256": "7edeb24d923935af93ea762dacc13f8056ce09c7d46299757218ddbeec33d487",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/McpServer/download/5.0.4",
-    "version": "5.0.4",
-    "description": "Early preview: Connect Matomo to ChatGPT, Claude & MCP clients securely. Ask questions and get insights from your analytics instantly.",
+    "sha256": "9f428b404bc885080299a8a3f2ae4d580390285ea435ca7d1d1e052133e8b208",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/McpServer/download/5.1.0",
+    "version": "5.1.0",
+    "description": "Connect Matomo to ChatGPT, Claude & MCP clients securely. Ask questions and get insights from your analytics instantly.",
     "homepage": "https://github.com/matomo-org/plugin-McpServer",
     "license": "GPL v3+",
     "displayName": "MCP Server"
@@ -990,9 +990,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "a364b5ab68870ff7fb4e14615d1dbbbc1ae11f9cc8c4514cf8b7cc2184d99e25",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.3.0",
-    "version": "5.3.0",
+    "sha256": "1bb56301a9e275ca1760e5c1d2beafbd6b417bcd03fbbecd807f164b57157abd",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/5.3.1",
+    "version": "5.3.1",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
@@ -1413,9 +1413,9 @@
     "displayName": "Tracking Code Customizer"
   },
   "TrackingSpamPrevention": {
-    "sha256": "92a59bbd5e27758055fdeed21a40b40f3f1b64119af44b3e41370e758e18dfa9",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "e7fe081f01fc299050ff62dc5224a07c5ec8eb59f303e3a5e7b6d621bafc18d4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.2.0",
+    "version": "5.2.0",
     "description": "This plugin offers various options to prevent spammers and bots from making your data inaccurate so you can rely on your data again.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
