@@ -206,6 +206,15 @@
     "license": "GPL v3+",
     "displayName": "Conversion Api"
   },
+  "ConzentCmp": {
+    "sha256": "cff6c4229e7b5247aa86b14c364bd80be9044521d19617a15f59fa3e07468bda",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ConzentCmp/download/1.0.0",
+    "version": "1.0.0",
+    "description": "Adds Conzent CMP as a native tag in Matomo Tag Manager for GDPR cookie consent.",
+    "homepage": "https://getconzent.com",
+    "license": "GPL-3.0+",
+    "displayName": "Conzent Cmp"
+  },
   "CrazyEggWidgetByAmperage": {
     "sha256": "0066d2133537c7537514c1b7fd2c28ed668794b9b0199ed3d0693e7f05d75396",
     "url": "https://plugins.matomo.org/api/2.0/plugins/CrazyEggWidgetByAmperage/download/5.0.1",
@@ -448,6 +457,15 @@
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
     "displayName": "Environment Variables"
+  },
+  "EventIcons": {
+    "sha256": "aba8e289b545b36384aa708e094d45d857b11b0166704af436be70e127b41f75",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EventIcons/download/1.0.1",
+    "version": "1.0.1",
+    "description": "Replace generic event icons in the visitor log and live widget with specific Material Design icons per category and action.",
+    "homepage": "",
+    "license": "GPL-3.0+",
+    "displayName": "Event Icons"
   },
   "EventsEnhanced": {
     "sha256": "11e3998eb541b1e7a5726f9b1e6ba38816dac66edcdb1d8a2a6521c3b107d71d",
