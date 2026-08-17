@@ -54,9 +54,9 @@
     "displayName": "Api Get With Sites Info"
   },
   "ApiReference": {
-    "sha256": "e95d0de35d6466071bd4b9e04ea0db8008e60724306d9287266c4d901830e4e0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/5.0.5",
-    "version": "5.0.5",
+    "sha256": "509a5f29f2c6e5d494ff8cb6cb058db0e39316ac34d4a64e5dcbc7267176bb96",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/5.0.6",
+    "version": "5.0.6",
     "description": "Modern interactive API documentation for Matomo based on OpenAPI (Swagger). Explore endpoints, parameters, and responses directly in your browser.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -621,9 +621,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "b182e1496fbdd711fd15e86037476b95de8b1e63e4b8d05db16f1dedbc17508a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.2.1",
-    "version": "5.2.1",
+    "sha256": "8e965e64de17d806d83e88bd7603d1e59e767d5317f8bde1b1de4c99255960ff",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/5.2.2",
+    "version": "5.2.2",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -792,9 +792,9 @@
     "displayName": "IP 2 Hostname"
   },
   "JsTrackerCustom": {
-    "sha256": "5e58c73ad7132add5c284da20aeb13ee1890c2fb03904fef2b370dfeef2ad91c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerCustom/download/5.0.2",
-    "version": "5.0.2",
+    "sha256": "c690d147ba6e6fda7c155029cd025a395fdc4a926ce851fdb264fcfececdcc03",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerCustom/download/5.0.3",
+    "version": "5.0.3",
     "description": "This plugin allows you to add custom JavaScript to Matomos tracking code.",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
@@ -900,9 +900,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "9e380d6ed607580a40d1bf2b7551ac1fb08774d72525e2a9cc0b4df849cf2192",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.2.4",
-    "version": "5.2.4",
+    "sha256": "bb839584e826cfdf79c2a2985587f0996286380493aae8ab1bcf8ea9ea7e2d46",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/5.2.5",
+    "version": "5.2.5",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
