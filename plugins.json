@@ -989,6 +989,15 @@
     "license": "GPL v3+",
     "displayName": "Migration"
   },
+  "Missivus": {
+    "sha256": "e20415cbec6c45032b08488442f6d790a7b8254df831512f4c3b5284150305ac",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Missivus/download/0.1.5",
+    "version": "0.1.5",
+    "description": "Missivus for Matomo — send Matomo email through Microsoft Graph with application permissions and a shared mailbox. No SMTP, no user login.",
+    "homepage": "https://missivus.com",
+    "license": "GPL-3.0+",
+    "displayName": "Missivus"
+  },
   "MistralAI": {
     "sha256": "433f081abde57b348298d841f8ef02f683be498bc2f0fb9d2ac25fe3c7027041",
     "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.10.0",
