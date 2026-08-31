@@ -54,9 +54,9 @@
     "displayName": "Api Get With Sites Info"
   },
   "ApiReference": {
-    "sha256": "d8ffbdffcc950f5b1edbc674e0d0b38d0d7e482df2b44d6b9b4d3cec80a7eb27",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "0052d08d75ae399bab79d23406bb3909ba1c527dc5dbb68784ec8e68b3c92dc4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.1",
+    "version": "6.0.1",
     "description": "Modern interactive API documentation for Matomo based on OpenAPI (Swagger). Explore endpoints, parameters, and responses directly in your browser.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -369,9 +369,9 @@
     "displayName": "Device Detector Cache"
   },
   "DeviceFeatureWebGL": {
-    "sha256": "d53a54cc0ec6e1ec23954f7ff605ba4707c1a2651b5eac8fd158c16de78c50e7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceFeatureWebGL/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "a897ea038d5aabdade1ba0f25ead66cb9331e7e8b554170b6a063f6d46855217",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DeviceFeatureWebGL/download/6.0.0",
+    "version": "6.0.0",
     "description": "This plugin allows you to track browser compatibility for WebGL.",
     "homepage": "http://github.com/sgiehl/piwik-plugin-DeviceFeatureWebGL",
     "license": "GPL v3+",
@@ -459,9 +459,9 @@
     "displayName": "Enhanced Attribution"
   },
   "EnvironmentVariables": {
-    "sha256": "752581ffb116a32d195f11855adc00db9df3c1f6deb4c97612fd5df7ce90923d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/5.0.3",
-    "version": "5.0.3",
+    "sha256": "a1afa7e3639c6828f54bb7ed8e02be54bd7d804ecf76142e682c69d8e4463715",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/6.0.0",
+    "version": "6.0.0",
     "description": "Allows you to specify Matomo config in environment variables instead of the config file.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -486,9 +486,9 @@
     "displayName": "Events Enhanced"
   },
   "ExcludeByDDNS": {
-    "sha256": "c97554d4f9ef34c506196845e08abc0c1bc4a65860404fe943842c98586a5cc1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExcludeByDDNS/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "e5579244a701f864dca2627edf9cb2fd0dfe071044de8ad9d0dc574104efee68",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExcludeByDDNS/download/6.0.0",
+    "version": "6.0.0",
     "description": "This plugin allows you to dynamically exclude a IP using DDNS update.",
     "homepage": "http://github.com/sgiehl/piwik-plugin-ExcludeByDDNS",
     "license": "GPL v3+",
@@ -558,9 +558,9 @@
     "displayName": "Feed Press"
   },
   "FlagCounter": {
-    "sha256": "e768b67ab61f72f9e1414b56f627ac661e00db0c16e988f4be2cfc820b7df6d4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FlagCounter/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "8ec5b010df50df083e5770822356078957d6e1e0dac668cbb86acc168db8e377",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FlagCounter/download/6.0.0",
+    "version": "6.0.0",
     "description": "This plugin allows you to include a simple statistic in your website showing the flags and hits of the countries your visitors came from.",
     "homepage": "http://github.com/sgiehl/piwik-plugin-FlagCounter",
     "license": "GPL v3+",
@@ -576,9 +576,9 @@
     "displayName": "Force OIDCLogin"
   },
   "ForceSSL": {
-    "sha256": "741ab630b47ddb15a579a643ac2e66f58ba4ccd3980de2084cc02527d9dd9b60",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ForceSSL/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "7c6d491e52127cb448763682e9bc82aada019b72c801bbb055d41f622d075aa8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ForceSSL/download/6.0.0",
+    "version": "6.0.0",
     "description": "Automatically redirect all http requests to https. For security reasons it is recommended to always use Matomo Analytics over https (SSL).",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
@@ -711,9 +711,9 @@
     "displayName": "IP2Proxy"
   },
   "IPReports": {
-    "sha256": "ed971fe2f7863196e588705a4c4eb8b483716367da4be7f126230f2804f05332",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IPReports/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "720a1e9ee07a7741f0de4eb553ea459ab541973574810320b35743e8307f7fa0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IPReports/download/6.0.0",
+    "version": "6.0.0",
     "description": "Adds new IP reports to Matomo.",
     "homepage": "http://github.com/sgiehl/piwik-plugin-IPReports",
     "license": "GPL v3+",
@@ -810,9 +810,9 @@
     "displayName": "Js Tracker Custom"
   },
   "JsTrackerForceAsync": {
-    "sha256": "7bda0138405f7303590ae038268487df1ab0b15c8745fdd36d4afa790aab6b31",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerForceAsync/download/5.0.1",
-    "version": "5.0.1",
+    "sha256": "3705c49323676780354e85f3ac40444b62873a5bf1d0bc07c731d4607baf5a77",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerForceAsync/download/6.0.0",
+    "version": "6.0.0",
     "description": "Forces the JavaScript Tracker to always load asynchronous when embedding the Tracking Code via HTTP API automatically in your website.",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
@@ -981,9 +981,9 @@
     "displayName": "MCP Server"
   },
   "MicrosoftTeams": {
-    "sha256": "a575b72d824c86aeaf1d0ee1f87115eafffdc50d83a50768b313d5b1c245a5cc",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "860f810f0cf8d9c0c3c4b1f873ac7cfa3da71f2748dcfd120b2cffc9d0ca23f1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/6.0.1",
+    "version": "6.0.1",
     "description": "Send Matomo reports and alerts to Microsoft Team channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
@@ -1224,9 +1224,9 @@
     "displayName": "Rer User Dates"
   },
   "RestrictLanguageSelection": {
-    "sha256": "eb91dc6df7b11d9096096335c38e23558f774453d93a057d4e3eab676c187949",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RestrictLanguageSelection/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "7c8d353ebbe6b1d0376efe61d5a710e89b0f03d7b8fb2be2bb04902955ab1baa",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RestrictLanguageSelection/download/6.0.0",
+    "version": "6.0.0",
     "description": "Allows you to modify the list of available languages in language selector.",
     "homepage": "https://github.com/sgiehl/piwik-plugin-RestrictLanguageSelection",
     "license": "GPL v3+",

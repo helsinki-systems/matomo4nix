@@ -9,9 +9,9 @@
     "displayName": "Alternative Sparklines"
   },
   "ClassicFontTheme": {
-    "sha256": "cd10ffa65bb50d2260e59805cf15bc78f55e33ce1a6baab99bf6b678d015f93f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicFontTheme/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "3d315d08c2f14bc8587e97b08ae5c952b7fec5fa112287393433681371e25216",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ClassicFontTheme/download/6.0.0",
+    "version": "6.0.0",
     "description": "Matomo (Piwik) Platform showcase: example of how to create a simple Theme.",
     "homepage": "https://piwik.org",
     "license": "GPL v3+",
