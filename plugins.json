@@ -468,9 +468,9 @@
     "displayName": "Environment Variables"
   },
   "EventIcons": {
-    "sha256": "aba8e289b545b36384aa708e094d45d857b11b0166704af436be70e127b41f75",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EventIcons/download/1.0.1",
-    "version": "1.0.1",
+    "sha256": "931bf72d6f6169a3906a83771d0acff52715db3cefa6dbc632d617caa67bc0ff",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EventIcons/download/1.0.3",
+    "version": "1.0.3",
     "description": "Replace generic event icons in the visitor log and live widget with specific Material Design icons per category and action.",
     "homepage": "",
     "license": "GPL-3.0+",
@@ -972,9 +972,9 @@
     "displayName": "Max Concurrent"
   },
   "McpServer": {
-    "sha256": "9f428b404bc885080299a8a3f2ae4d580390285ea435ca7d1d1e052133e8b208",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/McpServer/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "0482d13557c7643ec22b2e3bae1d0dbb58b99f5cb4e836180a275495c0c33c06",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/McpServer/download/6.0.0",
+    "version": "6.0.0",
     "description": "Connect Matomo to ChatGPT, Claude & MCP clients securely. Ask questions and get insights from your analytics instantly.",
     "homepage": "https://github.com/matomo-org/plugin-McpServer",
     "license": "GPL v3+",
