@@ -1026,9 +1026,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "03cd3db98199796205a71d59566a5517e7265c970008017787ee3ab92de204e3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "d1b38ee0b92a4b59be70f7d16258029fb21f3ded6a79e0a8d9f952902aac044b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/6.0.2",
+    "version": "6.0.2",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
@@ -1458,9 +1458,9 @@
     "displayName": "Tracking Spam Prevention"
   },
   "TreemapVisualization": {
-    "sha256": "ac7146825bb5b60ff7ceecee425ca15bf182c6fa00168d765ef0f7e597d9d05e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "edc565748761b0ec5dc7107d574967b9bf9087fc380afa0147abff3f57d0648f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TreemapVisualization/download/6.0.1",
+    "version": "6.0.1",
     "description": "Visualise any report in Matomo as a Treemap. Click on the Treemap icon in each report to load the visualisation.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
