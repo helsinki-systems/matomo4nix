@@ -999,9 +999,9 @@
     "displayName": "Migration"
   },
   "Missivus": {
-    "sha256": "e20415cbec6c45032b08488442f6d790a7b8254df831512f4c3b5284150305ac",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Missivus/download/0.1.5",
-    "version": "0.1.5",
+    "sha256": "29d12c940a517469203c6c7d915598db81d908346cb29ed0ebea59c6b77028f1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Missivus/download/1.0.0",
+    "version": "1.0.0",
     "description": "Missivus for Matomo — send Matomo email through Microsoft Graph with application permissions and a shared mailbox. No SMTP, no user login.",
     "homepage": "https://missivus.com",
     "license": "GPL-3.0+",
