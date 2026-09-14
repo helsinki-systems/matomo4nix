@@ -567,9 +567,9 @@
     "displayName": "Flag Counter"
   },
   "ForceOIDCLogin": {
-    "sha256": "20c050673383461a491e4dab12a94b9fdf7b6f930fa2f18f50ccab4ed029dca1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ForceOIDCLogin/download/0.1.2",
-    "version": "0.1.2",
+    "sha256": "26b0df811bcc12009158430eea81bb7daf07252ccf3d588501181b1566e88238",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ForceOIDCLogin/download/6.0.0",
+    "version": "6.0.0",
     "description": "Force exclusive OIDC login by redirecting standard login attempts.",
     "homepage": "https://github.com/ihersua/ForceOIDCLogin",
     "license": "GPL v3+",
@@ -630,9 +630,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "abd996ac00a1e6e9b5f6d97adea918f8d3a7034e4367e0ac228a4577de625f68",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "707e36e06d304526424c964357f4dfce6a6ad030b78198cc0c40ac3036e4e0fe",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.2",
+    "version": "6.0.2",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -891,9 +891,9 @@
     "displayName": "Live Tab"
   },
   "LogViewer": {
-    "sha256": "200364ab3096fa8d4417384793ea895c594a06088e7a2688d20e006e11da262c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "a84c0a8f8bcc57138331517e39298797de2ebfca754f1dfd1ba1cffe51f485e5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/6.0.1",
+    "version": "6.0.1",
     "description": "View log messages logged by Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
