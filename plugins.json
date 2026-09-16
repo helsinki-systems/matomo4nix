@@ -63,11 +63,11 @@
     "displayName": "Api Reference"
   },
   "AskYourDatabase": {
-    "sha256": "1bd9a58a5e910569c17f62dad07a4bb8183906cacaae5c243902f7da7d1766f2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AskYourDatabase/download/5.0.7",
-    "version": "5.0.7",
-    "description": "Connect the AskYourDatabase service to Matomo.",
-    "homepage": "https://openmost.io/products/askyourdatabase/",
+    "sha256": "23db2ebf7e851f40cca18a5211768585f086267c564af9e59893d4c191ab6801",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AskYourDatabase/download/6.0.0",
+    "version": "6.0.0",
+    "description": "Chat with your data in Matomo: embed your AskYourDatabase AI chatbot and query your database in natural language.",
+    "homepage": "https://openmost.com/matomo/extensions/ask-your-database",
     "license": "GPL v3+",
     "displayName": "Ask Your Database"
   },
@@ -171,11 +171,11 @@
     "displayName": "Chat"
   },
   "ChatGPT": {
-    "sha256": "1663c70660766fcbbc4f7a90506a54ba56e7add8bdbb562abaefab303b1e360a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/5.6.1",
-    "version": "5.6.1",
-    "description": "ChatGPT support for Matomo.",
-    "homepage": "https://openmost.io/products/chatgpt/",
+    "sha256": "d0e934e8105849488f4a3f3866086a9352ee572445f168642f793a7eeccdb072",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/6.0.1",
+    "version": "6.0.1",
+    "description": "AI chat and report insights for Matomo, with an agent that queries your data and performs actions through the Matomo MCP tools.",
+    "homepage": "https://openmost.com/matomo/extensions/chatgpt",
     "license": "GPL v3+",
     "displayName": "Chat GPT"
   },
@@ -198,11 +198,11 @@
     "displayName": "Click Heat"
   },
   "CodeInjector": {
-    "sha256": "be778191c5825b41f990266e0ecd8f919070c451f8e7a9c18aaf64467594be50",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CodeInjector/download/5.0.10",
-    "version": "5.0.10",
-    "description": "Inject CSS and JS code to your Matomo instance.",
-    "homepage": "https://openmost.io/products/code-injector/",
+    "sha256": "95c61b0ab27f6b790564fc2da34b1be880da0350ceb794e35e49e042db6964a3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CodeInjector/download/6.0.1",
+    "version": "6.0.1",
+    "description": "Inject HTML, CSS and JavaScript code in every page of your Matomo instance, with a code editor and syntax validation.",
+    "homepage": "https://openmost.com/matomo/extensions/code-injector",
     "license": "GPL v3+",
     "displayName": "Code Injector"
   },
@@ -306,11 +306,11 @@
     "displayName": "Custom Variables Extended"
   },
   "CustomWidgets": {
-    "sha256": "9dc9030a5702cb53ebe96ca7d8184222522c9a447d5d00b2eb0d91019096632e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomWidgets/download/1.0.4",
-    "version": "1.0.4",
+    "sha256": "5c8aca0c7afd817e51bd08e025ed70d1a6145274ceb3b82fc2306574d41515a8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomWidgets/download/6.0.0",
+    "version": "6.0.0",
     "description": "Add custom text and HTML to your dashboard.",
-    "homepage": "https://openmost.io/products/custom-widgets/",
+    "homepage": "https://openmost.com/matomo/extensions/custom-widgets",
     "license": "GPL v3+",
     "displayName": "Custom Widgets"
   },
@@ -477,11 +477,11 @@
     "displayName": "Event Icons"
   },
   "EventsEnhanced": {
-    "sha256": "11e3998eb541b1e7a5726f9b1e6ba38816dac66edcdb1d8a2a6521c3b107d71d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EventsEnhanced/download/1.1.1",
-    "version": "1.1.1",
+    "sha256": "aa83a9c04451eede63db53c59ccbd5ed869734493517576f76f85a30f0cbf4d0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EventsEnhanced/download/6.0.0",
+    "version": "6.0.0",
     "description": "Add event-based report and event details view.",
-    "homepage": "https://openmost.io/products/events-enhanced/",
+    "homepage": "https://openmost.com/matomo/extensions/events-enhanced",
     "license": "GPL v3+",
     "displayName": "Events Enhanced"
   },
@@ -675,11 +675,11 @@
     "displayName": "Hide Password Reset"
   },
   "HooksViewer": {
-    "sha256": "8360c4c21e457cb7d00c839eee7b06eae578c4af127282695fe96b25533760bf",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/HooksViewer/download/2.0.1",
-    "version": "2.0.1",
+    "sha256": "345b4c8dca54ff43003088320e7d6b2e322a82a5c400ae1903b2be02fa0764dc",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/HooksViewer/download/6.1.0",
+    "version": "6.1.0",
     "description": "Easily visualize event hooks in Matomo. Never install in production !",
-    "homepage": "https://openmost.io/products/hooks-viewer/",
+    "homepage": "https://openmost.com/matomo/extensions/hooks-viewer",
     "license": "GPL v3+",
     "displayName": "Hooks Viewer"
   },
@@ -819,11 +819,11 @@
     "displayName": "Js Tracker Force Async"
   },
   "KPIWidgets": {
-    "sha256": "ee5773a226fa8f3826dd6e3866702b9cd6b64ef57c02c85d8c4180df08a01622",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/5.2.0",
-    "version": "5.2.0",
+    "sha256": "8585e4ed59cf1f154001e87541d3872fa0303dbee83352f86305b96c75b1774e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/KPIWidgets/download/6.0.0",
+    "version": "6.0.0",
     "description": "Display KPIs on the dashboard for better readability.",
-    "homepage": "https://openmost.io/products/kpi-widgets/",
+    "homepage": "https://openmost.com/matomo/extensions/kpiwidgets",
     "license": "GPL v3+",
     "displayName": "KPIWidgets"
   },
@@ -1008,11 +1008,11 @@
     "displayName": "Missivus"
   },
   "MistralAI": {
-    "sha256": "433f081abde57b348298d841f8ef02f683be498bc2f0fb9d2ac25fe3c7027041",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/5.10.0",
-    "version": "5.10.0",
+    "sha256": "15d9687e724072fe7886c7c4ca6eb50c38be0cc8d9ba3d74e11859ac5f27da44",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/6.0.0",
+    "version": "6.0.0",
     "description": "MistralAI support for Matomo.",
-    "homepage": "https://openmost.io/products/mistral-ai/",
+    "homepage": "https://openmost.com/matomo/extensions/mistral-ai",
     "license": "GPL v3+",
     "displayName": "Mistral AI"
   },
@@ -1116,11 +1116,11 @@
     "displayName": "Profile Avatar"
   },
   "ProfileGravatar": {
-    "sha256": "c495d50ffafa725c356336d3ddfc85a50dc4cbcea44ac8b13e350268b645aeba",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/5.0.9",
-    "version": "5.0.9",
-    "description": "Use gravatar image for visitor's profile picture.",
-    "homepage": "https://openmost.io/products/profile-gravatar/",
+    "sha256": "34f9aca0ed842967373c58ff7d33383f48105c9b6da2b86249228de3d3852755",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/6.0.1",
+    "version": "6.0.1",
+    "description": "Display the Gravatar profile picture of your identified visitors in the visitor profile and the visits log.",
+    "homepage": "https://openmost.com/matomo/extensions/profile-gravatar",
     "license": "GPL v3+",
     "displayName": "Profile Gravatar"
   },
@@ -1350,11 +1350,11 @@
     "displayName": "Site Access Provisioner"
   },
   "SiteGroups": {
-    "sha256": "9161a1458c1f820b18cecae52c29fc6b7ab68416f9c6c9bc604e6b74b1f1f8df",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteGroups/download/5.0.5",
-    "version": "5.0.5",
-    "description": "Add group to measurables.",
-    "homepage": "https://openmost.io",
+    "sha256": "e83ac0701fc99023371adf9603b6413feda795de64865a47d049d7eaa4a7fad8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteGroups/download/6.0.0",
+    "version": "6.0.0",
+    "description": "Organize your websites into groups, browse them by group in the website selector and in the All Websites dashboard.",
+    "homepage": "https://openmost.com/matomo/extensions/site-groups",
     "license": "GPL v3+",
     "displayName": "Site Groups"
   },
@@ -1386,20 +1386,20 @@
     "displayName": "Snoopy Behavioral Scoring"
   },
   "Swagger": {
-    "sha256": "ab20596ecf64fdbf82b8105c228cb6e7d9b0f32a782d8ca3f1ff814446203643",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/5.3.0",
-    "version": "5.3.0",
-    "description": "Matomo reporting API documentation with Swagger/OpenAPI.",
-    "homepage": "https://openmost.com/products/swagger/",
+    "sha256": "70d0d83ee9d30ddcd85eab3820769dd2a4b51c701117caf4f1589aad17761122",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/6.0.0",
+    "version": "6.0.0",
+    "description": "Explore and try the Matomo Reporting API from your admin panel, with Swagger UI and an OpenAPI 3.1 specification generated from your activated plugins.",
+    "homepage": "https://openmost.com/matomo/extensions/swagger",
     "license": "GPL v3+",
     "displayName": "Swagger"
   },
   "TagManagerExtended": {
-    "sha256": "b139d91ed9985bfdc3e44289f7511204fe93a07f7190ed1b88b6209e94ae6b85",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/5.7.1",
-    "version": "5.7.1",
-    "description": "Adds several useful tags, triggers and variables to the Tag Manager.",
-    "homepage": "https://openmost.io/products/tag-manager-extended/",
+    "sha256": "e0daec7902bcacb6226a6048c2c3b67cb4673a08d265982ea3dc94112b1045d7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/6.0.1",
+    "version": "6.0.1",
+    "description": "More tags, triggers and variables for the Tag Manager, plus a Custom HTML code editor with syntax highlighting and JavaScript validation.",
+    "homepage": "https://openmost.com/matomo/extensions/tag-manager-extended",
     "license": "GPL v3+",
     "displayName": "Tag Manager Extended"
   },
@@ -1530,11 +1530,11 @@
     "displayName": "Visitor Generator"
   },
   "WeatherReports": {
-    "sha256": "444c60dc982bb8bc1698f50cafb9345da22513241b3e0a87bad580481d93dbc2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/5.2.0",
-    "version": "5.2.0",
+    "sha256": "c05417fa59ea80d9610da84bbca58febbf6072cad2da06bb9153d58e83f8b0f6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/6.2.1",
+    "version": "6.2.1",
     "description": "Track weather data from your website visitors.",
-    "homepage": "https://openmost.io/products/weather-reports/",
+    "homepage": "https://openmost.com/matomo/extensions/weather-reports",
     "license": "GPL v3+",
     "displayName": "Weather Reports"
   },

@@ -27,11 +27,11 @@
     "displayName": "Coffee Cup"
   },
   "DarkTheme": {
-    "sha256": "6ba892ed63b860e268588f75e40b5372d92f25ceadb9f2b43ce1e021b641cae0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/5.3.0",
-    "version": "5.3.0",
-    "description": "A modern dark theme for Matomo.",
-    "homepage": "https://openmost.io/products/matomo-dark-theme/",
+    "sha256": "23cdb5401d1fa4111f66fc9c49e4cf7693cfbf45193313a54bad9f128bb15451",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/6.0.0",
+    "version": "6.0.0",
+    "description": "A modern dark theme for Matomo, applied to every user.",
+    "homepage": "https://openmost.com/matomo/extensions/dark-theme",
     "license": "GPL v3+",
     "displayName": "Dark Theme"
   },
@@ -54,11 +54,11 @@
     "displayName": "GTheme"
   },
   "GoogleTheme": {
-    "sha256": "b1241eec5e57058370da6b8eb7ca30b1b6aeee7f416b9ce610f1569e7d7262fc",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/5.10.2",
-    "version": "5.10.2",
-    "description": "A sublime Google Analytics theme for Matomo.",
-    "homepage": "https://openmost.com/products/matomo-google-theme/",
+    "sha256": "7288a2c344c54435a1f7c379af95187974770286c6ef376efe68c942d7526435",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/6.0.1",
+    "version": "6.0.1",
+    "description": "A sublime Google Analytics theme for Matomo, in light and dark mode.",
+    "homepage": "https://openmost.com/matomo/extensions/google-theme",
     "license": "GPL v3+",
     "displayName": "Google Theme"
   },
@@ -99,11 +99,11 @@
     "displayName": "My Crypto"
   },
   "OpenmostTheme": {
-    "sha256": "3bddb1deb9af8e08d6cca54cc7c7be8ee8f0f630a416ed4c5c40cab950cf9e98",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OpenmostTheme/download/5.1.0",
-    "version": "5.1.0",
-    "description": "Enhance your Matomo experience with Openmost design.",
-    "homepage": "https://openmost.com/products/matomo-openmost-theme/",
+    "sha256": "0550332032c938542e37ebe2e2735792d6fa2abce0dfbbde806586490b1b4cc6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OpenmostTheme/download/6.0.0",
+    "version": "6.0.0",
+    "description": "The Openmost design system for Matomo, in light and dark mode.",
+    "homepage": "https://openmost.com/matomo/extensions/openmost-theme",
     "license": "GPL v3+",
     "displayName": "Openmost Theme"
   },
