@@ -909,9 +909,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "729249ccc87b9681e6e632c014fd819be21adffb7f2751ad1784e41c288cc0f5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "6078d50a4dcd66d25fe4734278acc8b9268970f72962d42765ae0a571f7fffc0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/6.0.2",
+    "version": "6.0.2",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -1521,9 +1521,9 @@
     "displayName": "Visitor Avatar"
   },
   "VisitorGenerator": {
-    "sha256": "80c2374291c7d6a03d8ae63ca5b76c4dbaeb99adf213f322cd5b255f23d1cd19",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "98d49662f2d26d9605881ef378c7266397db67fa57cd4e0f6f29a4a3601103d1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/6.0.1",
+    "version": "6.0.1",
     "description": "Developer tool that lets you generate fake visits. Useful if you are working with plugins or themes or if you use the Matomo API.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
