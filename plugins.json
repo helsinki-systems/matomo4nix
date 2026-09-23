@@ -80,6 +80,15 @@
     "license": "GPL-3.0+",
     "displayName": "Asyntai Chat"
   },
+  "Audit": {
+    "sha256": "88d5bdda4cdc3d86496b01e53a9dcb00840ef9238e06b25a65cadbffdb9d7166",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Audit/download/6.0.2",
+    "version": "6.0.2",
+    "description": "Free read-only audit of your Matomo configuration: 53 checks on server, PHP, database and config.ini.php, with Markdown export.",
+    "homepage": "https://openmost.com/matomo/extensions/audit",
+    "license": "GPL v3+",
+    "displayName": "Audit"
+  },
   "AuthorSegments": {
     "sha256": "e34653d5b30d7f5dca10d982b06362d2d711fc7943aecabd944c719b770d98ef",
     "url": "https://plugins.matomo.org/api/2.0/plugins/AuthorSegments/download/5.1.2",
@@ -664,6 +673,15 @@
     "homepage": "https://github.com/MichaelRoosz/plugin-GroupPermissions",
     "license": "GPL v3+",
     "displayName": "Group Permissions"
+  },
+  "HiddenReports": {
+    "sha256": "e03f024a7f361777eece0d2082b60a7c51df8567dac6783fd2ed951c0a60a6cd",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/HiddenReports/download/6.0.0",
+    "version": "6.0.0",
+    "description": "Hide reports from the reporting menu, per website or for all websites, while keeping them archived and available through the API and dashboards.",
+    "homepage": "https://openmost.com/matomo/extensions/hidden-reports",
+    "license": "GPL v3+",
+    "displayName": "Hidden Reports"
   },
   "HidePasswordReset": {
     "sha256": "5153227bc2180e13958c77ac6c66ad5ca5acb9702ef20ebc0dbbbc1016cbee37",
@@ -1548,9 +1566,9 @@
     "displayName": "Weather Widget"
   },
   "Webmetic": {
-    "sha256": "029a73ee8cf13cfa61639f33c155da7565c1acde2d6afeea329974d278098407",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Webmetic/download/1.0.0",
-    "version": "1.0.0",
+    "sha256": "c6c3cf0d40a012c2b8464681161239f898c9beccecbb8463c80d69f9f557bf8a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Webmetic/download/1.1.0",
+    "version": "1.1.0",
     "description": "B2B visitor identification: see which companies visit your website. Adds a Companies report, dashboard widget, visitor log details and segments.",
     "homepage": "https://webmetic.de",
     "license": "GPL v3+",
