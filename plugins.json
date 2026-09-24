@@ -84,7 +84,7 @@
     "sha256": "88d5bdda4cdc3d86496b01e53a9dcb00840ef9238e06b25a65cadbffdb9d7166",
     "url": "https://plugins.matomo.org/api/2.0/plugins/Audit/download/6.0.2",
     "version": "6.0.2",
-    "description": "Free read-only audit of your Matomo configuration: 53 checks on server, PHP, database and config.ini.php, with Markdown export.",
+    "description": "Free read-only audit of your Matomo 5 configuration: 53 checks on server, PHP, database and config.ini.php, flagging what blocks the upgrade to Matomo 6, with Markdown export.",
     "homepage": "https://openmost.com/matomo/extensions/audit",
     "license": "GPL v3+",
     "displayName": "Audit"
