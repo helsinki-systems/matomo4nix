@@ -639,9 +639,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "707e36e06d304526424c964357f4dfce6a6ad030b78198cc0c40ac3036e4e0fe",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.2",
-    "version": "6.0.2",
+    "sha256": "52a36ca80d0d4ffe50e4a28f0487ed6db890526da062ca12a20dc690daeaaf3c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.3",
+    "version": "6.0.3",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -819,9 +819,9 @@
     "displayName": "IP 2 Hostname"
   },
   "JsTrackerCustom": {
-    "sha256": "a5097c6323833f84b38249ddfc995df22458e566af510679066fb40b6cdf447c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerCustom/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "411b159c26244cae876e829d7f9ab3eadd690cc6f524b0b417e370d26a2f8c00",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerCustom/download/6.0.1",
+    "version": "6.0.1",
     "description": "This plugin allows you to add custom JavaScript to Matomos tracking code.",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
@@ -1467,9 +1467,9 @@
     "displayName": "Tracking Code Customizer"
   },
   "TrackingSpamPrevention": {
-    "sha256": "e7fe081f01fc299050ff62dc5224a07c5ec8eb59f303e3a5e7b6d621bafc18d4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.2.0",
-    "version": "5.2.0",
+    "sha256": "6180e71f0986483d75c2d18a889c7750c17fda505457907d356cd87e44f02737",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TrackingSpamPrevention/download/5.2.1",
+    "version": "5.2.1",
     "description": "This plugin offers various options to prevent spammers and bots from making your data inaccurate so you can rely on your data again.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
