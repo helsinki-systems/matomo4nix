@@ -54,9 +54,9 @@
     "displayName": "Api Get With Sites Info"
   },
   "ApiReference": {
-    "sha256": "0052d08d75ae399bab79d23406bb3909ba1c527dc5dbb68784ec8e68b3c92dc4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "90e4c5cde9a2878d2850913106c47baf36ee8f19f6575d7a5087d76fd9d863a0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.2",
+    "version": "6.0.2",
     "description": "Modern interactive API documentation for Matomo based on OpenAPI (Swagger). Explore endpoints, parameters, and responses directly in your browser.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -396,9 +396,9 @@
     "displayName": "Device Network Information"
   },
   "DevicePixelRatio": {
-    "sha256": "2670fdd25daa3c97647b6c857dc202370192684adc1f1d3adc8b23dfef96bdf2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DevicePixelRatio/download/2.0.1",
-    "version": "2.0.1",
+    "sha256": "00efbcc6f110636e9fa652dbada9c2f5e28cf4b8c2f75983d073668bb7045404",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DevicePixelRatio/download/2.0.2",
+    "version": "2.0.2",
     "description": "Collects statistics on the device pixel ratio of the visitor's devices.  Useful to analyze how many visitors have Retina or other high DPI displays.",
     "homepage": "",
     "license": "GPL-3.0+",
@@ -639,9 +639,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "52a36ca80d0d4ffe50e4a28f0487ed6db890526da062ca12a20dc690daeaaf3c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.3",
-    "version": "6.0.3",
+    "sha256": "ffdc3f61542721afa8e106448a4ba83d46e09e1f585908723fb24f6bd9aa50aa",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.4",
+    "version": "6.0.4",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -972,9 +972,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "8ac59296f22c3ddd9c1770816e9ecb021a2f3e848f6cc19df33e63b3a47b3b03",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "1b6c4aebe42fa2b3cecc4b35200a8fcc84e2c5e239dd6b739e35f4ac0f379071",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/6.0.1",
+    "version": "6.0.1",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -999,9 +999,9 @@
     "displayName": "MCP Server"
   },
   "MicrosoftTeams": {
-    "sha256": "860f810f0cf8d9c0c3c4b1f873ac7cfa3da71f2748dcfd120b2cffc9d0ca23f1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "8c3cc099b5560f964defe5f7f0cd1843dce18848c2bddc53e81a0677bbc2d5df",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/6.0.2",
+    "version": "6.0.2",
     "description": "Send Matomo reports and alerts to Microsoft Team channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
@@ -1161,9 +1161,9 @@
     "displayName": "Provider"
   },
   "QueuedTracking": {
-    "sha256": "470c41bec155c6a623d73415478e69ac140e6e7dc50b2f448fb1933b19858f93",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "29eb31a66593dad292394922246a7f5dfce1487ebbd42b77898e152e282f9ed7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/6.0.1",
+    "version": "6.0.1",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1377,9 +1377,9 @@
     "displayName": "Site Groups"
   },
   "Slack": {
-    "sha256": "9e7d008183c3a9734438ada0e6b40a8927b342f0ebe9cbd869ace0ecd9359e75",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Slack/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "87cc8bf7664ee09ad768917cd8ad74f9b8aaedcf6e6057bc2b459a714e7b2806",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Slack/download/6.0.1",
+    "version": "6.0.1",
     "description": "Send Matomo reports and alerts to Slack channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
