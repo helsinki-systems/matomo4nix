@@ -35,6 +35,15 @@
     "license": "GPL v3+",
     "displayName": "Ajax Opt Out"
   },
+  "AmazonSES": {
+    "sha256": "6ffc8eecab798fcadf3344b65ff604961e71f01947279f1ace70b2683a372373",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AmazonSES/download/0.1.1",
+    "version": "0.1.1",
+    "description": "Send all Matomo emails through the Amazon SES API v2 (HTTPS) with IAM role, environment or access key credentials.",
+    "homepage": "https://github.com/elemind/matomo-plugin-AmazonSES",
+    "license": "GPL v3+",
+    "displayName": "Amazon SES"
+  },
   "AnonymousPiwikUsageMeasurement": {
     "sha256": "2ef193c123a747b5e268b9ad908527a8c725659ecc2dcf087d8b73a9694fbd05",
     "url": "https://plugins.matomo.org/api/2.0/plugins/AnonymousPiwikUsageMeasurement/download/6.0.0",
@@ -61,6 +70,15 @@
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
     "displayName": "Api Reference"
+  },
+  "AskAI": {
+    "sha256": "9f75b27668bd3c86ba2e217af94645e65d4034776c15b8a120f06e60eaa98121",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AskAI/download/6.1.0",
+    "version": "6.1.0",
+    "description": "Ask any AI model connected in Matomo's AI Providers about your reports, with an agent on live data.",
+    "homepage": "https://openmost.com/matomo/extensions/ask-ai",
+    "license": "GPL v3+",
+    "displayName": "Ask AI"
   },
   "AskYourDatabase": {
     "sha256": "23db2ebf7e851f40cca18a5211768585f086267c564af9e59893d4c191ab6801",
@@ -196,6 +214,15 @@
     "homepage": "https://lw1.at",
     "license": "GPL v3+",
     "displayName": "Classic Counter"
+  },
+  "Claude": {
+    "sha256": "efe4e70651945256f8c13d2032c352792bf6e2b969fd6c71a5a1e4011c9ffcb2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Claude/download/6.1.0",
+    "version": "6.1.0",
+    "description": "AI chat and insights on any Matomo report with Claude, plus an agent that queries your live data.",
+    "homepage": "https://openmost.com/matomo/extensions/claude",
+    "license": "GPL v3+",
+    "displayName": "Claude"
   },
   "ClickHeat": {
     "sha256": "696423d6c86a46c36083eb116e48ba9878765ac3cced53adbfda2ae2967c26c0",
