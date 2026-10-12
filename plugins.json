@@ -63,9 +63,9 @@
     "displayName": "Api Get With Sites Info"
   },
   "ApiReference": {
-    "sha256": "90e4c5cde9a2878d2850913106c47baf36ee8f19f6575d7a5087d76fd9d863a0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.2",
-    "version": "6.0.2",
+    "sha256": "afe7279e8148832d6b1b7664eba56bdf138d8a8b991a2e9f09ccb4ff8d75b10c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.3",
+    "version": "6.0.3",
     "description": "Modern interactive API documentation for Matomo based on OpenAPI (Swagger). Explore endpoints, parameters, and responses directly in your browser.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -495,9 +495,9 @@
     "displayName": "Enhanced Attribution"
   },
   "EnvironmentVariables": {
-    "sha256": "a1afa7e3639c6828f54bb7ed8e02be54bd7d804ecf76142e682c69d8e4463715",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "09fd06db0657bfcb1d03fac5778dee79bbaf14070f15db741f09a583598cb172",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EnvironmentVariables/download/6.0.1",
+    "version": "6.0.1",
     "description": "Allows you to specify Matomo config in environment variables instead of the config file.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -936,9 +936,9 @@
     "displayName": "Live Tab"
   },
   "LogViewer": {
-    "sha256": "a84c0a8f8bcc57138331517e39298797de2ebfca754f1dfd1ba1cffe51f485e5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "bc521fdcb17ba5d4b75ff44ed68457c53f7fe203d534fa39691dfdf582a95cc6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LogViewer/download/6.0.2",
+    "version": "6.0.2",
     "description": "View log messages logged by Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -954,9 +954,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "6078d50a4dcd66d25fe4734278acc8b9268970f72962d42765ae0a571f7fffc0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/6.0.2",
-    "version": "6.0.2",
+    "sha256": "f1b40c20fd4382ad86aa2edf6abfd32f0fc2bec21286119b4e63c01fdc786c67",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/6.0.3",
+    "version": "6.0.3",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
