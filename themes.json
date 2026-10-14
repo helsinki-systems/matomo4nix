@@ -27,10 +27,10 @@
     "displayName": "Coffee Cup"
   },
   "DarkTheme": {
-    "sha256": "23cdb5401d1fa4111f66fc9c49e4cf7693cfbf45193313a54bad9f128bb15451",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/6.0.0",
-    "version": "6.0.0",
-    "description": "A modern dark theme for Matomo, applied to every user.",
+    "sha256": "c02ed6da6fafb78038afd856eaf16262cfa1b94d936da7a884f44caa44eca060",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/6.0.1",
+    "version": "6.0.1",
+    "description": "A modern dark theme for Matomo, applied to every user of the instance.",
     "homepage": "https://openmost.com/matomo/extensions/dark-theme",
     "license": "GPL v3+",
     "displayName": "Dark Theme"
@@ -54,10 +54,10 @@
     "displayName": "GTheme"
   },
   "GoogleTheme": {
-    "sha256": "7288a2c344c54435a1f7c379af95187974770286c6ef376efe68c942d7526435",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/6.0.1",
-    "version": "6.0.1",
-    "description": "A sublime Google Analytics theme for Matomo, in light and dark mode.",
+    "sha256": "316726864e2dcd52153a3f6b910563919c9c6fdf336dd696a309007eda3c7b70",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/6.0.2",
+    "version": "6.0.2",
+    "description": "A Google Analytics inspired theme for Matomo, in light and dark mode.",
     "homepage": "https://openmost.com/matomo/extensions/google-theme",
     "license": "GPL v3+",
     "displayName": "Google Theme"
