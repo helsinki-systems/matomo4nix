@@ -1179,9 +1179,9 @@
     "displayName": "Profile Gravatar"
   },
   "ProtectTrackID": {
-    "sha256": "2dfc78b8d94594e949bc7caab1289f3d59134033689e542023f5fb7379b49ab7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProtectTrackID/download/3.2.0",
-    "version": "3.2.0",
+    "sha256": "ef12a8cb6fe45668b47dee51332f3313bf5cef137e02d463d64c593ffa79569d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProtectTrackID/download/3.3.0",
+    "version": "3.3.0",
     "description": "Provides a option to protect idSite using hash instead default numeric.",
     "homepage": "https://github.com/joubertredrat/Matomo-ProtectTrackID",
     "license": "MIT",
