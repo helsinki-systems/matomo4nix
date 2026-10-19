@@ -602,6 +602,15 @@
     "license": "GPL v3+",
     "displayName": "Feed Press"
   },
+  "FeinwerkDashboardSharing": {
+    "sha256": "be015df2395997004e695c8d6601763c5939b2388734e71801486e16b512c422",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSharing/download/1.0.4",
+    "version": "1.0.4",
+    "description": "Share a Matomo dashboard with your team. Recipients get an auto-synced, read-only copy that always reflects your current version.",
+    "homepage": "https://feinwerk.io",
+    "license": "GPL v3+",
+    "displayName": "Feinwerk Dashboard Sharing"
+  },
   "FlagCounter": {
     "sha256": "8ec5b010df50df083e5770822356078957d6e1e0dac668cbb86acc168db8e377",
     "url": "https://plugins.matomo.org/api/2.0/plugins/FlagCounter/download/6.0.0",
@@ -675,9 +684,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "ffdc3f61542721afa8e106448a4ba83d46e09e1f585908723fb24f6bd9aa50aa",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.4",
-    "version": "6.0.4",
+    "sha256": "6aca310b0b06c7d557ba3dc4adf77e91f159acbfd8cc728b39d5028511485f61",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.5",
+    "version": "6.0.5",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -729,9 +738,9 @@
     "displayName": "Hide Password Reset"
   },
   "HooksViewer": {
-    "sha256": "345b4c8dca54ff43003088320e7d6b2e322a82a5c400ae1903b2be02fa0764dc",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/HooksViewer/download/6.1.0",
-    "version": "6.1.0",
+    "sha256": "b4fa390156447603adf410f97820502a778d8797d7976345663dd57c2d558c7b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/HooksViewer/download/6.2.0",
+    "version": "6.2.0",
     "description": "Lists every event hook Matomo fires, with its arguments. For plugin development, never in production.",
     "homepage": "https://openmost.com/matomo/extensions/hooks-viewer",
     "license": "GPL v3+",
