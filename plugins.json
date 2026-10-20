@@ -242,6 +242,15 @@
     "license": "GPL v3+",
     "displayName": "Code Injector"
   },
+  "ConsoleUI": {
+    "sha256": "e528777b8aa02f502251758795bf8e24d886e20332d965634a7ec2fc8f40a13b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ConsoleUI/download/6.0.1",
+    "version": "6.0.1",
+    "description": "Run Matomo console commands from the browser, with command autocompletion, when you have no SSH access.",
+    "homepage": "https://openmost.com/matomo/extensions/console-ui",
+    "license": "GPL v3+",
+    "displayName": "Console UI"
+  },
   "ConversionApi": {
     "sha256": "48bfd99756e3a230c1412d985ba5e8f7730ad0d1057186ca68018b611cc2fb2a",
     "url": "https://plugins.matomo.org/api/2.0/plugins/ConversionApi/download/0.2.9",
@@ -1206,9 +1215,9 @@
     "displayName": "Provider"
   },
   "QueuedTracking": {
-    "sha256": "29eb31a66593dad292394922246a7f5dfce1487ebbd42b77898e152e282f9ed7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "2db04fad8071c207dc9f0c678c123e1c9ab9377d9623d3e7770c04f247a525e1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/6.0.2",
+    "version": "6.0.2",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
