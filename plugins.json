@@ -620,6 +620,15 @@
     "license": "GPL v3+",
     "displayName": "Feinwerk Dashboard Sharing"
   },
+  "FeinwerkDataExploration": {
+    "sha256": "7846aa55c07070659520d8ac32a7f4766beffbb6f1ff2550c9b78f6c40a6e528",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDataExploration/download/0.3.1",
+    "version": "0.3.1",
+    "description": "Explore your raw data on the spot: a free-form table with a secondary dimension and up to five metrics, without creating or archiving a report.",
+    "homepage": "https://feinwerk.io",
+    "license": "GPL v3+",
+    "displayName": "Feinwerk Data Exploration"
+  },
   "FlagCounter": {
     "sha256": "8ec5b010df50df083e5770822356078957d6e1e0dac668cbb86acc168db8e377",
     "url": "https://plugins.matomo.org/api/2.0/plugins/FlagCounter/download/6.0.0",
