@@ -72,18 +72,18 @@
     "displayName": "Api Reference"
   },
   "AskAI": {
-    "sha256": "1e4d17bf55734b7c43c29a5ca6dc366a58dfe0357fb0dce1f5d2ae77baddc04b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AskAI/download/6.1.2",
-    "version": "6.1.2",
+    "sha256": "d62adc4407effefdee6af449e633d20a9ed16e9b1e6481362e7bf75f0617b0c6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AskAI/download/6.3.0",
+    "version": "6.3.0",
     "description": "Ask any AI model connected in Matomo's AI Providers about your reports, with an agent on live data.",
     "homepage": "https://openmost.com/matomo/extensions/ask-ai",
     "license": "GPL v3+",
     "displayName": "Ask AI"
   },
   "AskYourDatabase": {
-    "sha256": "65cd2127e57626e2b34d46420c601cd73086ff9595b3abeac1441374615f6a12",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AskYourDatabase/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "55d587e60263c9438f34dfd51e87de590e09394c4ebf70bfa343cb08628461e7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AskYourDatabase/download/6.0.2",
+    "version": "6.0.2",
     "description": "Embed your AskYourDatabase AI chatbot in Matomo and query your database in plain language.",
     "homepage": "https://openmost.com/matomo/extensions/ask-your-database",
     "license": "GPL v3+",
@@ -99,9 +99,9 @@
     "displayName": "Asyntai Chat"
   },
   "Audit": {
-    "sha256": "6460b66c4bb5b8eba77f2e153c1e5abff8fb5ab6dde62a7c5529dcfecbd3a722",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Audit/download/6.0.3",
-    "version": "6.0.3",
+    "sha256": "da0841c54c4e85851faaa72b73ed196ed3cf737d1c178e0bd74900d92d7aac8e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Audit/download/6.1.0",
+    "version": "6.1.0",
     "description": "Free read-only audit of your Matomo 5 setup: 53 checks that flag what blocks the Matomo 6 upgrade.",
     "homepage": "https://openmost.com/matomo/extensions/audit",
     "license": "GPL v3+",
@@ -198,10 +198,10 @@
     "displayName": "Chat"
   },
   "ChatGPT": {
-    "sha256": "d0e934e8105849488f4a3f3866086a9352ee572445f168642f793a7eeccdb072",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/6.0.1",
-    "version": "6.0.1",
-    "description": "AI chat and report insights for Matomo, with an agent that queries your data and performs actions through the Matomo MCP tools.",
+    "sha256": "bed50e3bff6d8a80857a54e3c4fd2b7accaf86e66a52315171461ffc1fb36211",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ChatGPT/download/6.2.0",
+    "version": "6.2.0",
+    "description": "AI chat and insights on any Matomo report with ChatGPT, plus an agent that queries your live data.",
     "homepage": "https://openmost.com/matomo/extensions/chatgpt",
     "license": "GPL v3+",
     "displayName": "Chat GPT"
@@ -216,9 +216,9 @@
     "displayName": "Classic Counter"
   },
   "Claude": {
-    "sha256": "6f4febe8dcdfaffeddba19d45d60b7c40cc746395bd014bc276e7dfcb9f7640d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Claude/download/6.1.2",
-    "version": "6.1.2",
+    "sha256": "5a162e90aa8c1de691a4aed51aa7955889edd299c799416c88fb55edb41c1088",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Claude/download/6.2.0",
+    "version": "6.2.0",
     "description": "AI chat and insights on any Matomo report with Claude, plus an agent that queries your live data.",
     "homepage": "https://openmost.com/matomo/extensions/claude",
     "license": "GPL v3+",
@@ -234,18 +234,18 @@
     "displayName": "Click Heat"
   },
   "CodeInjector": {
-    "sha256": "2792c36039fcf7057c5133a505b9d5b39dbddf1fc9d433306f72d073598b9b80",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CodeInjector/download/6.1.0",
-    "version": "6.1.0",
+    "sha256": "210c92df4eb0f4b991299e13dad5b388e7cfc55495788fd2722b436b3c20db43",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CodeInjector/download/6.1.1",
+    "version": "6.1.1",
     "description": "Inject your own HTML, CSS and JavaScript into every Matomo page, with a syntax-checking code editor.",
     "homepage": "https://openmost.com/matomo/extensions/code-injector",
     "license": "GPL v3+",
     "displayName": "Code Injector"
   },
   "ConsoleUI": {
-    "sha256": "e528777b8aa02f502251758795bf8e24d886e20332d965634a7ec2fc8f40a13b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ConsoleUI/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "dbb58819e1ef9cfe598326c80928a961a774aa18e197ea6c41d8d013134af295",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ConsoleUI/download/6.0.3",
+    "version": "6.0.3",
     "description": "Run Matomo console commands from the browser, with command autocompletion, when you have no SSH access.",
     "homepage": "https://openmost.com/matomo/extensions/console-ui",
     "license": "GPL v3+",
@@ -378,9 +378,9 @@
     "displayName": "Customize Logo Url"
   },
   "DDBotTracker": {
-    "sha256": "74e761e58e58170e0e7e6289cccc24fd6fc7103729942b9c22ffc0b56c15aa2e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DDBotTracker/download/1.0.2",
-    "version": "1.0.2",
+    "sha256": "c13ba25934a6765bbe774c83622154222d0699bcf4cc165504783d40ab64df72",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DDBotTracker/download/1.1.0",
+    "version": "1.1.0",
     "description": "Separate tracking of parsers, crawlers, scrapers and any other bots supported by Matomo's built-in DeviceDetector.",
     "homepage": "https://code.highspec.ru/Mikanoshi/DDBotTracker",
     "license": "GPL v3+",
@@ -485,6 +485,15 @@
     "license": "GPL v3+",
     "displayName": "Dynamic Device Detector Cache"
   },
+  "EcommerceEnhanced": {
+    "sha256": "e2813c752594dd4e32a6b87fa30259250b1b6f4e15b1daa20c02be18a9bfb70a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EcommerceEnhanced/download/6.0.3",
+    "version": "6.0.3",
+    "description": "Reads your shop's GA4 dataLayer and adds brands, variants, item lists, promotions, coupons, checkout funnels and buyer reports to Matomo ecommerce.",
+    "homepage": "https://openmost.com/matomo/extensions/ecommerce-enhanced",
+    "license": "GPL-3.0+",
+    "displayName": "Ecommerce Enhanced"
+  },
   "EmailReportExtended": {
     "sha256": "3d5f5b345fe7eadf8ae39a76da2baaef32f266e189039d2a6805b3bd2d348863",
     "url": "https://plugins.matomo.org/api/2.0/plugins/EmailReportExtended/download/5.0.0",
@@ -531,9 +540,9 @@
     "displayName": "Event Icons"
   },
   "EventsEnhanced": {
-    "sha256": "8b0d57be59b34b3347d83d501e6ead6a47a25348824b353c56b26d07cd4e06b3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EventsEnhanced/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "13998e548732e047a614ab0cfe90ae6061de279bad1b45499e972fb6e86c8ca5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EventsEnhanced/download/6.1.0",
+    "version": "6.1.0",
     "description": "A detail page for every event category, action and name, with its evolution and related breakdowns.",
     "homepage": "https://openmost.com/matomo/extensions/events-enhanced",
     "license": "GPL v3+",
@@ -756,9 +765,9 @@
     "displayName": "Hide Password Reset"
   },
   "HooksViewer": {
-    "sha256": "b4fa390156447603adf410f97820502a778d8797d7976345663dd57c2d558c7b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/HooksViewer/download/6.2.0",
-    "version": "6.2.0",
+    "sha256": "d0dc072369e67f08b0389e119fb9eaa791a36cf09663dc61427634fef18bb56c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/HooksViewer/download/6.2.1",
+    "version": "6.2.1",
     "description": "Lists every event hook Matomo fires, with its arguments. For plugin development, never in production.",
     "homepage": "https://openmost.com/matomo/extensions/hooks-viewer",
     "license": "GPL v3+",
@@ -1089,9 +1098,9 @@
     "displayName": "Missivus"
   },
   "MistralAI": {
-    "sha256": "6f540e36b7304a0d959b6b0766a7fc2689b72bf000e37d829602869d83e71bf9",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/6.1.0",
-    "version": "6.1.0",
+    "sha256": "6ad12e40f94c14397739b270edea6319f4527de629da6338df577d31127829cf",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MistralAI/download/6.2.0",
+    "version": "6.2.0",
     "description": "Chat with your Matomo data and get one-click AI insights on any report, powered by Mistral AI.",
     "homepage": "https://openmost.com/matomo/extensions/mistral-ai",
     "license": "GPL v3+",
@@ -1197,10 +1206,10 @@
     "displayName": "Profile Avatar"
   },
   "ProfileGravatar": {
-    "sha256": "4dc52f2955cc45b842b912bb82dd6385f6896fb13aa1d34ca406ee69e0ffbd16",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/6.0.2",
-    "version": "6.0.2",
-    "description": "Show the Gravatar picture of your identified visitors in the visitor profile.",
+    "sha256": "ce39f04617a227565a2ed401d02d790cb0195c5aae547696505f032e6ccfbfc0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ProfileGravatar/download/6.0.4",
+    "version": "6.0.4",
+    "description": "Show the Gravatar picture of your identified visitors in the visitor profile and the visits log.",
     "homepage": "https://openmost.com/matomo/extensions/profile-gravatar",
     "license": "GPL v3+",
     "displayName": "Profile Gravatar"
@@ -1431,10 +1440,10 @@
     "displayName": "Site Access Provisioner"
   },
   "SiteGroups": {
-    "sha256": "3c98a46063155ccd414f4f09d7eabcb24ea7fd05b7a47b316f0e0b102d4ebd86",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteGroups/download/6.0.1",
-    "version": "6.0.1",
-    "description": "Organize your websites into groups and browse them by group in the website selector.",
+    "sha256": "ced0a160378fe2d5aa3d9c3f3280e1491b17da66d5089da1b35edf4533cb914d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteGroups/download/6.0.2",
+    "version": "6.0.2",
+    "description": "Organize your websites into groups and browse them by group in the website selector and All Websites.",
     "homepage": "https://openmost.com/matomo/extensions/site-groups",
     "license": "GPL v3+",
     "displayName": "Site Groups"
@@ -1467,18 +1476,18 @@
     "displayName": "Snoopy Behavioral Scoring"
   },
   "Swagger": {
-    "sha256": "4bf65ae7ffb4f625b0d61789ac3d158f72e0dd03af04ee516615dcd876dd380a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "3ff67eec32dde8b2f14c402fbdb13b7b14723a021337bcbea9cacff1706f868a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Swagger/download/6.0.2",
+    "version": "6.0.2",
     "description": "Explore and try every Matomo API method in Swagger UI, from an OpenAPI 3.1 spec of your plugins.",
     "homepage": "https://openmost.com/matomo/extensions/swagger",
     "license": "GPL v3+",
     "displayName": "Swagger"
   },
   "TagManagerExtended": {
-    "sha256": "c8f41952bef0ffc66ce3f8311c6c7a2067d9bfe99d5d5203e65a3f50084ac906",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/6.1.1",
-    "version": "6.1.1",
+    "sha256": "7326c2bd437313b8405609c64e56839aad27a68f1b2babec8047274d2f8d58d7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/TagManagerExtended/download/6.1.2",
+    "version": "6.1.2",
     "description": "36 tag templates, more triggers and variables, bulk actions and a Custom HTML editor for Tag Manager.",
     "homepage": "https://openmost.com/matomo/extensions/tag-manager-extended",
     "license": "GPL v3+",
@@ -1620,9 +1629,9 @@
     "displayName": "Visitor Generator"
   },
   "WeatherReports": {
-    "sha256": "ae514342067032a971ae34f14e6a93ff6c7bc71d274b44e87090366a1f6459a2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/6.2.2",
-    "version": "6.2.2",
+    "sha256": "31a3624790411782e8d8508ec489fb55bfc3cae1c6d6dd6f353eb48ed885e27b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/WeatherReports/download/6.2.3",
+    "version": "6.2.3",
     "description": "Track the weather of each visit and see how temperature, rain or wind affect traffic and conversions.",
     "homepage": "https://openmost.com/matomo/extensions/weather-reports",
     "license": "GPL v3+",

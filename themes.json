@@ -27,9 +27,9 @@
     "displayName": "Coffee Cup"
   },
   "DarkTheme": {
-    "sha256": "c02ed6da6fafb78038afd856eaf16262cfa1b94d936da7a884f44caa44eca060",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "5e4c5a4d2831b31e8ba5f7dfef2fd2ffd62b30b23cfb33158a39523ffd67918d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DarkTheme/download/6.0.2",
+    "version": "6.0.2",
     "description": "A modern dark theme for Matomo, applied to every user of the instance.",
     "homepage": "https://openmost.com/matomo/extensions/dark-theme",
     "license": "GPL v3+",
@@ -54,9 +54,9 @@
     "displayName": "GTheme"
   },
   "GoogleTheme": {
-    "sha256": "316726864e2dcd52153a3f6b910563919c9c6fdf336dd696a309007eda3c7b70",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/6.0.2",
-    "version": "6.0.2",
+    "sha256": "a81dd8f9e20c514739777a4e38eb85112be03fb09f869dd1d23e21222ad287a3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/6.0.3",
+    "version": "6.0.3",
     "description": "A Google Analytics inspired theme for Matomo, in light and dark mode.",
     "homepage": "https://openmost.com/matomo/extensions/google-theme",
     "license": "GPL v3+",
@@ -99,9 +99,9 @@
     "displayName": "My Crypto"
   },
   "OpenmostTheme": {
-    "sha256": "0550332032c938542e37ebe2e2735792d6fa2abce0dfbbde806586490b1b4cc6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OpenmostTheme/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "6c1450383d9466680f3b2ee0a695fb81a0ece5df580bc19f366f00678de5173b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OpenmostTheme/download/6.0.2",
+    "version": "6.0.2",
     "description": "The Openmost design system for Matomo, in light and dark mode.",
     "homepage": "https://openmost.com/matomo/extensions/openmost-theme",
     "license": "GPL v3+",
