@@ -486,9 +486,9 @@
     "displayName": "Dynamic Device Detector Cache"
   },
   "EcommerceEnhanced": {
-    "sha256": "e2813c752594dd4e32a6b87fa30259250b1b6f4e15b1daa20c02be18a9bfb70a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EcommerceEnhanced/download/6.0.3",
-    "version": "6.0.3",
+    "sha256": "5eb60fbcecee0fcb352cdb7d134e24d9c9d9251865feb9f752454dd9899c62fa",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EcommerceEnhanced/download/6.0.4",
+    "version": "6.0.4",
     "description": "Reads your shop's GA4 dataLayer and adds brands, variants, item lists, promotions, coupons, checkout funnels and buyer reports to Matomo ecommerce.",
     "homepage": "https://openmost.com/matomo/extensions/ecommerce-enhanced",
     "license": "GPL-3.0+",
@@ -540,9 +540,9 @@
     "displayName": "Event Icons"
   },
   "EventsEnhanced": {
-    "sha256": "13998e548732e047a614ab0cfe90ae6061de279bad1b45499e972fb6e86c8ca5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EventsEnhanced/download/6.1.0",
-    "version": "6.1.0",
+    "sha256": "e6f2427128571ae0ba442dc551ec8595fde8117cd717f92f88158bf5bf635691",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EventsEnhanced/download/6.1.1",
+    "version": "6.1.1",
     "description": "A detail page for every event category, action and name, with its evolution and related breakdowns.",
     "homepage": "https://openmost.com/matomo/extensions/events-enhanced",
     "license": "GPL v3+",
