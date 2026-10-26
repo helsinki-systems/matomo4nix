@@ -117,9 +117,9 @@
     "displayName": "Author Segments"
   },
   "AutoLogin": {
-    "sha256": "832cc39058aacc3bfe24d1985ebb0f2fb6ca5211ddaa820ddac7629cab7f4896",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AutoLogin/download/0.1.2",
-    "version": "0.1.2",
+    "sha256": "c1b0324a2e2f2ab84be77f01b1f44af26f16d00d5c82f27378eed841be115dae",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AutoLogin/download/0.2.1",
+    "version": "0.2.1",
     "description": "The Matomo AutoLogin Plugin adds new authentication and registration options by using incoming HTTP headers.",
     "homepage": "https://github.com/inventage/matomo-autologin-plugin",
     "license": "MIT",
@@ -1341,9 +1341,9 @@
     "displayName": "SMSalert"
   },
   "SecurityInfo": {
-    "sha256": "b496740d723b545a51b60c53df6ba80312832b4ec3af5c51e2c3e3ad9c8c4d66",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SecurityInfo/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "854be59d060b1591cc6b40d4d8086b172acb0544e14cda134e41f18e13208213",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SecurityInfo/download/6.0.1",
+    "version": "6.0.1",
     "description": "Provides security information about your PHP environment and offers suggestions based on PhpSecInfo from the PHP Security Consortium.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
