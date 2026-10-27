@@ -63,9 +63,9 @@
     "displayName": "Api Get With Sites Info"
   },
   "ApiReference": {
-    "sha256": "afe7279e8148832d6b1b7664eba56bdf138d8a8b991a2e9f09ccb4ff8d75b10c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.3",
-    "version": "6.0.3",
+    "sha256": "7e7be6e143d2a400d45aad804cd53ed24e574f0e43efe4d8356aec48c477ba7d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.4",
+    "version": "6.0.4",
     "description": "Modern interactive API documentation for Matomo based on OpenAPI (Swagger). Explore endpoints, parameters, and responses directly in your browser.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -746,6 +746,15 @@
     "license": "GPL v3+",
     "displayName": "Group Permissions"
   },
+  "Hazelchat": {
+    "sha256": "dee4a0ff9adb9a5bd37c6f0b913bf278814dce83528857543fc9c3aac18d3611",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Hazelchat/download/0.1.0",
+    "version": "0.1.0",
+    "description": "Add the Hazelchat AI chat agent with Tag Manager and see chats and enquiries in Matomo, with a ready goal.",
+    "homepage": "https://hazelchat.co/integrations/matomo/",
+    "license": "GPL-3.0+",
+    "displayName": "Hazelchat"
+  },
   "HiddenReports": {
     "sha256": "f6fff2f36bbc77145b66a252cee89c6adccbb1c1acf2ddcf87148424fd4e0e13",
     "url": "https://plugins.matomo.org/api/2.0/plugins/HiddenReports/download/6.0.1",
@@ -999,9 +1008,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "f1b40c20fd4382ad86aa2edf6abfd32f0fc2bec21286119b4e63c01fdc786c67",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/6.0.3",
-    "version": "6.0.3",
+    "sha256": "dca3836fe5e033d434a436fd025cd6c922200d8b7184fd38d3d343db98a79c57",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/6.0.4",
+    "version": "6.0.4",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -1080,9 +1089,9 @@
     "displayName": "Microsoft Teams"
   },
   "Migration": {
-    "sha256": "a909b6b3778134438393adab22124d32a5c36cb5d346fb2a34fabca24b7c1239",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "ece692fd4896c59659978fb3a6fa4a871b264525172219999c1961cfef9c28c6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/6.0.1",
+    "version": "6.0.1",
     "description": "Migrate/copy any measurable (site, app, roll-up) from one Matomo to another Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1116,9 +1125,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "d1b38ee0b92a4b59be70f7d16258029fb21f3ded6a79e0a8d9f952902aac044b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/6.0.2",
-    "version": "6.0.2",
+    "sha256": "667cf9e86c5aaec050604096e9e490382b44b7fbf81b7957d95ae92e28c4749e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/6.0.3",
+    "version": "6.0.3",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
