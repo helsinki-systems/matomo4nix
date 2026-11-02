@@ -63,9 +63,9 @@
     "displayName": "Api Get With Sites Info"
   },
   "ApiReference": {
-    "sha256": "7e7be6e143d2a400d45aad804cd53ed24e574f0e43efe4d8356aec48c477ba7d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.4",
-    "version": "6.0.4",
+    "sha256": "3aa4ab317d3c72373b2fa4f5d5ce2ed9cc56d1a5dcdee37e9d21bd1f566f8c88",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.5",
+    "version": "6.0.5",
     "description": "Modern interactive API documentation for Matomo based on OpenAPI (Swagger). Explore endpoints, parameters, and responses directly in your browser.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -269,6 +269,15 @@
     "license": "GPL-3.0+",
     "displayName": "Conzent Cmp"
   },
+  "CoworkingView": {
+    "sha256": "ebaf51caee099d8b3224c9e18d6dbd0bc8eafd78369477cea6e79933e55734cd",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CoworkingView/download/0.1.0",
+    "version": "0.1.0",
+    "description": "Flexible office price medians for one city. Loads api.coworkingview.com; no visitor data is sent.",
+    "homepage": "https://coworkingview.com",
+    "license": "GPL-3.0+",
+    "displayName": "Coworking View"
+  },
   "CrazyEggWidgetByAmperage": {
     "sha256": "0066d2133537c7537514c1b7fd2c28ed668794b9b0199ed3d0693e7f05d75396",
     "url": "https://plugins.matomo.org/api/2.0/plugins/CrazyEggWidgetByAmperage/download/5.0.1",
@@ -279,9 +288,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "e6bee982a79afa4a529d7909518f121c9a36d627bc7b63f584a12a8ddb4be9b3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "64557cc2c6efe43565ad736d92d7f64bdacd904fb2c07ba459f39e70cafe0ac4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/6.0.1",
+    "version": "6.0.1",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -711,9 +720,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "6aca310b0b06c7d557ba3dc4adf77e91f159acbfd8cc728b39d5028511485f61",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.5",
-    "version": "6.0.5",
+    "sha256": "b3b23184d6a6f393ef6cc7438053081f1a6a1c4cf1dc4832410e399df053eb4c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.6",
+    "version": "6.0.6",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1089,9 +1098,9 @@
     "displayName": "Microsoft Teams"
   },
   "Migration": {
-    "sha256": "ece692fd4896c59659978fb3a6fa4a871b264525172219999c1961cfef9c28c6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "37191b6e90eabe97c7bfaaefe0c6de956acce588a8dd5385935fc0e0b5049684",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/6.0.2",
+    "version": "6.0.2",
     "description": "Migrate/copy any measurable (site, app, roll-up) from one Matomo to another Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1125,9 +1134,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "667cf9e86c5aaec050604096e9e490382b44b7fbf81b7957d95ae92e28c4749e",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/6.0.3",
-    "version": "6.0.3",
+    "sha256": "90ff4e5aba6577612968b9adefebb70645c8397d5e136bcb5ec9b96f47f2da18",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/6.0.4",
+    "version": "6.0.4",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
@@ -1242,9 +1251,9 @@
     "displayName": "Provider"
   },
   "QueuedTracking": {
-    "sha256": "2db04fad8071c207dc9f0c678c123e1c9ab9377d9623d3e7770c04f247a525e1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/6.0.2",
-    "version": "6.0.2",
+    "sha256": "37ac54a81face8e7ce58e792a15d4e8abe6244b65668a40a8cf319a896b6abc0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/6.0.3",
+    "version": "6.0.3",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
