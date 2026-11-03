@@ -549,9 +549,9 @@
     "displayName": "Event Icons"
   },
   "EventsEnhanced": {
-    "sha256": "e6f2427128571ae0ba442dc551ec8595fde8117cd717f92f88158bf5bf635691",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EventsEnhanced/download/6.1.1",
-    "version": "6.1.1",
+    "sha256": "65af18bd0e62576efec0e52dd8618da2afeee47f9d8ca00761878f2a3d2a0342",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EventsEnhanced/download/6.1.2",
+    "version": "6.1.2",
     "description": "A detail page for every event category, action and name, with its evolution and related breakdowns.",
     "homepage": "https://openmost.com/matomo/extensions/events-enhanced",
     "license": "GPL v3+",
@@ -801,9 +801,9 @@
     "displayName": "Release Channel for IE 11"
   },
   "IP2Location": {
-    "sha256": "fcf57261a37566f34b1ffe85be4bceb081c03f46cbc1ad48cef40d358fab5f70",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/5.5.2",
-    "version": "5.5.2",
+    "sha256": "5c763761c32606e05f07bde24e61996f2716e670a77fe6bd52422eaa1010c9f7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/5.5.3",
+    "version": "5.5.3",
     "description": "Use the IP2Location geolocation service to lookup your visitors' locations. You can configure the settings under System → IP2Location.",
     "homepage": "https://www.ip2location.com/developers/piwik",
     "license": "GPL-3.0+",
