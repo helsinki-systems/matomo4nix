@@ -801,9 +801,9 @@
     "displayName": "Release Channel for IE 11"
   },
   "IP2Location": {
-    "sha256": "5c763761c32606e05f07bde24e61996f2716e670a77fe6bd52422eaa1010c9f7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/5.5.3",
-    "version": "5.5.3",
+    "sha256": "88afdf8abf883da07631e44582d2417db0b40d3cf369f4198424d57ffb7858ff",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/5.5.4",
+    "version": "5.5.4",
     "description": "Use the IP2Location geolocation service to lookup your visitors' locations. You can configure the settings under System → IP2Location.",
     "homepage": "https://www.ip2location.com/developers/piwik",
     "license": "GPL-3.0+",
