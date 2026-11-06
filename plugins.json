@@ -117,9 +117,9 @@
     "displayName": "Author Segments"
   },
   "AutoLogin": {
-    "sha256": "c1b0324a2e2f2ab84be77f01b1f44af26f16d00d5c82f27378eed841be115dae",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AutoLogin/download/0.2.1",
-    "version": "0.2.1",
+    "sha256": "1e9f2b9f36d3e4018863e2bd5718a67a352a5f85b32b74a9e6d0b2b6eb6cc91e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AutoLogin/download/0.3.0",
+    "version": "0.3.0",
     "description": "The Matomo AutoLogin Plugin adds new authentication and registration options by using incoming HTTP headers.",
     "homepage": "https://github.com/inventage/matomo-autologin-plugin",
     "license": "MIT",
@@ -639,9 +639,9 @@
     "displayName": "Feinwerk Dashboard Sharing"
   },
   "FeinwerkDataExploration": {
-    "sha256": "7846aa55c07070659520d8ac32a7f4766beffbb6f1ff2550c9b78f6c40a6e528",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDataExploration/download/0.3.1",
-    "version": "0.3.1",
+    "sha256": "ff49ed7be8ee9c39ce85a4b984932d866013c3d178dacbe2135ae977e312bef0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDataExploration/download/5.0.0",
+    "version": "5.0.0",
     "description": "Explore your raw data on the spot: a free-form table with a secondary dimension and up to five metrics, without creating or archiving a report.",
     "homepage": "https://feinwerk.io",
     "license": "GPL v3+",
