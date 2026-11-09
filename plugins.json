@@ -63,9 +63,9 @@
     "displayName": "Api Get With Sites Info"
   },
   "ApiReference": {
-    "sha256": "3aa4ab317d3c72373b2fa4f5d5ce2ed9cc56d1a5dcdee37e9d21bd1f566f8c88",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.5",
-    "version": "6.0.5",
+    "sha256": "9d1a201ef9bf01dc5a31a3fb1f2b4410c1e1285cd5f65b2357128b5b16137b53",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.6",
+    "version": "6.0.6",
     "description": "Modern interactive API documentation for Matomo based on OpenAPI (Swagger). Explore endpoints, parameters, and responses directly in your browser.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -288,9 +288,9 @@
     "displayName": "Crazy Egg Widget"
   },
   "CustomAlerts": {
-    "sha256": "64557cc2c6efe43565ad736d92d7f64bdacd904fb2c07ba459f39e70cafe0ac4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "caaa67560444baf778c41757da192674cc29ab3ff0693ff9a7f0c41c2c2aaf0e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomAlerts/download/6.0.2",
+    "version": "6.0.2",
     "description": "Create custom Alerts to be notified of important changes on your website or app!",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -333,9 +333,9 @@
     "displayName": "Custom Theme"
   },
   "CustomTranslations": {
-    "sha256": "712b2f0d2a89748eaeec1b52fa70671cf1346f7af1cbdc846a5a8ef42152a496",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "4212fef32c6f60b417378af33ca4fa3bffacda11b2327b5e003853b6a2f08668",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/CustomTranslations/download/6.0.1",
+    "version": "6.0.1",
     "description": "Translate entities and tracked values into different languages. For example Custom dimensions, dashboard names, custom report names, event values, ...",
     "homepage": "https://innocraft.com",
     "license": "GPL v3+",
@@ -621,11 +621,11 @@
     "displayName": "Feature Support"
   },
   "FeedPress": {
-    "sha256": "0be9ea1804c9358d89e948b5376b1669eb94d5249217d8433fb7c3f9c5960b6f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeedPress/download/1.0.2",
-    "version": "1.0.2",
+    "sha256": "788f523375bcdd2ed09af4f463440e4bc0817a7805b82d0a902bef478b30088a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeedPress/download/2.0.0",
+    "version": "2.0.0",
     "description": "Displays your FeedPress feed analytics.",
-    "homepage": "https://feedpress.it",
+    "homepage": "https://feedpress.com",
     "license": "GPL v3+",
     "displayName": "Feed Press"
   },
@@ -720,9 +720,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "b3b23184d6a6f393ef6cc7438053081f1a6a1c4cf1dc4832410e399df053eb4c",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.6",
-    "version": "6.0.6",
+    "sha256": "63e3317c5d15117bab47704bd8290e73a8613fcb87625f0745922aa6f3731fd2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.7",
+    "version": "6.0.7",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -909,9 +909,9 @@
     "displayName": "IP 2 Hostname"
   },
   "JsTrackerCustom": {
-    "sha256": "411b159c26244cae876e829d7f9ab3eadd690cc6f524b0b417e370d26a2f8c00",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerCustom/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "ba3bb266c4ab4fc5d0255324d78d92cd254052da469f71e75f31134dd48050c2",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/JsTrackerCustom/download/6.0.2",
+    "version": "6.0.2",
     "description": "This plugin allows you to add custom JavaScript to Matomos tracking code.",
     "homepage": "https://www.innocraft.com",
     "license": "GPL v3+",
@@ -1017,9 +1017,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "dca3836fe5e033d434a436fd025cd6c922200d8b7184fd38d3d343db98a79c57",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/6.0.4",
-    "version": "6.0.4",
+    "sha256": "b0e74ae8b8752e75f56e2c01d33023f76ff86a296a8eacfe9458589f03084ba4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/6.0.5",
+    "version": "6.0.5",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -1134,9 +1134,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "90ff4e5aba6577612968b9adefebb70645c8397d5e136bcb5ec9b96f47f2da18",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/6.0.4",
-    "version": "6.0.4",
+    "sha256": "e8023119d833a3e61c2d58ef4a17a1a708aec1228d55d8f93d81bd43dcd3e6d7",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/6.1.0",
+    "version": "6.1.0",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
@@ -1251,9 +1251,9 @@
     "displayName": "Provider"
   },
   "QueuedTracking": {
-    "sha256": "37ac54a81face8e7ce58e792a15d4e8abe6244b65668a40a8cf319a896b6abc0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/6.0.3",
-    "version": "6.0.3",
+    "sha256": "2a0bf913e44ce372616ffa8ba4df767c302c730c7f4fa11d6618373a1307b30a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/QueuedTracking/download/6.0.4",
+    "version": "6.0.4",
     "description": "Scale your large traffic Matomo service by queuing tracking requests in Redis or MySQL for better performance and reliability when experiencing peaks.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1492,6 +1492,15 @@
     "homepage": "http://spletnik.si/",
     "license": "GPL v3+",
     "displayName": "Snoopy Behavioral Scoring"
+  },
+  "SpeoReportPerformance": {
+    "sha256": "3d8673b707b5b6ad3d5b4f652e4fe5f90ce7812a213cb15b41684bd160da8430",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SpeoReportPerformance/download/1.2.3",
+    "version": "1.2.3",
+    "description": "Caches eligible flat monthly page URL reports while retaining Matomo permissions and report output.",
+    "homepage": "https://github.com/rktsky/matomo-plugin-SpeoReportPerformance",
+    "license": "GPL-3.0+",
+    "displayName": "Speo Report Performance"
   },
   "Swagger": {
     "sha256": "3ff67eec32dde8b2f14c402fbdb13b7b14723a021337bcbea9cacff1706f868a",
