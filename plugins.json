@@ -594,9 +594,9 @@
     "displayName": "Extra Api Information"
   },
   "ExtraTools": {
-    "sha256": "77376ebabfd9f32cd9eb1f1391425039082d620e4694a8cf98e41cbff11902cf",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.3.4",
-    "version": "5.3.4",
+    "sha256": "e0a50cd5ac4b786183708b777d059b2999195e6e165d8bc0532fdafd5c078e7f",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.3.5",
+    "version": "5.3.5",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://digitalist.cloud/matomo",
     "license": "GPL v3+",
@@ -630,9 +630,9 @@
     "displayName": "Feed Press"
   },
   "FeinwerkDashboardSharing": {
-    "sha256": "be015df2395997004e695c8d6601763c5939b2388734e71801486e16b512c422",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSharing/download/1.0.4",
-    "version": "1.0.4",
+    "sha256": "885bf57d9cb1e49807ab6123db36c18656237cd0f689ec16d02b9d16105973fd",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSharing/download/5.0.1",
+    "version": "5.0.1",
     "description": "Share a Matomo dashboard with your team. Recipients get an auto-synced, read-only copy that always reflects your current version.",
     "homepage": "https://feinwerk.io",
     "license": "GPL v3+",
@@ -1053,9 +1053,9 @@
     "displayName": "Login Shibboleth"
   },
   "LoginTokenAuth": {
-    "sha256": "948f804ca9bb6b78a30287a40a175354bbae25e2da3bcd87f3d450636c3dd488",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginTokenAuth/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "dc8cf832a815c17706ae608d87066c770490088da891f51118d8858f23286366",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginTokenAuth/download/6.0.0",
+    "version": "6.0.0",
     "description": "Sign in to Matomo over api using the Users token_auth.",
     "homepage": "https://www.hd-cms.de",
     "license": "GPL v3+",
