@@ -629,6 +629,15 @@
     "license": "GPL v3+",
     "displayName": "Feed Press"
   },
+  "FeinwerkDashboardSegment": {
+    "sha256": "b0bc0023366a7d03346dbe085a45a4a087a13a3995c246e4367699344325b883",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSegment/download/5.0.2",
+    "version": "5.0.2",
+    "description": "Give every dashboard widget its own segment, plus a dashboard-wide default segment that filters the whole dashboard.",
+    "homepage": "https://feinwerk.io",
+    "license": "GPL v3+",
+    "displayName": "Feinwerk Dashboard Segment"
+  },
   "FeinwerkDashboardSharing": {
     "sha256": "885bf57d9cb1e49807ab6123db36c18656237cd0f689ec16d02b9d16105973fd",
     "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSharing/download/5.0.1",
@@ -639,9 +648,9 @@
     "displayName": "Feinwerk Dashboard Sharing"
   },
   "FeinwerkDataExploration": {
-    "sha256": "ff49ed7be8ee9c39ce85a4b984932d866013c3d178dacbe2135ae977e312bef0",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDataExploration/download/5.0.0",
-    "version": "5.0.0",
+    "sha256": "35600fdd153a3e9c0c020fd74db175b8dc1aaa83791df348bf3201325948f892",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDataExploration/download/5.0.1",
+    "version": "5.0.1",
     "description": "Explore your raw data on the spot: a free-form table with a secondary dimension and up to five metrics, without creating or archiving a report.",
     "homepage": "https://feinwerk.io",
     "license": "GPL v3+",
