@@ -522,11 +522,11 @@
     "displayName": "Endpoint"
   },
   "EnhancedAttribution": {
-    "sha256": "eddbfe70202cd2bef8e67b443b148d4e6721362b8cefd3b70988bf8b99d8c6f1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EnhancedAttribution/download/1.1.2",
-    "version": "1.1.2",
+    "sha256": "7629abf63318ed9c450fb3637b827010b35cd336afa0ecee12df8bc0c39f7697",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EnhancedAttribution/download/1.2.2",
+    "version": "1.2.2",
     "description": "Enhanced attribution tracking with goal URL analysis.",
-    "homepage": "https://www.carnaby.se/matomo-enhanced-attribution/",
+    "homepage": "https://carnaby.solutions/enhanced-attribution-matomo-plugin/",
     "license": "GPL-3.0+",
     "displayName": "Enhanced Attribution"
   },
