@@ -36,9 +36,9 @@
     "displayName": "Ajax Opt Out"
   },
   "AmazonSES": {
-    "sha256": "6ffc8eecab798fcadf3344b65ff604961e71f01947279f1ace70b2683a372373",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AmazonSES/download/0.1.1",
-    "version": "0.1.1",
+    "sha256": "cec3baa1cff052c02e739022de9f1637286987a4318057b1267c186b6fe839d4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AmazonSES/download/1.0.0",
+    "version": "1.0.0",
     "description": "Send all Matomo emails through the Amazon SES API v2 (HTTPS) with IAM role, environment or access key credentials.",
     "homepage": "https://github.com/elemind/matomo-plugin-AmazonSES",
     "license": "GPL v3+",
@@ -63,9 +63,9 @@
     "displayName": "Api Get With Sites Info"
   },
   "ApiReference": {
-    "sha256": "9d1a201ef9bf01dc5a31a3fb1f2b4410c1e1285cd5f65b2357128b5b16137b53",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.6",
-    "version": "6.0.6",
+    "sha256": "d9577ec97ef96fa0efd8a5552e33906bcfe5c9f5725b9dbd91ae6f0a4e816b12",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ApiReference/download/6.0.7",
+    "version": "6.0.7",
     "description": "Modern interactive API documentation for Matomo based on OpenAPI (Swagger). Explore endpoints, parameters, and responses directly in your browser.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -729,9 +729,9 @@
     "displayName": "Goal Conversion Export"
   },
   "GoogleAnalyticsImporter": {
-    "sha256": "63e3317c5d15117bab47704bd8290e73a8613fcb87625f0745922aa6f3731fd2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.7",
-    "version": "6.0.7",
+    "sha256": "57571a5169b1b8dd29587518503be4381ed5fcbb282ec64873dac3b4e61bc2b1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleAnalyticsImporter/download/6.0.8",
+    "version": "6.0.8",
     "description": "Import reports from a Google Analytics account into Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1026,9 +1026,9 @@
     "displayName": "Login Http Auth"
   },
   "LoginLdap": {
-    "sha256": "b0e74ae8b8752e75f56e2c01d33023f76ff86a296a8eacfe9458589f03084ba4",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/6.0.5",
-    "version": "6.0.5",
+    "sha256": "f0c32ec45e6f595baba3fbf5f267f23497d45cc9ff5dd61eb9b9680450701df1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/LoginLdap/download/6.0.6",
+    "version": "6.0.6",
     "description": "LDAP authentication and synchronization for Matomo.",
     "homepage": "https://github.com/matomo-org/plugin-LoginLdap",
     "license": "GPL v3+",
@@ -1071,9 +1071,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "1b6c4aebe42fa2b3cecc4b35200a8fcc84e2c5e239dd6b739e35f4ac0f379071",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "294749371e64c81b5e0472a939ebd881e57bb68050115d4f1fb1dd089e8d393b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/6.0.2",
+    "version": "6.0.2",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1098,18 +1098,18 @@
     "displayName": "MCP Server"
   },
   "MicrosoftTeams": {
-    "sha256": "8c3cc099b5560f964defe5f7f0cd1843dce18848c2bddc53e81a0677bbc2d5df",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/6.0.2",
-    "version": "6.0.2",
+    "sha256": "784bf37913071e95908637e830454491160d00cbdd787c04bcada49991c70f6d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MicrosoftTeams/download/6.0.3",
+    "version": "6.0.3",
     "description": "Send Matomo reports and alerts to Microsoft Team channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
     "displayName": "Microsoft Teams"
   },
   "Migration": {
-    "sha256": "37191b6e90eabe97c7bfaaefe0c6de956acce588a8dd5385935fc0e0b5049684",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/6.0.2",
-    "version": "6.0.2",
+    "sha256": "413f03eaeaf74db283c45cbba63c04e7bf8530140e6f98cc2a5260b9c2cdb213",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Migration/download/6.1.0",
+    "version": "6.1.0",
     "description": "Migrate/copy any measurable (site, app, roll-up) from one Matomo to another Matomo.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1143,9 +1143,9 @@
     "displayName": "Moz Widget"
   },
   "OAuth2": {
-    "sha256": "e8023119d833a3e61c2d58ef4a17a1a708aec1228d55d8f93d81bd43dcd3e6d7",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/6.1.0",
-    "version": "6.1.0",
+    "sha256": "db03fe306d88d10e78e14849d56908d353b7f3b5dff0ec2126ba3620fc01baf4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/OAuth2/download/6.1.1",
+    "version": "6.1.1",
     "description": "Provide secure access to the Matomo API using scoped permissions. No static credentials.",
     "homepage": "",
     "license": "GPL v3+",
@@ -1476,9 +1476,9 @@
     "displayName": "Site Groups"
   },
   "Slack": {
-    "sha256": "87cc8bf7664ee09ad768917cd8ad74f9b8aaedcf6e6057bc2b459a714e7b2806",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/Slack/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "489290a16eda14b6d7be6fb64799b4b393d7c4d6e1b48189764b87201c4910eb",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/Slack/download/6.0.2",
+    "version": "6.0.2",
     "description": "Send Matomo reports and alerts to Slack channels, keeping your team informed and ready to act in real time.",
     "homepage": "",
     "license": "GPL v3+",
@@ -1656,9 +1656,9 @@
     "displayName": "Visitor Avatar"
   },
   "VisitorGenerator": {
-    "sha256": "98d49662f2d26d9605881ef378c7266397db67fa57cd4e0f6f29a4a3601103d1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/6.0.1",
-    "version": "6.0.1",
+    "sha256": "0a743cd3e3b3f9fb72c983e4d7fa0b234dc7d373fbad47e1658ba131408a3187",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/VisitorGenerator/download/6.0.2",
+    "version": "6.0.2",
     "description": "Developer tool that lets you generate fake visits. Useful if you are working with plugins or themes or if you use the Matomo API.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
