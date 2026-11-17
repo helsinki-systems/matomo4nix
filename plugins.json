@@ -629,32 +629,59 @@
     "license": "GPL v3+",
     "displayName": "Feed Press"
   },
+  "FeinwerkCampaignScore": {
+    "sha256": "79908cb4ebd9db22aa44ba169a1b020936c64542d726718d171d47c5dc66bdf8",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkCampaignScore/download/5.4.0",
+    "version": "5.4.0",
+    "description": "One score for how clean your campaign tracking is, with every spelling variant, odd medium and missing value and a fix for each.",
+    "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkCampaignScore?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkCampaignScore",
+    "license": "GPL v3+",
+    "displayName": "Feinwerk Campaign Score"
+  },
   "FeinwerkDashboardSegment": {
-    "sha256": "b0bc0023366a7d03346dbe085a45a4a087a13a3995c246e4367699344325b883",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSegment/download/5.0.2",
-    "version": "5.0.2",
-    "description": "Give every dashboard widget its own segment, plus a dashboard-wide default segment that filters the whole dashboard.",
-    "homepage": "https://feinwerk.io",
+    "sha256": "d3124c207515a1ea57319156a7e733344e74b3103fdc401b761b718d90a5ae52",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSegment/download/5.1.1",
+    "version": "5.1.1",
+    "description": "Give every dashboard widget its own segment and time range, plus one default segment for the whole dashboard. Compare audiences side by side.",
+    "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkDashboardSegment?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkDashboardSegment",
     "license": "GPL v3+",
     "displayName": "Feinwerk Dashboard Segment"
   },
   "FeinwerkDashboardSharing": {
-    "sha256": "885bf57d9cb1e49807ab6123db36c18656237cd0f689ec16d02b9d16105973fd",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSharing/download/5.0.1",
-    "version": "5.0.1",
-    "description": "Share a Matomo dashboard with your team. Recipients get an auto-synced, read-only copy that always reflects your current version.",
-    "homepage": "https://feinwerk.io",
+    "sha256": "4d7bf14a481eda5ac137952cdb94152c24c061ac8cfab724ee6fd292723a07c6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSharing/download/5.1.0",
+    "version": "5.1.0",
+    "description": "Share a dashboard with your team. Colleagues subscribe to a read-only copy that updates itself whenever you change the original.",
+    "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkDashboardSharing?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkDashboardSharing",
     "license": "GPL v3+",
     "displayName": "Feinwerk Dashboard Sharing"
   },
   "FeinwerkDataExploration": {
-    "sha256": "35600fdd153a3e9c0c020fd74db175b8dc1aaa83791df348bf3201325948f892",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDataExploration/download/5.0.1",
-    "version": "5.0.1",
-    "description": "Explore your raw data on the spot: a free-form table with a secondary dimension and up to five metrics, without creating or archiving a report.",
-    "homepage": "https://feinwerk.io",
+    "sha256": "024015d39a4afbc48ce6d4c62033887fb7c657a0b3b7fc1a2557d8b7295d4f5e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDataExploration/download/5.3.0",
+    "version": "5.3.0",
+    "description": "Ad hoc analysis from your raw data: free-form tables with a second dimension, funnels, trends and comparisons, without setting up a report.",
+    "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkDataExploration?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkDataExploration",
     "license": "GPL v3+",
     "displayName": "Feinwerk Data Exploration"
+  },
+  "FeinwerkDeleteVisitsFilter": {
+    "sha256": "174c412db87e406c8ed424a4918331a0e0793ec3043c1bcaed12a38438b4f02e",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDeleteVisitsFilter/download/5.0.4",
+    "version": "5.0.4",
+    "description": "Remove bots, spam and test traffic from Matomo: delete visits by segment, date range and website, check them first, safe for millions of visits.",
+    "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkDeleteVisitsFilter?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkDeleteVisitsFilter",
+    "license": "GPL v3+",
+    "displayName": "Feinwerk Delete Visits Filter"
+  },
+  "FeinwerkMarketplaceConnector": {
+    "sha256": "e702804012a5eb13d704bf591ba42125947ea69292c4b7af97ee5d2f6886beab",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkMarketplaceConnector/download/5.8.0",
+    "version": "5.8.0",
+    "description": "Free and paid Plugins for Matomo by Feinwerk, one click away: discover, install, update and license them right in your Matomo administration.",
+    "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkMarketplaceConnector?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkMarketplaceConnector",
+    "license": "GPL v3+",
+    "displayName": "Feinwerk Marketplace Connector"
   },
   "FlagCounter": {
     "sha256": "8ec5b010df50df083e5770822356078957d6e1e0dac668cbb86acc168db8e377",
@@ -810,18 +837,18 @@
     "displayName": "Release Channel for IE 11"
   },
   "IP2Location": {
-    "sha256": "88afdf8abf883da07631e44582d2417db0b40d3cf369f4198424d57ffb7858ff",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/5.5.4",
-    "version": "5.5.4",
+    "sha256": "c3694f186b233a57b939e3be7b5e7f3c100a1773cbec7d0974e4c3f6fb4f6f66",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Location/download/6.0.0",
+    "version": "6.0.0",
     "description": "Use the IP2Location geolocation service to lookup your visitors' locations. You can configure the settings under System → IP2Location.",
     "homepage": "https://www.ip2location.com/developers/piwik",
     "license": "GPL-3.0+",
     "displayName": "IP 2 Location"
   },
   "IP2Proxy": {
-    "sha256": "dbda6160160b34559180b3adbf0fb74c635d798bfe3211326a1e0d19cd0dbb98",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Proxy/download/5.1.2",
-    "version": "5.1.2",
+    "sha256": "f28728aa6c5f9771f0e258705c36b0c99571fc9004c85aafcc5c725aecf73b78",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/IP2Proxy/download/6.0.1",
+    "version": "6.0.1",
     "description": "Get the proxy details of visitors to your website.",
     "homepage": "https://github.com/ip2location/ip2proxy-matomo",
     "license": "GPL-3.0+",
