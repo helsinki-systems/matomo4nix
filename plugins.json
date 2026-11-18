@@ -396,9 +396,9 @@
     "displayName": "DDBotTracker"
   },
   "DataExport": {
-    "sha256": "c64bd84a8024b0a86738e9c2b1e9692e85c5932136cfb2fd641ebfeaf2b44ab5",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExport/download/1.1.10",
-    "version": "1.1.10",
+    "sha256": "531270b4671fa4942a70d2a27d06127271afe163a202fbce775ef102cabee3b1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExport/download/2.0.0",
+    "version": "2.0.0",
     "description": "Export database or connect to your BI tools.",
     "homepage": "https://jorgeuos.com",
     "license": "GPL v3+",
