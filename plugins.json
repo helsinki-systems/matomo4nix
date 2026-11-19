@@ -395,6 +395,15 @@
     "license": "GPL v3+",
     "displayName": "DDBotTracker"
   },
+  "DataExplorer": {
+    "sha256": "5c2bcf6844591fa6f207d2f49fc4ffe0c5438c9261227cfa0faab35a50130ee3",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExplorer/download/6.1.0",
+    "version": "6.1.0",
+    "description": "Explore your Matomo data like in GA4 Explorations, or with guarded raw SQL, then save, share and export it.",
+    "homepage": "https://openmost.com/matomo/extensions/data-explorer",
+    "license": "GPL v3+",
+    "displayName": "Data Explorer"
+  },
   "DataExport": {
     "sha256": "531270b4671fa4942a70d2a27d06127271afe163a202fbce775ef102cabee3b1",
     "url": "https://plugins.matomo.org/api/2.0/plugins/DataExport/download/2.0.0",
@@ -639,18 +648,18 @@
     "displayName": "Feinwerk Campaign Score"
   },
   "FeinwerkDashboardSegment": {
-    "sha256": "d3124c207515a1ea57319156a7e733344e74b3103fdc401b761b718d90a5ae52",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSegment/download/5.1.1",
-    "version": "5.1.1",
+    "sha256": "ae9a252fcf96af8c4da8442a9137e60b05bd76ab0526dedc01794b55e4159872",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSegment/download/5.2.0",
+    "version": "5.2.0",
     "description": "Give every dashboard widget its own segment and time range, plus one default segment for the whole dashboard. Compare audiences side by side.",
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkDashboardSegment?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkDashboardSegment",
     "license": "GPL v3+",
     "displayName": "Feinwerk Dashboard Segment"
   },
   "FeinwerkDashboardSharing": {
-    "sha256": "4d7bf14a481eda5ac137952cdb94152c24c061ac8cfab724ee6fd292723a07c6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSharing/download/5.1.0",
-    "version": "5.1.0",
+    "sha256": "6f1ea99da67ea2583196591d5bf29055f45ace6edc9a11f77e84cbbe2c5ee528",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSharing/download/5.2.0",
+    "version": "5.2.0",
     "description": "Share a dashboard with your team. Colleagues subscribe to a read-only copy that updates itself whenever you change the original.",
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkDashboardSharing?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkDashboardSharing",
     "license": "GPL v3+",
