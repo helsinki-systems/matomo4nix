@@ -639,18 +639,18 @@
     "displayName": "Feed Press"
   },
   "FeinwerkCampaignScore": {
-    "sha256": "79908cb4ebd9db22aa44ba169a1b020936c64542d726718d171d47c5dc66bdf8",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkCampaignScore/download/5.4.0",
-    "version": "5.4.0",
+    "sha256": "1c46627804a9bfb02d7a3394f554af01a8f43cbf029b289107bb0e2c219a1959",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkCampaignScore/download/5.5.0",
+    "version": "5.5.0",
     "description": "One score for how clean your campaign tracking is, with every spelling variant, odd medium and missing value and a fix for each.",
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkCampaignScore?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkCampaignScore",
     "license": "GPL v3+",
     "displayName": "Feinwerk Campaign Score"
   },
   "FeinwerkDashboardSegment": {
-    "sha256": "ae9a252fcf96af8c4da8442a9137e60b05bd76ab0526dedc01794b55e4159872",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSegment/download/5.2.0",
-    "version": "5.2.0",
+    "sha256": "7d1a09046ad08f68bb39ad784088b185c6f935acf0568557636b7ed6347d5d1d",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSegment/download/5.3.0",
+    "version": "5.3.0",
     "description": "Give every dashboard widget its own segment and time range, plus one default segment for the whole dashboard. Compare audiences side by side.",
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkDashboardSegment?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkDashboardSegment",
     "license": "GPL v3+",
@@ -682,6 +682,15 @@
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkDeleteVisitsFilter?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkDeleteVisitsFilter",
     "license": "GPL v3+",
     "displayName": "Feinwerk Delete Visits Filter"
+  },
+  "FeinwerkLiveDashboard": {
+    "sha256": "cc6a50dbcdd12b07c80b5322c59542449d8faf84de00b4d499bac3d1107dd052",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkLiveDashboard/download/5.1.1",
+    "version": "5.1.1",
+    "description": "See what happens on your website right now: live pages, top lists, campaigns, goals and a live map in one dashboard, fast even on busy sites.",
+    "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkLiveDashboard?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkLiveDashboard",
+    "license": "GPL v3+",
+    "displayName": "Feinwerk Live Dashboard"
   },
   "FeinwerkMarketplaceConnector": {
     "sha256": "e702804012a5eb13d704bf591ba42125947ea69292c4b7af97ee5d2f6886beab",
