@@ -396,10 +396,10 @@
     "displayName": "DDBotTracker"
   },
   "DataExplorer": {
-    "sha256": "5c2bcf6844591fa6f207d2f49fc4ffe0c5438c9261227cfa0faab35a50130ee3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExplorer/download/6.1.0",
-    "version": "6.1.0",
-    "description": "Explore your Matomo data like in GA4 Explorations, or with guarded raw SQL, then save, share and export it.",
+    "sha256": "2d465d669d9eabb9550354b691e2cd980229d82f5427e2533e4212e67acf7331",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExplorer/download/6.4.0",
+    "version": "6.4.0",
+    "description": "Build custom reports, funnels on any dimension and guarded raw SQL queries from your Matomo data, then save, share and export them.",
     "homepage": "https://openmost.com/matomo/extensions/data-explorer",
     "license": "GPL v3+",
     "displayName": "Data Explorer"
@@ -603,9 +603,9 @@
     "displayName": "Extra Api Information"
   },
   "ExtraTools": {
-    "sha256": "e0a50cd5ac4b786183708b777d059b2999195e6e165d8bc0532fdafd5c078e7f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.3.5",
-    "version": "5.3.5",
+    "sha256": "b602946fc688475bd72df7d6bb4efecb29989afe54a517e7a913458f485d45ce",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.4.1",
+    "version": "5.4.1",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://digitalist.cloud/matomo",
     "license": "GPL v3+",
@@ -1332,9 +1332,9 @@
     "displayName": "Rebel Notifications"
   },
   "RebelOIDC": {
-    "sha256": "346b76c5b3d8cfbaae93f1022bdc667c309c9c9d895f8d13bca2a75410a77399",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelOIDC/download/5.1.6",
-    "version": "5.1.6",
+    "sha256": "9215e442531f1c2150837d05ba7759b6fbea1a7fb26de4fc078ec5d64c4ef5e6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/RebelOIDC/download/5.2.0",
+    "version": "5.2.0",
     "description": "Adds OIDC login to your Matomo instance.",
     "homepage": "https://github.com/Digitalist-Open-Cloud/Matomo-Plugin-RebelOIDC",
     "license": "GPL v3+",
@@ -1395,9 +1395,9 @@
     "displayName": "Restrict Language Selection"
   },
   "SDG": {
-    "sha256": "ea873915360385242178dd98bc48e8d5427c5e180807cc51029dd40c106901eb",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SDG/download/5.1.1",
-    "version": "5.1.1",
+    "sha256": "bdd99c0fabd94756b06422d5e34bd9e27e62598e162f419cb1a57b68ebd326f1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SDG/download/5.2.0",
+    "version": "5.2.0",
     "description": "Single Digital Gateway (SDG) for Your Europe portal.",
     "homepage": "https://digitalist.cloud/services/eu/sdg-plugin-for-matomo",
     "license": "GPL v3+",
@@ -1674,9 +1674,9 @@
     "displayName": "Uptime Robot Monitor"
   },
   "UserConsole": {
-    "sha256": "e2a4968cbf2cea1c981f54774b05b2d0d1436b8f0ce81d0a20912e89278f066f",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/5.0.4",
-    "version": "5.0.4",
+    "sha256": "3acd4f8fa9086af7bbca385d2de3688040eb617dd07ae7b50b6d02439374a8e4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/5.0.6",
+    "version": "5.0.6",
     "description": "Use the console to manage users, like adding users, reset password etc.",
     "homepage": "https://digitalist.cloud",
     "license": "GPL v3+",
