@@ -54,9 +54,9 @@
     "displayName": "GTheme"
   },
   "GoogleTheme": {
-    "sha256": "a81dd8f9e20c514739777a4e38eb85112be03fb09f869dd1d23e21222ad287a3",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/6.0.3",
-    "version": "6.0.3",
+    "sha256": "df469596d54659080392cbf381de1cfa5670871eb7d8400d6cef66764407cae0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/GoogleTheme/download/6.1.1",
+    "version": "6.1.1",
     "description": "A Google Analytics inspired theme for Matomo, in light and dark mode.",
     "homepage": "https://openmost.com/matomo/extensions/google-theme",
     "license": "GPL v3+",

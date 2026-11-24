@@ -396,9 +396,9 @@
     "displayName": "DDBotTracker"
   },
   "DataExplorer": {
-    "sha256": "9a31d864f80f3bbf6f365c2b50555d96d69b0bdefcd621aedb956ab814194ce2",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExplorer/download/6.5.0",
-    "version": "6.5.0",
+    "sha256": "826a5596a87e290fbe6d3b8f4205da539078ab783418447e2b0760cb8d0226af",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExplorer/download/6.5.2",
+    "version": "6.5.2",
     "description": "Build custom reports, funnels on any dimension and guarded raw SQL queries from your Matomo data, then save, share and export them.",
     "homepage": "https://openmost.com/matomo/extensions/data-explorer",
     "license": "GPL v3+",
@@ -603,9 +603,9 @@
     "displayName": "Extra Api Information"
   },
   "ExtraTools": {
-    "sha256": "7787508c24f76e26ad93ebcc87d70c343faadddc9927d02108c9e355ced10180",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.4.2",
-    "version": "5.4.2",
+    "sha256": "faee56137adb6cc2047579afcb6e056f3eb638862a1a30fda6771b03c8499d77",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.4.4",
+    "version": "5.4.4",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://digitalist.cloud/matomo",
     "license": "GPL v3+",
@@ -648,9 +648,9 @@
     "displayName": "Feinwerk Campaign Score"
   },
   "FeinwerkDashboardSegment": {
-    "sha256": "6ed57cada5703c9113c3339bb93a385f60e07c4fdabc1e192288e0469d470613",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSegment/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "5ca9c11a1d5b6c9ccc4cdf84c4044daed96755043ee4bc6d746f8ba9db205661",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDashboardSegment/download/6.1.0",
+    "version": "6.1.0",
     "description": "Give every dashboard widget its own segment and time range, plus one default segment for the whole dashboard. Compare audiences side by side.",
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkDashboardSegment?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkDashboardSegment",
     "license": "GPL v3+",
@@ -675,9 +675,9 @@
     "displayName": "Feinwerk Data Exploration"
   },
   "FeinwerkDeleteVisitsFilter": {
-    "sha256": "c3a41680df3d7b0bdb50315a7677ee2431234ff3b583d2a5ffddbc06afd8da5d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDeleteVisitsFilter/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "5b9d36b936457ba941071991cde955e73ea7efd7e5bf2314491868767df6e8e6",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDeleteVisitsFilter/download/6.1.0",
+    "version": "6.1.0",
     "description": "Remove bots, spam and test traffic from Matomo: delete visits by segment, date range and website, check them first, safe for millions of visits.",
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkDeleteVisitsFilter?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkDeleteVisitsFilter",
     "license": "GPL v3+",
@@ -693,9 +693,9 @@
     "displayName": "Feinwerk Live Dashboard"
   },
   "FeinwerkMarketplaceConnector": {
-    "sha256": "e702804012a5eb13d704bf591ba42125947ea69292c4b7af97ee5d2f6886beab",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkMarketplaceConnector/download/5.8.0",
-    "version": "5.8.0",
+    "sha256": "16c95b90712c4f57b3751532ec8681eb710a2f1a1025e75a03a7f1d7ae54c9a1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkMarketplaceConnector/download/5.9.0",
+    "version": "5.9.0",
     "description": "Free and paid Plugins for Matomo by Feinwerk, one click away: discover, install, update and license them right in your Matomo administration.",
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkMarketplaceConnector?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkMarketplaceConnector",
     "license": "GPL v3+",
@@ -1116,9 +1116,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "71500d2df6e39812812e9206f8fd5d7666ccad3ba0ef25706acd2089613fd652",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/6.0.3",
-    "version": "6.0.3",
+    "sha256": "7209711e40d56daf49921b9b27a9db76b6f990a2c6566456e00943bd28b7abe1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/6.1.0",
+    "version": "6.1.0",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1512,9 +1512,9 @@
     "displayName": "Site Access Provisioner"
   },
   "SiteGroups": {
-    "sha256": "ced0a160378fe2d5aa3d9c3f3280e1491b17da66d5089da1b35edf4533cb914d",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteGroups/download/6.0.2",
-    "version": "6.0.2",
+    "sha256": "0100fd6da9462c4e57e1558c669bb9852b1457fa66964e2adc25938120172f6a",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/SiteGroups/download/6.0.3",
+    "version": "6.0.3",
     "description": "Organize your websites into groups and browse them by group in the website selector and All Websites.",
     "homepage": "https://openmost.com/matomo/extensions/site-groups",
     "license": "GPL v3+",
@@ -1674,9 +1674,9 @@
     "displayName": "Uptime Robot Monitor"
   },
   "UserConsole": {
-    "sha256": "f9965d2bfecea7b26bc3ac22fc42ab8d722080a15a7a22e5ba21caf4d28efc76",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/5.0.7",
-    "version": "5.0.7",
+    "sha256": "be1def0c81767dd40d6502a6184c3c57140ff9b365497edc2d9cb3904fe769e1",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/5.0.8",
+    "version": "5.0.8",
     "description": "Use the console to manage users, like adding users, reset password etc.",
     "homepage": "https://digitalist.cloud",
     "license": "GPL v3+",
