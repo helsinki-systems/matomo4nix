@@ -396,9 +396,9 @@
     "displayName": "DDBotTracker"
   },
   "DataExplorer": {
-    "sha256": "826a5596a87e290fbe6d3b8f4205da539078ab783418447e2b0760cb8d0226af",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExplorer/download/6.5.2",
-    "version": "6.5.2",
+    "sha256": "7ef874a316b7608e131e01105106a09d33a263acf069f0aa08197cb8c718ff52",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/DataExplorer/download/6.5.3",
+    "version": "6.5.3",
     "description": "Build custom reports, funnels on any dimension and guarded raw SQL queries from your Matomo data, then save, share and export them.",
     "homepage": "https://openmost.com/matomo/extensions/data-explorer",
     "license": "GPL v3+",
@@ -504,9 +504,9 @@
     "displayName": "Dynamic Device Detector Cache"
   },
   "EcommerceEnhanced": {
-    "sha256": "5eb60fbcecee0fcb352cdb7d134e24d9c9d9251865feb9f752454dd9899c62fa",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EcommerceEnhanced/download/6.0.4",
-    "version": "6.0.4",
+    "sha256": "ba07d4a4b2215abb8977df883c601ce5aba8d7a953c579257b912fb198114dc4",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EcommerceEnhanced/download/6.0.5",
+    "version": "6.0.5",
     "description": "Reads your shop's GA4 dataLayer and adds brands, variants, item lists, promotions, coupons, checkout funnels and buyer reports to Matomo ecommerce.",
     "homepage": "https://openmost.com/matomo/extensions/ecommerce-enhanced",
     "license": "GPL-3.0+",
@@ -603,9 +603,9 @@
     "displayName": "Extra Api Information"
   },
   "ExtraTools": {
-    "sha256": "faee56137adb6cc2047579afcb6e056f3eb638862a1a30fda6771b03c8499d77",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.4.4",
-    "version": "5.4.4",
+    "sha256": "65272ffa8a00493f7e81965b60e4893d4d965c9ac988d897e5928f1a248898b5",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/ExtraTools/download/5.4.5",
+    "version": "5.4.5",
     "description": "Adds automatic installation from the console, db backups etc.",
     "homepage": "https://digitalist.cloud/matomo",
     "license": "GPL v3+",
@@ -639,9 +639,9 @@
     "displayName": "Feed Press"
   },
   "FeinwerkCampaignScore": {
-    "sha256": "26c35a7395729474fe04c6e8f667094b5bceae5795e59183083dfe0494d70f60",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkCampaignScore/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "b5f2e51b959659d5feb9eb99c3816bb995049f9a7b04517c04ef14e34fe5604b",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkCampaignScore/download/6.2.0",
+    "version": "6.2.0",
     "description": "One score for how clean your campaign tracking is, with every spelling variant, odd medium and missing value and a fix for each.",
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkCampaignScore?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkCampaignScore",
     "license": "GPL v3+",
@@ -666,9 +666,9 @@
     "displayName": "Feinwerk Dashboard Sharing"
   },
   "FeinwerkDataExploration": {
-    "sha256": "09958cb58661d9ca1542f48c53dd1e10e60ae817dab5b20a054ed17e4dca9ae6",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDataExploration/download/6.0.0",
-    "version": "6.0.0",
+    "sha256": "02e15ef3dac63d592fcafea0c348fafd173c9b5cdabac87046f920c57e492158",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDataExploration/download/6.2.0",
+    "version": "6.2.0",
     "description": "Ad hoc analysis from your raw data: free-form tables with a second dimension, trends and comparisons, without setting up a report.",
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkDataExploration?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkDataExploration",
     "license": "GPL v3+",
@@ -1116,9 +1116,9 @@
     "displayName": "Login Token Auth"
   },
   "MarketingCampaignsReporting": {
-    "sha256": "7209711e40d56daf49921b9b27a9db76b6f990a2c6566456e00943bd28b7abe1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/6.1.0",
-    "version": "6.1.0",
+    "sha256": "a6131e2e8e0051a6c49593c1aed6109885062ec5e1b2e3943bd95b0c3f84f9cf",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/MarketingCampaignsReporting/download/6.1.1",
+    "version": "6.1.1",
     "description": "Measure the effectiveness of your marketing campaigns. New reports, segments & track up to five channels: campaign, source, medium, keyword, content.",
     "homepage": "https://matomo.org",
     "license": "GPL v3+",
@@ -1674,9 +1674,9 @@
     "displayName": "Uptime Robot Monitor"
   },
   "UserConsole": {
-    "sha256": "be1def0c81767dd40d6502a6184c3c57140ff9b365497edc2d9cb3904fe769e1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/5.0.8",
-    "version": "5.0.8",
+    "sha256": "a6f1df5e13d0ca612998351a696e5f0e3bc31178b455c4409cf9c0f5eec82132",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/UserConsole/download/5.0.9",
+    "version": "5.0.9",
     "description": "Use the console to manage users, like adding users, reset password etc.",
     "homepage": "https://digitalist.cloud",
     "license": "GPL v3+",
