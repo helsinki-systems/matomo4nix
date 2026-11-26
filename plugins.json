@@ -639,9 +639,9 @@
     "displayName": "Feed Press"
   },
   "FeinwerkCampaignScore": {
-    "sha256": "b5f2e51b959659d5feb9eb99c3816bb995049f9a7b04517c04ef14e34fe5604b",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkCampaignScore/download/6.2.0",
-    "version": "6.2.0",
+    "sha256": "62a6d276c99ea91291b57755aacf6f079a196843c2ff753c93658b30bc0d6412",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkCampaignScore/download/6.4.0",
+    "version": "6.4.0",
     "description": "One score for how clean your campaign tracking is, with every spelling variant, odd medium and missing value and a fix for each.",
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkCampaignScore?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkCampaignScore",
     "license": "GPL v3+",
@@ -693,9 +693,9 @@
     "displayName": "Feinwerk Live Dashboard"
   },
   "FeinwerkMarketplaceConnector": {
-    "sha256": "16c95b90712c4f57b3751532ec8681eb710a2f1a1025e75a03a7f1d7ae54c9a1",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkMarketplaceConnector/download/5.9.0",
-    "version": "5.9.0",
+    "sha256": "8a7bc3b7c40c2ce83fe8437b40a097958f2e6049ee9def099edff001ecff4c75",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkMarketplaceConnector/download/5.10.2",
+    "version": "5.10.2",
     "description": "Free and paid Plugins for Matomo by Feinwerk, one click away: discover, install, update and license them right in your Matomo administration.",
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkMarketplaceConnector?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkMarketplaceConnector",
     "license": "GPL v3+",
