@@ -90,9 +90,9 @@
     "displayName": "Ask Your Database"
   },
   "AsyntaiChat": {
-    "sha256": "15ff70f0193ccb85dac51e7ca9937b209870ba263bf436562b18be8a5da35827",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/AsyntaiChat/download/0.1.1",
-    "version": "0.1.1",
+    "sha256": "4c9dd53f9ae208bb844a8e8cabd570f89c80b734755bee225c04c75a8f684ef0",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/AsyntaiChat/download/1.0.0",
+    "version": "1.0.0",
     "description": "Adds an Asyntai AI chat widget tag to Tag Manager, so the assistant goes live without editing your site.",
     "homepage": "https://asyntai.com/documentation/integrations/matomo/",
     "license": "GPL-3.0+",
@@ -531,9 +531,9 @@
     "displayName": "Endpoint"
   },
   "EnhancedAttribution": {
-    "sha256": "7629abf63318ed9c450fb3637b827010b35cd336afa0ecee12df8bc0c39f7697",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EnhancedAttribution/download/1.2.2",
-    "version": "1.2.2",
+    "sha256": "6fb5e19b71afa045042c4ab90a8626946b909d3b59d71596588959bb45a89c36",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EnhancedAttribution/download/2.0.1",
+    "version": "2.0.1",
     "description": "Enhanced attribution tracking with goal URL analysis.",
     "homepage": "https://carnaby.solutions/enhanced-attribution-matomo-plugin/",
     "license": "GPL-3.0+",
@@ -549,9 +549,9 @@
     "displayName": "Environment Variables"
   },
   "EventIcons": {
-    "sha256": "931bf72d6f6169a3906a83771d0acff52715db3cefa6dbc632d617caa67bc0ff",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/EventIcons/download/1.0.3",
-    "version": "1.0.3",
+    "sha256": "6f851007bb5d220903c25286c2b7b91154b674cce694cd98294a1f85d7e12195",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/EventIcons/download/2.0.0",
+    "version": "2.0.0",
     "description": "Replace generic event icons in the visitor log and live widget with specific Material Design icons per category and action.",
     "homepage": "",
     "license": "GPL-3.0+",
@@ -630,9 +630,9 @@
     "displayName": "Feature Support"
   },
   "FeedPress": {
-    "sha256": "788f523375bcdd2ed09af4f463440e4bc0817a7805b82d0a902bef478b30088a",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeedPress/download/2.0.0",
-    "version": "2.0.0",
+    "sha256": "07a1ff692c887d06a018bbf07a30b3d69e60ca8281af49f7a139da158217650c",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeedPress/download/3.0.0",
+    "version": "3.0.0",
     "description": "Displays your FeedPress feed analytics.",
     "homepage": "https://feedpress.com",
     "license": "GPL v3+",
@@ -666,9 +666,9 @@
     "displayName": "Feinwerk Dashboard Sharing"
   },
   "FeinwerkDataExploration": {
-    "sha256": "02e15ef3dac63d592fcafea0c348fafd173c9b5cdabac87046f920c57e492158",
-    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDataExploration/download/6.2.0",
-    "version": "6.2.0",
+    "sha256": "2e41c345bf6d64efc923755f761bc3c7e46f8a127fdd62d80f0b135c6bad5c41",
+    "url": "https://plugins.matomo.org/api/2.0/plugins/FeinwerkDataExploration/download/6.3.0",
+    "version": "6.3.0",
     "description": "Ad hoc analysis from your raw data: free-form tables with a second dimension, trends and comparisons, without setting up a report.",
     "homepage": "https://plugins.feinwerk.io/en/plugins/FeinwerkDataExploration?mtm_campaign=matomo-marketplace&mtm_source=FeinwerkDataExploration",
     "license": "GPL v3+",
